@@ -1,0 +1,390 @@
+8 nodes available
+memory with no policy,backward,Avg,5847.55,MB/s,Max,5849.80,MB/s,Min,5845.56,MB/s
+local memory,backward,Avg,5833.01,MB/s,Max,5836.45,MB/s,Min,5827.69,MB/s
+memory interleaved on all nodes,backward,Avg,3575.45,MB/s,Max,3578.64,MB/s,Min,3569.99,MB/s
+memory on node 0,backward,Avg,2162.34,MB/s,Max,2183.12,MB/s,Min,2153.75,MB/s
+memory on node 1,backward,Avg,2919.69,MB/s,Max,2924.33,MB/s,Min,2912.79,MB/s
+memory on node 2,backward,Avg,3019.39,MB/s,Max,3040.94,MB/s,Min,3010.12,MB/s
+memory on node 3,backward,Avg,2069.30,MB/s,Max,2077.75,MB/s,Min,2064.45,MB/s
+memory on node 4,backward,Avg,2026.15,MB/s,Max,2027.64,MB/s,Min,2025.06,MB/s
+memory on node 5,backward,Avg,2859.37,MB/s,Max,2866.37,MB/s,Min,2834.53,MB/s
+memory on node 6,backward,Avg,4776.96,MB/s,Max,4783.43,MB/s,Min,4765.60,MB/s
+memory on node 7,backward,Avg,5841.16,MB/s,Max,5845.88,MB/s,Min,5834.82,MB/s
+memory interleaved on 0 1,backward,Avg,2398.43,MB/s,Max,2405.82,MB/s,Min,2394.50,MB/s
+memory interleaved on 0 2,backward,Avg,3866.66,MB/s,Max,3871.57,MB/s,Min,3860.74,MB/s
+memory interleaved on 1 2,backward,Avg,3662.43,MB/s,Max,3664.04,MB/s,Min,3660.97,MB/s
+memory interleaved on 0 1 2,backward,Avg,3427.30,MB/s,Max,3439.31,MB/s,Min,3424.37,MB/s
+memory interleaved on 0 3,backward,Avg,3653.24,MB/s,Max,3658.42,MB/s,Min,3650.40,MB/s
+memory interleaved on 1 3,backward,Avg,3403.04,MB/s,Max,3404.80,MB/s,Min,3400.27,MB/s
+memory interleaved on 0 1 3,backward,Avg,3353.75,MB/s,Max,3358.56,MB/s,Min,3345.06,MB/s
+memory interleaved on 2 3,backward,Avg,2376.53,MB/s,Max,2380.53,MB/s,Min,2370.90,MB/s
+memory interleaved on 0 2 3,backward,Avg,3441.45,MB/s,Max,3444.05,MB/s,Min,3436.83,MB/s
+memory interleaved on 1 2 3,backward,Avg,3237.00,MB/s,Max,3241.35,MB/s,Min,3230.86,MB/s
+memory interleaved on 0 1 2 3,backward,Avg,3733.79,MB/s,Max,3736.11,MB/s,Min,3727.21,MB/s
+memory interleaved on 0 4,backward,Avg,2677.14,MB/s,Max,2678.42,MB/s,Min,2675.42,MB/s
+memory interleaved on 1 4,backward,Avg,2513.20,MB/s,Max,2514.27,MB/s,Min,2507.96,MB/s
+memory interleaved on 0 1 4,backward,Avg,2717.29,MB/s,Max,2721.03,MB/s,Min,2715.46,MB/s
+memory interleaved on 2 4,backward,Avg,2749.93,MB/s,Max,2753.76,MB/s,Min,2746.62,MB/s
+memory interleaved on 0 2 4,backward,Avg,3176.06,MB/s,Max,3179.04,MB/s,Min,3171.35,MB/s
+memory interleaved on 1 2 4,backward,Avg,2972.77,MB/s,Max,2974.18,MB/s,Min,2966.52,MB/s
+memory interleaved on 0 1 2 4,backward,Avg,3133.41,MB/s,Max,3142.55,MB/s,Min,3128.96,MB/s
+memory interleaved on 3 4,backward,Avg,2667.19,MB/s,Max,2669.42,MB/s,Min,2662.44,MB/s
+memory interleaved on 0 3 4,backward,Avg,3049.02,MB/s,Max,3054.31,MB/s,Min,3029.60,MB/s
+memory interleaved on 1 3 4,backward,Avg,2861.74,MB/s,Max,2863.32,MB/s,Min,2855.29,MB/s
+memory interleaved on 0 1 3 4,backward,Avg,3074.10,MB/s,Max,3075.45,MB/s,Min,3070.14,MB/s
+memory interleaved on 2 3 4,backward,Avg,2758.52,MB/s,Max,2761.45,MB/s,Min,2754.12,MB/s
+memory interleaved on 0 2 3 4,backward,Avg,3289.33,MB/s,Max,3292.03,MB/s,Min,3287.59,MB/s
+memory interleaved on 1 2 3 4,backward,Avg,3125.85,MB/s,Max,3127.56,MB/s,Min,3124.85,MB/s
+memory interleaved on 0 1 2 3 4,backward,Avg,3256.97,MB/s,Max,3257.86,MB/s,Min,3255.84,MB/s
+memory interleaved on 0 5,backward,Avg,3399.41,MB/s,Max,3401.15,MB/s,Min,3397.85,MB/s
+memory interleaved on 1 5,backward,Avg,3068.56,MB/s,Max,3070.41,MB/s,Min,3065.83,MB/s
+memory interleaved on 0 1 5,backward,Avg,3126.99,MB/s,Max,3130.64,MB/s,Min,3117.51,MB/s
+memory interleaved on 2 5,backward,Avg,3637.35,MB/s,Max,3638.36,MB/s,Min,3636.34,MB/s
+memory interleaved on 0 2 5,backward,Avg,3755.77,MB/s,Max,3758.20,MB/s,Min,3749.20,MB/s
+memory interleaved on 1 2 5,backward,Avg,3472.04,MB/s,Max,3473.83,MB/s,Min,3469.69,MB/s
+memory interleaved on 0 1 2 5,backward,Avg,3555.45,MB/s,Max,3561.26,MB/s,Min,3522.73,MB/s
+memory interleaved on 3 5,backward,Avg,3361.07,MB/s,Max,3362.87,MB/s,Min,3357.59,MB/s
+memory interleaved on 0 3 5,backward,Avg,3583.80,MB/s,Max,3587.33,MB/s,Min,3577.66,MB/s
+memory interleaved on 1 3 5,backward,Avg,3320.33,MB/s,Max,3322.27,MB/s,Min,3313.87,MB/s
+memory interleaved on 0 1 3 5,backward,Avg,3471.84,MB/s,Max,3474.75,MB/s,Min,3459.16,MB/s
+memory interleaved on 2 3 5,backward,Avg,3175.45,MB/s,Max,3180.68,MB/s,Min,3172.31,MB/s
+memory interleaved on 0 2 3 5,backward,Avg,3753.22,MB/s,Max,3755.64,MB/s,Min,3748.39,MB/s
+memory interleaved on 1 2 3 5,backward,Avg,3539.13,MB/s,Max,3541.53,MB/s,Min,3536.75,MB/s
+memory interleaved on 0 1 2 3 5,backward,Avg,3622.51,MB/s,Max,3623.90,MB/s,Min,3619.90,MB/s
+memory interleaved on 4 5,backward,Avg,2184.81,MB/s,Max,2191.29,MB/s,Min,2177.86,MB/s
+memory interleaved on 0 4 5,backward,Avg,2764.99,MB/s,Max,2767.57,MB/s,Min,2756.87,MB/s
+memory interleaved on 1 4 5,backward,Avg,2620.84,MB/s,Max,2622.42,MB/s,Min,2618.36,MB/s
+memory interleaved on 0 1 4 5,backward,Avg,2901.28,MB/s,Max,2905.61,MB/s,Min,2873.83,MB/s
+memory interleaved on 2 4 5,backward,Avg,2801.79,MB/s,Max,2804.58,MB/s,Min,2800.68,MB/s
+memory interleaved on 0 2 4 5,backward,Avg,3136.55,MB/s,Max,3139.54,MB/s,Min,3121.13,MB/s
+memory interleaved on 1 2 4 5,backward,Avg,2991.44,MB/s,Max,2992.26,MB/s,Min,2990.80,MB/s
+memory interleaved on 0 1 2 4 5,backward,Avg,3097.95,MB/s,Max,3099.45,MB/s,Min,3096.43,MB/s
+memory interleaved on 3 4 5,backward,Avg,2759.55,MB/s,Max,2761.59,MB/s,Min,2757.16,MB/s
+memory interleaved on 0 3 4 5,backward,Avg,3054.45,MB/s,Max,3055.29,MB/s,Min,3052.89,MB/s
+memory interleaved on 1 3 4 5,backward,Avg,2913.26,MB/s,Max,2914.74,MB/s,Min,2904.56,MB/s
+memory interleaved on 0 1 3 4 5,backward,Avg,3043.92,MB/s,Max,3045.18,MB/s,Min,3043.14,MB/s
+memory interleaved on 2 3 4 5,backward,Avg,3085.94,MB/s,Max,3088.77,MB/s,Min,3073.74,MB/s
+memory interleaved on 0 2 3 4 5,backward,Avg,3225.06,MB/s,Max,3226.88,MB/s,Min,3220.05,MB/s
+memory interleaved on 1 2 3 4 5,backward,Avg,3118.83,MB/s,Max,3122.99,MB/s,Min,3108.46,MB/s
+memory interleaved on 0 1 2 3 4 5,backward,Avg,3235.94,MB/s,Max,3236.75,MB/s,Min,3232.95,MB/s
+memory interleaved on 0 6,backward,Avg,3861.86,MB/s,Max,3867.29,MB/s,Min,3855.91,MB/s
+memory interleaved on 1 6,backward,Avg,3872.84,MB/s,Max,3876.87,MB/s,Min,3870.14,MB/s
+memory interleaved on 0 1 6,backward,Avg,3429.17,MB/s,Max,3434.35,MB/s,Min,3425.38,MB/s
+memory interleaved on 2 6,backward,Avg,4819.09,MB/s,Max,4825.25,MB/s,Min,4815.50,MB/s
+memory interleaved on 0 2 6,backward,Avg,4473.94,MB/s,Max,4483.78,MB/s,Min,4413.20,MB/s
+memory interleaved on 1 2 6,backward,Avg,4111.43,MB/s,Max,4113.35,MB/s,Min,4108.04,MB/s
+memory interleaved on 0 1 2 6,backward,Avg,4023.71,MB/s,Max,4025.55,MB/s,Min,4022.00,MB/s
+memory interleaved on 3 6,backward,Avg,3844.56,MB/s,Max,3856.19,MB/s,Min,3829.44,MB/s
+memory interleaved on 0 3 6,backward,Avg,4205.95,MB/s,Max,4216.40,MB/s,Min,4199.01,MB/s
+memory interleaved on 1 3 6,backward,Avg,3872.53,MB/s,Max,3876.58,MB/s,Min,3870.28,MB/s
+memory interleaved on 0 1 3 6,backward,Avg,3908.97,MB/s,Max,3910.26,MB/s,Min,3906.62,MB/s
+memory interleaved on 2 3 6,backward,Avg,3445.25,MB/s,Max,3447.90,MB/s,Min,3443.83,MB/s
+memory interleaved on 0 2 3 6,backward,Avg,4122.67,MB/s,Max,4129.72,MB/s,Min,4116.58,MB/s
+memory interleaved on 1 2 3 6,backward,Avg,3875.78,MB/s,Max,3877.73,MB/s,Min,3873.86,MB/s
+memory interleaved on 0 1 2 3 6,backward,Avg,3963.35,MB/s,Max,3965.57,MB/s,Min,3961.38,MB/s
+memory interleaved on 4 6,backward,Avg,2705.60,MB/s,Max,2708.03,MB/s,Min,2701.05,MB/s
+memory interleaved on 0 4 6,backward,Avg,3169.72,MB/s,Max,3175.39,MB/s,Min,3164.08,MB/s
+memory interleaved on 1 4 6,backward,Avg,2983.50,MB/s,Max,2985.69,MB/s,Min,2981.45,MB/s
+memory interleaved on 0 1 4 6,backward,Avg,3216.96,MB/s,Max,3217.77,MB/s,Min,3216.29,MB/s
+memory interleaved on 2 4 6,backward,Avg,3305.19,MB/s,Max,3310.42,MB/s,Min,3303.23,MB/s
+memory interleaved on 0 2 4 6,backward,Avg,3527.15,MB/s,Max,3528.90,MB/s,Min,3522.61,MB/s
+memory interleaved on 1 2 4 6,backward,Avg,3352.21,MB/s,Max,3354.69,MB/s,Min,3342.50,MB/s
+memory interleaved on 0 1 2 4 6,backward,Avg,3433.55,MB/s,Max,3437.39,MB/s,Min,3417.78,MB/s
+memory interleaved on 3 4 6,backward,Avg,3173.50,MB/s,Max,3178.27,MB/s,Min,3172.12,MB/s
+memory interleaved on 0 3 4 6,backward,Avg,3418.62,MB/s,Max,3419.57,MB/s,Min,3417.67,MB/s
+memory interleaved on 1 3 4 6,backward,Avg,3252.70,MB/s,Max,3255.74,MB/s,Min,3241.05,MB/s
+memory interleaved on 0 1 3 4 6,backward,Avg,3362.26,MB/s,Max,3363.95,MB/s,Min,3359.64,MB/s
+memory interleaved on 2 3 4 6,backward,Avg,3468.41,MB/s,Max,3470.84,MB/s,Min,3465.11,MB/s
+memory interleaved on 0 2 3 4 6,backward,Avg,3554.99,MB/s,Max,3557.27,MB/s,Min,3553.65,MB/s
+memory interleaved on 1 2 3 4 6,backward,Avg,3418.26,MB/s,Max,3420.46,MB/s,Min,3416.56,MB/s
+memory interleaved on 0 1 2 3 4 6,backward,Avg,3423.13,MB/s,Max,3424.82,MB/s,Min,3419.34,MB/s
+memory interleaved on 5 6,backward,Avg,3807.74,MB/s,Max,3810.92,MB/s,Min,3802.36,MB/s
+memory interleaved on 0 5 6,backward,Avg,3846.43,MB/s,Max,3850.67,MB/s,Min,3836.58,MB/s
+memory interleaved on 1 5 6,backward,Avg,3567.43,MB/s,Max,3569.26,MB/s,Min,3558.11,MB/s
+memory interleaved on 0 1 5 6,backward,Avg,3659.43,MB/s,Max,3671.10,MB/s,Min,3649.38,MB/s
+memory interleaved on 2 5 6,backward,Avg,4042.27,MB/s,Max,4047.31,MB/s,Min,4036.56,MB/s
+memory interleaved on 0 2 5 6,backward,Avg,4078.71,MB/s,Max,4089.61,MB/s,Min,4009.08,MB/s
+memory interleaved on 1 2 5 6,backward,Avg,3847.19,MB/s,Max,3849.68,MB/s,Min,3843.89,MB/s
+memory interleaved on 0 1 2 5 6,backward,Avg,3851.62,MB/s,Max,3853.08,MB/s,Min,3850.39,MB/s
+memory interleaved on 3 5 6,backward,Avg,3846.28,MB/s,Max,3847.28,MB/s,Min,3843.05,MB/s
+memory interleaved on 0 3 5 6,backward,Avg,3940.59,MB/s,Max,3942.90,MB/s,Min,3939.35,MB/s
+memory interleaved on 1 3 5 6,backward,Avg,3713.29,MB/s,Max,3717.43,MB/s,Min,3695.68,MB/s
+memory interleaved on 0 1 3 5 6,backward,Avg,3763.30,MB/s,Max,3764.68,MB/s,Min,3762.11,MB/s
+memory interleaved on 2 3 5 6,backward,Avg,3998.31,MB/s,Max,3999.91,MB/s,Min,3995.79,MB/s
+memory interleaved on 0 2 3 5 6,backward,Avg,4003.28,MB/s,Max,4006.02,MB/s,Min,4000.82,MB/s
+memory interleaved on 1 2 3 5 6,backward,Avg,3829.65,MB/s,Max,3832.93,MB/s,Min,3826.64,MB/s
+memory interleaved on 0 1 2 3 5 6,backward,Avg,3799.89,MB/s,Max,3801.39,MB/s,Min,3797.95,MB/s
+memory interleaved on 4 5 6,backward,Avg,2822.89,MB/s,Max,2827.26,MB/s,Min,2805.25,MB/s
+memory interleaved on 0 4 5 6,backward,Avg,3143.26,MB/s,Max,3146.14,MB/s,Min,3141.24,MB/s
+memory interleaved on 1 4 5 6,backward,Avg,2998.98,MB/s,Max,3000.56,MB/s,Min,2995.93,MB/s
+memory interleaved on 0 1 4 5 6,backward,Avg,3126.41,MB/s,Max,3128.40,MB/s,Min,3124.67,MB/s
+memory interleaved on 2 4 5 6,backward,Avg,3249.66,MB/s,Max,3251.90,MB/s,Min,3243.95,MB/s
+memory interleaved on 0 2 4 5 6,backward,Avg,3344.94,MB/s,Max,3349.23,MB/s,Min,3331.03,MB/s
+memory interleaved on 1 2 4 5 6,backward,Avg,3224.29,MB/s,Max,3228.08,MB/s,Min,3220.24,MB/s
+memory interleaved on 0 1 2 4 5 6,backward,Avg,3330.19,MB/s,Max,3337.61,MB/s,Min,3322.17,MB/s
+memory interleaved on 3 4 5 6,backward,Avg,3152.06,MB/s,Max,3153.42,MB/s,Min,3150.11,MB/s
+memory interleaved on 0 3 4 5 6,backward,Avg,3265.29,MB/s,Max,3266.49,MB/s,Min,3263.54,MB/s
+memory interleaved on 1 3 4 5 6,backward,Avg,3146.02,MB/s,Max,3149.16,MB/s,Min,3135.98,MB/s
+memory interleaved on 0 1 3 4 5 6,backward,Avg,3267.16,MB/s,Max,3271.18,MB/s,Min,3264.05,MB/s
+memory interleaved on 2 3 4 5 6,backward,Avg,3317.14,MB/s,Max,3321.43,MB/s,Min,3304.79,MB/s
+memory interleaved on 0 2 3 4 5 6,backward,Avg,3409.74,MB/s,Max,3417.00,MB/s,Min,3395.87,MB/s
+memory interleaved on 1 2 3 4 5 6,backward,Avg,3325.04,MB/s,Max,3326.81,MB/s,Min,3321.01,MB/s
+memory interleaved on 0 1 2 3 4 5 6,backward,Avg,3410.39,MB/s,Max,3420.35,MB/s,Min,3406.35,MB/s
+memory interleaved on 0 7,backward,Avg,3940.44,MB/s,Max,3942.76,MB/s,Min,3935.95,MB/s
+memory interleaved on 1 7,backward,Avg,4078.67,MB/s,Max,4083.88,MB/s,Min,4065.98,MB/s
+memory interleaved on 0 1 7,backward,Avg,3463.78,MB/s,Max,3465.68,MB/s,Min,3461.79,MB/s
+memory interleaved on 2 7,backward,Avg,5143.08,MB/s,Max,5147.65,MB/s,Min,5122.50,MB/s
+memory interleaved on 0 2 7,backward,Avg,4767.29,MB/s,Max,4771.89,MB/s,Min,4764.74,MB/s
+memory interleaved on 1 2 7,backward,Avg,4327.75,MB/s,Max,4331.71,MB/s,Min,4320.11,MB/s
+memory interleaved on 0 1 2 7,backward,Avg,4080.79,MB/s,Max,4086.42,MB/s,Min,4078.79,MB/s
+memory interleaved on 3 7,backward,Avg,3893.12,MB/s,Max,3896.02,MB/s,Min,3889.81,MB/s
+memory interleaved on 0 3 7,backward,Avg,4362.61,MB/s,Max,4377.09,MB/s,Min,4319.04,MB/s
+memory interleaved on 1 3 7,backward,Avg,3991.20,MB/s,Max,3995.79,MB/s,Min,3988.19,MB/s
+memory interleaved on 0 1 3 7,backward,Avg,3956.83,MB/s,Max,3959.28,MB/s,Min,3953.01,MB/s
+memory interleaved on 2 3 7,backward,Avg,3470.51,MB/s,Max,3482.72,MB/s,Min,3467.63,MB/s
+memory interleaved on 0 2 3 7,backward,Avg,4147.63,MB/s,Max,4151.13,MB/s,Min,4141.79,MB/s
+memory interleaved on 1 2 3 7,backward,Avg,3888.86,MB/s,Max,3892.84,MB/s,Min,3886.35,MB/s
+memory interleaved on 0 1 2 3 7,backward,Avg,3987.18,MB/s,Max,3990.47,MB/s,Min,3982.74,MB/s
+memory interleaved on 4 7,backward,Avg,2733.56,MB/s,Max,2734.80,MB/s,Min,2732.45,MB/s
+memory interleaved on 0 4 7,backward,Avg,3266.16,MB/s,Max,3271.79,MB/s,Min,3246.26,MB/s
+memory interleaved on 1 4 7,backward,Avg,3056.56,MB/s,Max,3059.48,MB/s,Min,3052.98,MB/s
+memory interleaved on 0 1 4 7,backward,Avg,3253.95,MB/s,Max,3256.85,MB/s,Min,3243.55,MB/s
+memory interleaved on 2 4 7,backward,Avg,3396.82,MB/s,Max,3398.95,MB/s,Min,3394.66,MB/s
+memory interleaved on 0 2 4 7,backward,Avg,3619.92,MB/s,Max,3623.15,MB/s,Min,3616.28,MB/s
+memory interleaved on 1 2 4 7,backward,Avg,3421.13,MB/s,Max,3424.37,MB/s,Min,3409.01,MB/s
+memory interleaved on 0 1 2 4 7,backward,Avg,3525.54,MB/s,Max,3526.40,MB/s,Min,3524.15,MB/s
+memory interleaved on 3 4 7,backward,Avg,3257.41,MB/s,Max,3261.61,MB/s,Min,3254.93,MB/s
+memory interleaved on 0 3 4 7,backward,Avg,3498.85,MB/s,Max,3501.44,MB/s,Min,3484.22,MB/s
+memory interleaved on 1 3 4 7,backward,Avg,3315.96,MB/s,Max,3318.80,MB/s,Min,3314.29,MB/s
+memory interleaved on 0 1 3 4 7,backward,Avg,3436.51,MB/s,Max,3438.86,MB/s,Min,3429.18,MB/s
+memory interleaved on 2 3 4 7,backward,Avg,3506.23,MB/s,Max,3508.59,MB/s,Min,3503.19,MB/s
+memory interleaved on 0 2 3 4 7,backward,Avg,3589.03,MB/s,Max,3591.26,MB/s,Min,3583.53,MB/s
+memory interleaved on 1 2 3 4 7,backward,Avg,3445.49,MB/s,Max,3447.11,MB/s,Min,3439.98,MB/s
+memory interleaved on 0 1 2 3 4 7,backward,Avg,3450.49,MB/s,Max,3453.81,MB/s,Min,3439.87,MB/s
+memory interleaved on 5 7,backward,Avg,3988.66,MB/s,Max,3990.32,MB/s,Min,3985.31,MB/s
+memory interleaved on 0 5 7,backward,Avg,4056.87,MB/s,Max,4058.11,MB/s,Min,4055.76,MB/s
+memory interleaved on 1 5 7,backward,Avg,3728.80,MB/s,Max,3730.13,MB/s,Min,3727.48,MB/s
+memory interleaved on 0 1 5 7,backward,Avg,3714.47,MB/s,Max,3717.30,MB/s,Min,3702.73,MB/s
+memory interleaved on 2 5 7,backward,Avg,4246.62,MB/s,Max,4247.48,MB/s,Min,4245.59,MB/s
+memory interleaved on 0 2 5 7,backward,Avg,4237.36,MB/s,Max,4239.58,MB/s,Min,4235.99,MB/s
+memory interleaved on 1 2 5 7,backward,Avg,3965.76,MB/s,Max,3968.72,MB/s,Min,3963.02,MB/s
+memory interleaved on 0 1 2 5 7,backward,Avg,3955.83,MB/s,Max,3957.64,MB/s,Min,3953.91,MB/s
+memory interleaved on 3 5 7,backward,Avg,4031.17,MB/s,Max,4033.92,MB/s,Min,4026.79,MB/s
+memory interleaved on 0 3 5 7,backward,Avg,4080.38,MB/s,Max,4081.97,MB/s,Min,4079.11,MB/s
+memory interleaved on 1 3 5 7,backward,Avg,3828.72,MB/s,Max,3829.72,MB/s,Min,3827.62,MB/s
+memory interleaved on 0 1 3 5 7,backward,Avg,3852.48,MB/s,Max,3854.49,MB/s,Min,3850.10,MB/s
+memory interleaved on 2 3 5 7,backward,Avg,4043.19,MB/s,Max,4049.96,MB/s,Min,4005.10,MB/s
+memory interleaved on 0 2 3 5 7,backward,Avg,4042.31,MB/s,Max,4044.18,MB/s,Min,4040.76,MB/s
+memory interleaved on 1 2 3 5 7,backward,Avg,3861.16,MB/s,Max,3864.86,MB/s,Min,3849.54,MB/s
+memory interleaved on 0 1 2 3 5 7,backward,Avg,3827.53,MB/s,Max,3834.34,MB/s,Min,3796.99,MB/s
+memory interleaved on 4 5 7,backward,Avg,2847.43,MB/s,Max,2848.93,MB/s,Min,2845.14,MB/s
+memory interleaved on 0 4 5 7,backward,Avg,3165.10,MB/s,Max,3166.18,MB/s,Min,3163.89,MB/s
+memory interleaved on 1 4 5 7,backward,Avg,3013.72,MB/s,Max,3017.05,MB/s,Min,3010.21,MB/s
+memory interleaved on 0 1 4 5 7,backward,Avg,3138.96,MB/s,Max,3142.37,MB/s,Min,3134.19,MB/s
+memory interleaved on 2 4 5 7,backward,Avg,3266.15,MB/s,Max,3267.10,MB/s,Min,3265.07,MB/s
+memory interleaved on 0 2 4 5 7,backward,Avg,3357.28,MB/s,Max,3363.19,MB/s,Min,3349.33,MB/s
+memory interleaved on 1 2 4 5 7,backward,Avg,3234.05,MB/s,Max,3238.34,MB/s,Min,3224.01,MB/s
+memory interleaved on 0 1 2 4 5 7,backward,Avg,3361.70,MB/s,Max,3368.38,MB/s,Min,3349.98,MB/s
+memory interleaved on 3 4 5 7,backward,Avg,3161.54,MB/s,Max,3169.44,MB/s,Min,3119.09,MB/s
+memory interleaved on 0 3 4 5 7,backward,Avg,3278.22,MB/s,Max,3282.03,MB/s,Min,3267.41,MB/s
+memory interleaved on 1 3 4 5 7,backward,Avg,3160.89,MB/s,Max,3161.98,MB/s,Min,3158.84,MB/s
+memory interleaved on 0 1 3 4 5 7,backward,Avg,3295.12,MB/s,Max,3298.65,MB/s,Min,3292.85,MB/s
+memory interleaved on 2 3 4 5 7,backward,Avg,3330.99,MB/s,Max,3334.64,MB/s,Min,3323.33,MB/s
+memory interleaved on 0 2 3 4 5 7,backward,Avg,3436.93,MB/s,Max,3442.81,MB/s,Min,3432.10,MB/s
+memory interleaved on 1 2 3 4 5 7,backward,Avg,3347.73,MB/s,Max,3351.15,MB/s,Min,3342.71,MB/s
+memory interleaved on 0 1 2 3 4 5 7,backward,Avg,3426.61,MB/s,Max,3429.97,MB/s,Min,3421.35,MB/s
+memory interleaved on 6 7,backward,Avg,5783.56,MB/s,Max,5789.40,MB/s,Min,5780.14,MB/s
+memory interleaved on 0 6 7,backward,Avg,4952.58,MB/s,Max,4956.87,MB/s,Min,4949.15,MB/s
+memory interleaved on 1 6 7,backward,Avg,4548.72,MB/s,Max,4552.30,MB/s,Min,4541.65,MB/s
+memory interleaved on 0 1 6 7,backward,Avg,4109.97,MB/s,Max,4116.91,MB/s,Min,4100.00,MB/s
+memory interleaved on 2 6 7,backward,Avg,5346.79,MB/s,Max,5349.60,MB/s,Min,5343.61,MB/s
+memory interleaved on 0 2 6 7,backward,Avg,4934.54,MB/s,Max,4940.05,MB/s,Min,4924.97,MB/s
+memory interleaved on 1 2 6 7,backward,Avg,4591.63,MB/s,Max,4595.59,MB/s,Min,4589.56,MB/s
+memory interleaved on 0 1 2 6 7,backward,Avg,4415.67,MB/s,Max,4417.66,MB/s,Min,4413.01,MB/s
+memory interleaved on 3 6 7,backward,Avg,4951.58,MB/s,Max,4957.34,MB/s,Min,4948.68,MB/s
+memory interleaved on 0 3 6 7,backward,Avg,4715.63,MB/s,Max,4721.61,MB/s,Min,4711.85,MB/s
+memory interleaved on 1 3 6 7,backward,Avg,4397.78,MB/s,Max,4403.75,MB/s,Min,4393.97,MB/s
+memory interleaved on 0 1 3 6 7,backward,Avg,4286.20,MB/s,Max,4289.01,MB/s,Min,4279.73,MB/s
+memory interleaved on 2 3 6 7,backward,Avg,4474.55,MB/s,Max,4484.54,MB/s,Min,4450.66,MB/s
+memory interleaved on 0 2 3 6 7,backward,Avg,4436.14,MB/s,Max,4440.67,MB/s,Min,4430.73,MB/s
+memory interleaved on 1 2 3 6 7,backward,Avg,4222.54,MB/s,Max,4226.60,MB/s,Min,4217.75,MB/s
+memory interleaved on 0 1 2 3 6 7,backward,Avg,4175.36,MB/s,Max,4184.60,MB/s,Min,4120.79,MB/s
+memory interleaved on 4 6 7,backward,Avg,3628.73,MB/s,Max,3630.30,MB/s,Min,3626.28,MB/s
+memory interleaved on 0 4 6 7,backward,Avg,3735.70,MB/s,Max,3738.77,MB/s,Min,3734.38,MB/s
+memory interleaved on 1 4 6 7,backward,Avg,3539.81,MB/s,Max,3545.72,MB/s,Min,3528.78,MB/s
+memory interleaved on 0 1 4 6 7,backward,Avg,3581.78,MB/s,Max,3584.02,MB/s,Min,3573.64,MB/s
+memory interleaved on 2 4 6 7,backward,Avg,3903.52,MB/s,Max,3908.22,MB/s,Min,3900.95,MB/s
+memory interleaved on 0 2 4 6 7,backward,Avg,3896.78,MB/s,Max,3900.23,MB/s,Min,3889.81,MB/s
+memory interleaved on 1 2 4 6 7,backward,Avg,3735.63,MB/s,Max,3737.31,MB/s,Min,3733.71,MB/s
+memory interleaved on 0 1 2 4 6 7,backward,Avg,3763.69,MB/s,Max,3765.76,MB/s,Min,3758.34,MB/s
+memory interleaved on 3 4 6 7,backward,Avg,3753.06,MB/s,Max,3758.07,MB/s,Min,3747.59,MB/s
+memory interleaved on 0 3 4 6 7,backward,Avg,3780.01,MB/s,Max,3782.33,MB/s,Min,3773.21,MB/s
+memory interleaved on 1 3 4 6 7,backward,Avg,3626.58,MB/s,Max,3630.17,MB/s,Min,3615.65,MB/s
+memory interleaved on 0 1 3 4 6 7,backward,Avg,3667.80,MB/s,Max,3669.81,MB/s,Min,3665.32,MB/s
+memory interleaved on 2 3 4 6 7,backward,Avg,3824.70,MB/s,Max,3826.50,MB/s,Min,3820.51,MB/s
+memory interleaved on 0 2 3 4 6 7,backward,Avg,3751.35,MB/s,Max,3758.07,MB/s,Min,3724.43,MB/s
+memory interleaved on 1 2 3 4 6 7,backward,Avg,3636.97,MB/s,Max,3638.87,MB/s,Min,3636.09,MB/s
+memory interleaved on 0 1 2 3 4 6 7,backward,Avg,3675.27,MB/s,Max,3679.73,MB/s,Min,3672.00,MB/s
+memory interleaved on 5 6 7,backward,Avg,4481.40,MB/s,Max,4486.65,MB/s,Min,4459.56,MB/s
+memory interleaved on 0 5 6 7,backward,Avg,4373.55,MB/s,Max,4379.10,MB/s,Min,4347.87,MB/s
+memory interleaved on 1 5 6 7,backward,Avg,4101.05,MB/s,Max,4103.53,MB/s,Min,4095.68,MB/s
+memory interleaved on 0 1 5 6 7,backward,Avg,4057.44,MB/s,Max,4063.93,MB/s,Min,4019.69,MB/s
+memory interleaved on 2 5 6 7,backward,Avg,4592.87,MB/s,Max,4594.79,MB/s,Min,4591.37,MB/s
+memory interleaved on 0 2 5 6 7,backward,Avg,4472.57,MB/s,Max,4476.50,MB/s,Min,4465.64,MB/s
+memory interleaved on 1 2 5 6 7,backward,Avg,4258.45,MB/s,Max,4261.12,MB/s,Min,4246.28,MB/s
+memory interleaved on 0 1 2 5 6 7,backward,Avg,4173.42,MB/s,Max,4178.09,MB/s,Min,4146.54,MB/s
+memory interleaved on 3 5 6 7,backward,Avg,4393.98,MB/s,Max,4397.28,MB/s,Min,4388.08,MB/s
+memory interleaved on 0 3 5 6 7,backward,Avg,4327.43,MB/s,Max,4330.81,MB/s,Min,4324.92,MB/s
+memory interleaved on 1 3 5 6 7,backward,Avg,4124.87,MB/s,Max,4127.93,MB/s,Min,4122.73,MB/s
+memory interleaved on 0 1 3 5 6 7,backward,Avg,4060.50,MB/s,Max,4062.83,MB/s,Min,4056.39,MB/s
+memory interleaved on 2 3 5 6 7,backward,Avg,4376.63,MB/s,Max,4382.03,MB/s,Min,4373.80,MB/s
+memory interleaved on 0 2 3 5 6 7,backward,Avg,4163.87,MB/s,Max,4167.63,MB/s,Min,4159.37,MB/s
+memory interleaved on 1 2 3 5 6 7,backward,Avg,4015.66,MB/s,Max,4018.76,MB/s,Min,4012.46,MB/s
+memory interleaved on 0 1 2 3 5 6 7,backward,Avg,4014.24,MB/s,Max,4020.00,MB/s,Min,4011.69,MB/s
+memory interleaved on 4 5 6 7,backward,Avg,3275.35,MB/s,Max,3281.72,MB/s,Min,3270.06,MB/s
+memory interleaved on 0 4 5 6 7,backward,Avg,3429.68,MB/s,Max,3435.25,MB/s,Min,3418.45,MB/s
+memory interleaved on 1 4 5 6 7,backward,Avg,3301.83,MB/s,Max,3305.93,MB/s,Min,3298.13,MB/s
+memory interleaved on 0 1 4 5 6 7,backward,Avg,3364.27,MB/s,Max,3367.62,MB/s,Min,3353.94,MB/s
+memory interleaved on 2 4 5 6 7,backward,Avg,3516.85,MB/s,Max,3522.73,MB/s,Min,3513.05,MB/s
+memory interleaved on 0 2 4 5 6 7,backward,Avg,3579.53,MB/s,Max,3583.65,MB/s,Min,3574.00,MB/s
+memory interleaved on 1 2 4 5 6 7,backward,Avg,3471.47,MB/s,Max,3475.10,MB/s,Min,3464.31,MB/s
+memory interleaved on 0 1 2 4 5 6 7,backward,Avg,3600.21,MB/s,Max,3602.24,MB/s,Min,3598.78,MB/s
+memory interleaved on 3 4 5 6 7,backward,Avg,3433.10,MB/s,Max,3438.07,MB/s,Min,3431.20,MB/s
+memory interleaved on 0 3 4 5 6 7,backward,Avg,3505.48,MB/s,Max,3508.70,MB/s,Min,3502.73,MB/s
+memory interleaved on 1 3 4 5 6 7,backward,Avg,3401.91,MB/s,Max,3404.03,MB/s,Min,3398.95,MB/s
+memory interleaved on 0 1 3 4 5 6 7,backward,Avg,3536.12,MB/s,Max,3538.66,MB/s,Min,3530.32,MB/s
+memory interleaved on 2 3 4 5 6 7,backward,Avg,3551.12,MB/s,Max,3553.77,MB/s,Min,3546.80,MB/s
+memory interleaved on 0 2 3 4 5 6 7,backward,Avg,3649.11,MB/s,Max,3650.65,MB/s,Min,3647.47,MB/s
+memory interleaved on 1 2 3 4 5 6 7,backward,Avg,3566.57,MB/s,Max,3570.35,MB/s,Min,3543.08,MB/s
+memory interleaved on 0 1 2 3 4 5 6 7,backward,Avg,3575.95,MB/s,Max,3577.29,MB/s,Min,3574.24,MB/s
+setting preferred node to 0
+memory without policy,backward,Avg,2151.87,MB/s,Max,2156.14,MB/s,Min,2148.94,MB/s
+setting preferred node to 1
+memory without policy,backward,Avg,2925.15,MB/s,Max,2927.84,MB/s,Min,2921.56,MB/s
+setting preferred node to 2
+memory without policy,backward,Avg,3009.29,MB/s,Max,3013.93,MB/s,Min,3004.69,MB/s
+setting preferred node to 3
+memory without policy,backward,Avg,2067.46,MB/s,Max,2069.91,MB/s,Min,2064.74,MB/s
+setting preferred node to 4
+memory without policy,backward,Avg,2026.38,MB/s,Max,2030.24,MB/s,Min,2017.38,MB/s
+setting preferred node to 5
+memory without policy,backward,Avg,2859.17,MB/s,Max,2860.74,MB/s,Min,2857.93,MB/s
+setting preferred node to 6
+memory without policy,backward,Avg,4791.06,MB/s,Max,4797.44,MB/s,Min,4788.24,MB/s
+setting preferred node to 7
+memory without policy,backward,Avg,5845.39,MB/s,Max,5851.76,MB/s,Min,5840.35,MB/s
+manual interleaving to all nodes,backward,Avg,3574.68,MB/s,Max,3577.90,MB/s,Min,3569.38,MB/s
+manual interleaving on node 0/1,backward,Avg,2398.43,MB/s,Max,2400.64,MB/s,Min,2391.93,MB/s
+current interleave node 0
+running on node 0, preferred node 0
+local memory,backward,Avg,5927.24,MB/s,Max,6069.55,MB/s,Min,5802.86,MB/s
+memory interleaved on all nodes,backward,Avg,3514.97,MB/s,Max,3520.84,MB/s,Min,3511.29,MB/s
+memory interleaved on node 0/1,backward,Avg,5751.64,MB/s,Max,5770.28,MB/s,Min,5744.05,MB/s
+alloc on node 1,backward,Avg,4703.23,MB/s,Max,4745.55,MB/s,Min,4664.28,MB/s
+alloc on node 2,backward,Avg,2984.63,MB/s,Max,2991.57,MB/s,Min,2953.90,MB/s
+alloc on node 3,backward,Avg,2138.82,MB/s,Max,2141.17,MB/s,Min,2137.64,MB/s
+alloc on node 4,backward,Avg,2886.74,MB/s,Max,2889.51,MB/s,Min,2882.84,MB/s
+alloc on node 5,backward,Avg,2023.89,MB/s,Max,2028.00,MB/s,Min,2020.88,MB/s
+alloc on node 6,backward,Avg,3032.32,MB/s,Max,3033.46,MB/s,Min,3030.65,MB/s
+alloc on node 7,backward,Avg,2097.87,MB/s,Max,2099.76,MB/s,Min,2088.92,MB/s
+local allocation,backward,Avg,5795.90,MB/s,Max,5801.25,MB/s,Min,5790.68,MB/s
+setting wrong preferred node,backward,Avg,4803.48,MB/s,Max,4820.60,MB/s,Min,4784.30,MB/s
+setting correct preferred node,backward,Avg,5800.26,MB/s,Max,5805.43,MB/s,Min,5791.64,MB/s
+running on node 1, preferred node 0
+local memory,backward,Avg,6085.51,MB/s,Max,6097.79,MB/s,Min,6057.63,MB/s
+memory interleaved on all nodes,backward,Avg,3528.55,MB/s,Max,3530.32,MB/s,Min,3527.11,MB/s
+memory interleaved on node 0/1,backward,Avg,5785.76,MB/s,Max,5788.76,MB/s,Min,5779.19,MB/s
+alloc on node 0,backward,Avg,4659.47,MB/s,Max,4665.52,MB/s,Min,4654.55,MB/s
+alloc on node 2,backward,Avg,2126.99,MB/s,Max,2136.59,MB/s,Min,2099.21,MB/s
+alloc on node 3,backward,Avg,2961.75,MB/s,Max,2964.09,MB/s,Min,2960.66,MB/s
+alloc on node 4,backward,Avg,2886.17,MB/s,Max,2890.31,MB/s,Min,2872.34,MB/s
+alloc on node 5,backward,Avg,2023.27,MB/s,Max,2027.68,MB/s,Min,2021.20,MB/s
+alloc on node 6,backward,Avg,2060.74,MB/s,Max,2063.80,MB/s,Min,2054.14,MB/s
+alloc on node 7,backward,Avg,2920.49,MB/s,Max,2921.64,MB/s,Min,2918.30,MB/s
+local allocation,backward,Avg,5925.10,MB/s,Max,6096.02,MB/s,Min,5847.84,MB/s
+setting wrong preferred node,backward,Avg,2131.40,MB/s,Max,2136.72,MB/s,Min,2129.65,MB/s
+setting correct preferred node,backward,Avg,5837.42,MB/s,Max,5841.32,MB/s,Min,5833.85,MB/s
+running on node 2, preferred node 0
+local memory,backward,Avg,6082.62,MB/s,Max,6096.37,MB/s,Min,6058.68,MB/s
+memory interleaved on all nodes,backward,Avg,3598.09,MB/s,Max,3599.15,MB/s,Min,3596.43,MB/s
+memory interleaved on node 0/1,backward,Avg,2476.27,MB/s,Max,2476.91,MB/s,Min,2475.57,MB/s
+alloc on node 0,backward,Avg,2963.18,MB/s,Max,2964.34,MB/s,Min,2960.32,MB/s
+alloc on node 1,backward,Avg,2082.79,MB/s,Max,2083.65,MB/s,Min,2080.67,MB/s
+alloc on node 3,backward,Avg,4868.06,MB/s,Max,4876.64,MB/s,Min,4849.80,MB/s
+alloc on node 4,backward,Avg,2973.38,MB/s,Max,2974.68,MB/s,Min,2972.58,MB/s
+alloc on node 5,backward,Avg,3545.52,MB/s,Max,3551.73,MB/s,Min,3541.77,MB/s
+alloc on node 6,backward,Avg,2894.75,MB/s,Max,2895.34,MB/s,Min,2894.38,MB/s
+alloc on node 7,backward,Avg,3002.15,MB/s,Max,3003.91,MB/s,Min,2993.37,MB/s
+local allocation,backward,Avg,5836.32,MB/s,Max,6079.41,MB/s,Min,5744.68,MB/s
+setting wrong preferred node,backward,Avg,4872.16,MB/s,Max,4874.60,MB/s,Min,4869.62,MB/s
+setting correct preferred node,backward,Avg,5782.38,MB/s,Max,5786.52,MB/s,Min,5772.19,MB/s
+running on node 3, preferred node 0
+local memory,backward,Avg,6003.77,MB/s,Max,6015.58,MB/s,Min,5984.68,MB/s
+memory interleaved on all nodes,backward,Avg,3109.64,MB/s,Max,3112.89,MB/s,Min,3103.49,MB/s
+memory interleaved on node 0/1,backward,Avg,2454.16,MB/s,Max,2454.88,MB/s,Min,2453.04,MB/s
+alloc on node 0,backward,Avg,2091.46,MB/s,Max,2092.21,MB/s,Min,2090.67,MB/s
+alloc on node 1,backward,Avg,2934.41,MB/s,Max,2936.86,MB/s,Min,2926.94,MB/s
+alloc on node 2,backward,Avg,4592.63,MB/s,Max,4610.54,MB/s,Min,4583.54,MB/s
+alloc on node 4,backward,Avg,2942.57,MB/s,Max,2943.29,MB/s,Min,2941.72,MB/s
+alloc on node 5,backward,Avg,3033.21,MB/s,Max,3036.53,MB/s,Min,3030.83,MB/s
+alloc on node 6,backward,Avg,2010.01,MB/s,Max,2010.96,MB/s,Min,2006.77,MB/s
+alloc on node 7,backward,Avg,2023.57,MB/s,Max,2024.43,MB/s,Min,2020.34,MB/s
+local allocation,backward,Avg,6010.31,MB/s,Max,6017.31,MB/s,Min,6001.12,MB/s
+setting wrong preferred node,backward,Avg,2940.62,MB/s,Max,2941.55,MB/s,Min,2938.50,MB/s
+setting correct preferred node,backward,Avg,6023.74,MB/s,Max,6028.72,MB/s,Min,6020.07,MB/s
+running on node 4, preferred node 0
+local memory,backward,Avg,6085.23,MB/s,Max,6092.83,MB/s,Min,6076.94,MB/s
+memory interleaved on all nodes,backward,Avg,3555.18,MB/s,Max,3557.03,MB/s,Min,3552.33,MB/s
+memory interleaved on node 0/1,backward,Avg,3077.99,MB/s,Max,3078.70,MB/s,Min,3075.54,MB/s
+alloc on node 0,backward,Avg,2893.00,MB/s,Max,2894.86,MB/s,Min,2888.08,MB/s
+alloc on node 1,backward,Avg,2891.56,MB/s,Max,2892.30,MB/s,Min,2890.55,MB/s
+alloc on node 2,backward,Avg,2976.85,MB/s,Max,2983.23,MB/s,Min,2973.92,MB/s
+alloc on node 3,backward,Avg,2939.59,MB/s,Max,2941.06,MB/s,Min,2936.12,MB/s
+alloc on node 5,backward,Avg,4880.05,MB/s,Max,4883.23,MB/s,Min,4877.32,MB/s
+alloc on node 6,backward,Avg,2987.27,MB/s,Max,2988.59,MB/s,Min,2986.55,MB/s
+alloc on node 7,backward,Avg,2043.70,MB/s,Max,2047.20,MB/s,Min,2024.79,MB/s
+local allocation,backward,Avg,6099.78,MB/s,Max,6102.05,MB/s,Min,6095.66,MB/s
+setting wrong preferred node,backward,Avg,4870.12,MB/s,Max,4873.02,MB/s,Min,4868.27,MB/s
+setting correct preferred node,backward,Avg,6066.95,MB/s,Max,6098.85,MB/s,Min,6033.58,MB/s
+running on node 5, preferred node 0
+local memory,backward,Avg,6042.41,MB/s,Max,6053.09,MB/s,Min,6019.38,MB/s
+memory interleaved on all nodes,backward,Avg,3346.68,MB/s,Max,3347.94,MB/s,Min,3344.74,MB/s
+memory interleaved on node 0/1,backward,Avg,2042.48,MB/s,Max,2043.29,MB/s,Min,2039.67,MB/s
+alloc on node 0,backward,Avg,1999.51,MB/s,Max,2000.03,MB/s,Min,1998.81,MB/s
+alloc on node 1,backward,Avg,2001.05,MB/s,Max,2001.37,MB/s,Min,2000.72,MB/s
+alloc on node 2,backward,Avg,3542.09,MB/s,Max,3549.56,MB/s,Min,3533.65,MB/s
+alloc on node 3,backward,Avg,3051.83,MB/s,Max,3052.53,MB/s,Min,3050.23,MB/s
+alloc on node 4,backward,Avg,4656.05,MB/s,Max,4682.61,MB/s,Min,4622.74,MB/s
+alloc on node 6,backward,Avg,2105.73,MB/s,Max,2110.70,MB/s,Min,2103.80,MB/s
+alloc on node 7,backward,Avg,2863.66,MB/s,Max,2864.81,MB/s,Min,2862.07,MB/s
+local allocation,backward,Avg,5799.45,MB/s,Max,6002.84,MB/s,Min,5762.67,MB/s
+setting wrong preferred node,backward,Avg,2105.08,MB/s,Max,2111.77,MB/s,Min,2100.55,MB/s
+setting correct preferred node,backward,Avg,5776.16,MB/s,Max,5778.55,MB/s,Min,5772.19,MB/s
+running on node 6, preferred node 0
+local memory,backward,Avg,6040.25,MB/s,Max,6055.53,MB/s,Min,6029.07,MB/s
+memory interleaved on all nodes,backward,Avg,3197.76,MB/s,Max,3200.49,MB/s,Min,3194.54,MB/s
+memory interleaved on node 0/1,backward,Avg,2248.16,MB/s,Max,2252.00,MB/s,Min,2245.34,MB/s
+alloc on node 0,backward,Avg,3024.88,MB/s,Max,3030.22,MB/s,Min,3019.31,MB/s
+alloc on node 1,backward,Avg,2075.30,MB/s,Max,2075.98,MB/s,Min,2074.05,MB/s
+alloc on node 2,backward,Avg,2886.21,MB/s,Max,2887.45,MB/s,Min,2882.68,MB/s
+alloc on node 3,backward,Avg,2027.77,MB/s,Max,2029.14,MB/s,Min,2026.63,MB/s
+alloc on node 4,backward,Avg,2974.73,MB/s,Max,2975.87,MB/s,Min,2973.92,MB/s
+alloc on node 5,backward,Avg,2063.88,MB/s,Max,2064.74,MB/s,Min,2061.65,MB/s
+alloc on node 7,backward,Avg,4797.22,MB/s,Max,4805.57,MB/s,Min,4791.08,MB/s
+local allocation,backward,Avg,6064.29,MB/s,Max,6073.42,MB/s,Min,6059.03,MB/s
+setting wrong preferred node,backward,Avg,4792.48,MB/s,Max,4797.66,MB/s,Min,4790.21,MB/s
+setting correct preferred node,backward,Avg,6081.06,MB/s,Max,6088.58,MB/s,Min,6075.53,MB/s
+running on node 7, preferred node 0
+local memory,backward,Avg,6086.08,MB/s,Max,6094.60,MB/s,Min,6064.64,MB/s
+memory interleaved on all nodes,backward,Avg,3569.05,MB/s,Max,3579.25,MB/s,Min,3559.08,MB/s
+memory interleaved on node 0/1,backward,Avg,2394.63,MB/s,Max,2400.92,MB/s,Min,2387.52,MB/s
+alloc on node 0,backward,Avg,2153.70,MB/s,Max,2159.34,MB/s,Min,2149.16,MB/s
+alloc on node 1,backward,Avg,2919.16,MB/s,Max,2922.21,MB/s,Min,2906.74,MB/s
+alloc on node 2,backward,Avg,3006.80,MB/s,Max,3011.42,MB/s,Min,3003.22,MB/s
+alloc on node 3,backward,Avg,2065.55,MB/s,Max,2068.03,MB/s,Min,2063.35,MB/s
+alloc on node 4,backward,Avg,2027.07,MB/s,Max,2028.19,MB/s,Min,2024.94,MB/s
+alloc on node 5,backward,Avg,2863.26,MB/s,Max,2868.96,MB/s,Min,2846.76,MB/s
+alloc on node 6,backward,Avg,4783.85,MB/s,Max,4788.02,MB/s,Min,4781.25,MB/s
+local allocation,backward,Avg,5887.01,MB/s,Max,6088.23,MB/s,Min,5819.93,MB/s
+setting wrong preferred node,backward,Avg,2144.20,MB/s,Max,2146.92,MB/s,Min,2138.69,MB/s
+setting correct preferred node,backward,Avg,5820.35,MB/s,Max,5825.75,MB/s,Min,5813.79,MB/s

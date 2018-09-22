@@ -1,0 +1,298 @@
+Number of threads: 32
+Job ID: 3979
+Machine: penguin 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+Socket: 0,1,2,3  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=0,1,2,3 --interleave=0,1 /home/jlenis/numa_benchmark/bin/stream.05GiB.10':
+
+   212,639,009,939      cycles                                                      
+    31,677,625,220      instructions              #    0.15  insns per cycle        
+       548,538,784      cache-references                                            
+       203,822,487      cache-misses              #   37.157 % of all cache refs    
+             1,705      faults                                                      
+                34      migrations                                                  
+
+       3.725525747 seconds time elapsed
+
+Socket: 0,1,2,3  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=0,1,2,3 --interleave=0,2 /home/jlenis/numa_benchmark/bin/stream.05GiB.10':
+
+   215,627,217,426      cycles                                                      
+    29,458,580,371      instructions              #    0.14  insns per cycle        
+       542,331,648      cache-references                                            
+       203,483,362      cache-misses              #   37.520 % of all cache refs    
+             1,707      faults                                                      
+                33      migrations                                                  
+
+       3.499427473 seconds time elapsed
+
+Socket: 0,1,2,3  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=0,1,2,3 --interleave=0,3 /home/jlenis/numa_benchmark/bin/stream.05GiB.10':
+
+   220,789,647,417      cycles                                                      
+    32,379,978,171      instructions              #    0.15  insns per cycle        
+       547,414,926      cache-references                                            
+       204,661,203      cache-misses              #   37.387 % of all cache refs    
+             1,707      faults                                                      
+                32      migrations                                                  
+
+       3.587386391 seconds time elapsed
+
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3
+ Time Elapsed: 3

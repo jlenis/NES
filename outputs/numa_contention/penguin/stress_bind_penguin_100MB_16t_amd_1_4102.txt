@@ -1,0 +1,22 @@
+entra aquíArchitecture: amd
+num cpus: 16
+numa available: 0
+array size: 104857600 
+x size: 838860800 
+
+all-contention tid: 0  core 0 -> core 0 : BW 712.612 MB/s
+all-contention tid: 1  core 1 -> core 0 : BW 1031.67 MB/s
+all-contention tid: 2  core 2 -> core 0 : BW 720.694 MB/s
+all-contention tid: 3  core 3 -> core 0 : BW 711.111 MB/s
+all-contention tid: 4  core 4 -> core 0 : BW 720.283 MB/s
+all-contention tid: 5  core 5 -> core 0 : BW 1031.67 MB/s
+all-contention tid: 6  core 6 -> core 0 : BW 720.695 MB/s
+all-contention tid: 7  core 7 -> core 0 : BW 713.177 MB/s
+all-contention tid: 8  core 8 -> core 0 : BW 710.154 MB/s
+all-contention tid: 9  core 9 -> core 0 : BW 1031.67 MB/s
+all-contention tid: 10  core 10 -> core 0 : BW 719.903 MB/s
+all-contention tid: 11  core 11 -> core 0 : BW 711.111 MB/s
+all-contention tid: 12  core 12 -> core 0 : BW 710.154 MB/s
+all-contention tid: 13  core 13 -> core 0 : BW 1031.67 MB/s
+all-contention tid: 14  core 14 -> core 0 : BW 728.746 MB/s
+all-contention tid: 15  core 15 -> core 0 : BW 711.112 MB/s

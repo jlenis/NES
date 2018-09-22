@@ -1,0 +1,81 @@
+Number of threads: 8
+Job ID: 3952
+Machine: penguin 
+
+Socket: 0  MEM: 0
+
+ Performance counter stats for 'system wide':
+
+S0       16     64,908,400,765      cycles                                                        (100.00%)
+S0       16     21,959,214,421      instructions                                                  (100.00%)
+S0       16        534,596,637      cache-references                                              (100.00%)
+S0       16        209,725,619      cache-misses                                                
+S0       16              1,510      faults                                                        (100.00%)
+S0       16                  9      migrations                                                  
+S1       16        333,572,308      cycles                                                        (100.00%)
+S1       16        208,082,779      instructions                                                  (100.00%)
+S1       16          5,524,306      cache-references                                              (100.00%)
+S1       16            562,905      cache-misses                                                
+S1       16                  2      faults                                                        (100.00%)
+S1       16                  0      migrations                                                  
+S2       16         74,702,757      cycles                                                        (100.00%)
+S2       16         12,243,226      instructions                                                  (100.00%)
+S2       16            400,157      cache-references                                              (100.00%)
+S2       16             99,003      cache-misses                                                
+S2       16                142      faults                                                        (100.00%)
+S2       16                  5      migrations                                                  
+S3       16        116,908,636      cycles                                                        (100.00%)
+S3       16         18,139,010      instructions                                                  (100.00%)
+S3       16            492,181      cache-references                                              (100.00%)
+S3       16            125,564      cache-misses                                                
+S3       16                 20      faults                                                        (100.00%)
+S3       16                 10      migrations                                                  
+
+       3.967540055 seconds time elapsed
+
+ Time Elapsed: 4
+Socket: 0  MEM: 1
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc0_mem1_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 0  MEM: 2
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc0_mem2_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 0  MEM: 3
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc0_mem3_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 1  MEM: 0
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc1_mem0_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 1  MEM: 1
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc1_mem1_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 1  MEM: 2
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc1_mem2_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 1  MEM: 3
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc1_mem3_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 2  MEM: 0
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc2_mem0_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 2  MEM: 1
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc2_mem1_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 2  MEM: 2
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc2_mem2_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 2  MEM: 3
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc2_mem3_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 3  MEM: 0
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc3_mem0_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 3  MEM: 1
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc3_mem1_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 3  MEM: 2
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc3_mem2_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0
+Socket: 3  MEM: 3
+/var/log/slurm/log_slurmd//job03952/slurm_script: line 43: /home/jlenis/numa_benchmark/outputs/stream/penguin/8/05/stream_membind_penguin_05GB_proc3_mem3_8t_amb_3952.txt: No such file or directory
+ Time Elapsed: 0

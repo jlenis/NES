@@ -1,0 +1,19 @@
+Number of threads: 32
+Job ID: 4763
+Machine: penguin 
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 0: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 1: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 2: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 3: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 0: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 1: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 2: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 3: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 0: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 1: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 2: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 3: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 0: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 1: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 2: No such file or directory
+/var/log/slurm/log_slurmd//job04763/slurm_script: line 39: 3: No such file or directory

@@ -1,0 +1,2052 @@
+Number of threads: 8
+Job ID: 1939
+Machine: batman 
+
+Socket: 0  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16       918112943553 cycles                    #    0.000 GHz                      (50.04%)
+S0       16       168969953227 instructions              #   11.67  insns per cycle          (74.51%)
+S0       16        62434282751 cache-references                                              (74.50%)
+S0       16           83666836 cache-misses              #    8.479 % of all cache refs      (75.46%)
+S0       16               8205 faults                                                        (100.00%)
+S0       16                 24 migrations                                                  
+S1       16          231480679 cycles                    #    0.000 GHz                      (49.33%)
+S1       16           39834514 instructions              #    0.00  insns per cycle          (74.15%)
+S1       16           11171858 cache-references                                              (75.87%)
+S1       16             527866 cache-misses                                                  (74.81%)
+S1       16                  0 faults                                                        (100.00%)
+S1       16                  1 migrations                                                  
+S2       16          228648724 cycles                    #    0.000 GHz                      (49.14%)
+S2       16           38673507 instructions              #    0.00  insns per cycle          (74.57%)
+S2       16           10519314 cache-references                                              (76.26%)
+S2       16             538897 cache-misses                                                  (74.60%)
+S2       16                  0 faults                                                        (100.00%)
+S2       16                  0 migrations                                                  
+S3       16         8141550204 cycles                    #    0.000 GHz                      (47.92%)
+S3       16         1814549597 instructions              #    0.00  insns per cycle          (74.41%)
+S3       16          693844468 cache-references                                              (77.37%)
+S3       16           14228444 cache-misses                                                  (74.72%)
+S3       16                 40 faults                                                        (100.00%)
+S3       16                  3 migrations                                                  
+
+      49.851946522 seconds time elapsed
+
+ Time Elapsed: 50
+Socket: 0  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      1659173897480 cycles                    #    0.000 GHz                      (50.27%)
+S0       16       170119559051 instructions              #    6.49  insns per cycle          (75.37%)
+S0       16        58060678983 cache-references                                              (74.73%)
+S0       16          114846882 cache-misses              #   12.400 % of all cache refs      (75.01%)
+S0       16               9663 faults                                                        (100.00%)
+S0       16                 41 migrations                                                  
+S1       16          627591762 cycles                    #    0.000 GHz                      (49.90%)
+S1       16          181371813 instructions              #    0.00  insns per cycle          (75.88%)
+S1       16           56768606 cache-references                                              (74.81%)
+S1       16            3980569 cache-misses                                                  (75.30%)
+S1       16               4047 faults                                                        (100.00%)
+S1       16                 41 migrations                                                  
+S2       16          485072911 cycles                    #    0.000 GHz                      (50.18%)
+S2       16           87278829 instructions              #    0.00  insns per cycle          (75.63%)
+S2       16           27045995 cache-references                                              (75.33%)
+S2       16            1599137 cache-misses                                                  (74.50%)
+S2       16               3933 faults                                                        (100.00%)
+S2       16                 41 migrations                                                  
+S3       16        18298036503 cycles                    #    0.000 GHz                      (51.75%)
+S3       16         4211037778 instructions              #    0.00  insns per cycle          (75.16%)
+S3       16         1131411493 cache-references                                              (75.51%)
+S3       16           17516741 cache-misses                                                  (72.75%)
+S3       16               6341 faults                                                        (100.00%)
+S3       16                 90 migrations                                                  
+
+      86.705839182 seconds time elapsed
+
+ Time Elapsed: 87
+Socket: 0  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      2172758670479 cycles                    #    0.000 GHz                      (50.05%)
+S0       16       171855225142 instructions              #    5.00  insns per cycle          (74.44%)
+S0       16        57757334364 cache-references                                              (75.35%)
+S0       16          154072207 cache-misses              #   16.638 % of all cache refs      (74.60%)
+S0       16               9787 faults                                                        (100.00%)
+S0       16                 50 migrations                                                  
+S1       16          864510359 cycles                    #    0.000 GHz                      (49.29%)
+S1       16          250808393 instructions              #    0.00  insns per cycle          (74.81%)
+S1       16           73832081 cache-references                                              (75.71%)
+S1       16            5237216 cache-misses                                                  (75.00%)
+S1       16               4902 faults                                                        (100.00%)
+S1       16                 34 migrations                                                  
+S2       16          605856975 cycles                    #    0.000 GHz                      (50.07%)
+S2       16          109923505 instructions              #    0.00  insns per cycle          (74.88%)
+S2       16           32473541 cache-references                                              (74.87%)
+S2       16            1799490 cache-misses                                                  (75.06%)
+S2       16               3668 faults                                                        (100.00%)
+S2       16                 41 migrations                                                  
+S3       16        25814452249 cycles                    #    0.000 GHz                      (49.56%)
+S3       16         5694161501 instructions              #    0.00  insns per cycle          (74.80%)
+S3       16         1402078114 cache-references                                              (75.04%)
+S3       16           39966652 cache-misses                                                  (75.40%)
+S3       16               6333 faults                                                        (100.00%)
+S3       16                 94 migrations                                                  
+
+     112.769713528 seconds time elapsed
+
+ Time Elapsed: 112
+Socket: 0  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      2538645304759 cycles                    #    0.000 GHz                      (49.80%)
+S0       16       172707568613 instructions              #    4.29  insns per cycle          (75.63%)
+S0       16        56824687244 cache-references                                              (74.93%)
+S0       16          161228309 cache-misses              #   17.518 % of all cache refs      (75.27%)
+S0       16              10109 faults                                                        (100.00%)
+S0       16                 44 migrations                                                  
+S1       16         1030769543 cycles                    #    0.000 GHz                      (49.45%)
+S1       16          334615892 instructions              #    0.00  insns per cycle          (74.35%)
+S1       16           97270630 cache-references                                              (75.72%)
+S1       16            6800353 cache-misses                                                  (74.83%)
+S1       16               7357 faults                                                        (100.00%)
+S1       16                 44 migrations                                                  
+S2       16          715039043 cycles                    #    0.000 GHz                      (49.76%)
+S2       16          136770319 instructions              #    0.00  insns per cycle          (75.33%)
+S2       16           40058182 cache-references                                              (75.71%)
+S2       16            2463309 cache-misses                                                  (74.54%)
+S2       16               3836 faults                                                        (100.00%)
+S2       16                 48 migrations                                                  
+S3       16        34826205897 cycles                    #    0.000 GHz                      (49.91%)
+S3       16         7797956054 instructions              #    0.00  insns per cycle          (76.12%)
+S3       16         1939419144 cache-references                                              (76.04%)
+S3       16           38303471 cache-misses                                                  (74.05%)
+S3       16               5880 faults                                                        (100.00%)
+S3       16                116 migrations                                                  
+
+     131.776721846 seconds time elapsed
+
+ Time Elapsed: 132
+Socket: 0  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      3061463911988 cycles                    #    0.000 GHz                      (50.11%)
+S0       16       175050143461 instructions              #    3.61  insns per cycle          (75.35%)
+S0       16        57621745323 cache-references                                              (74.73%)
+S0       16          200045028 cache-misses              #   21.372 % of all cache refs      (75.16%)
+S0       16              11145 faults                                                        (100.00%)
+S0       16                 51 migrations                                                  
+S1       16         1193841929 cycles                    #    0.000 GHz                      (50.12%)
+S1       16          360045058 instructions              #    0.00  insns per cycle          (75.29%)
+S1       16          107240275 cache-references                                              (75.33%)
+S1       16            7424189 cache-misses                                                  (74.55%)
+S1       16               8302 faults                                                        (100.00%)
+S1       16                 71 migrations                                                  
+S2       16          929468028 cycles                    #    0.000 GHz                      (50.48%)
+S2       16          158062204 instructions              #    0.00  insns per cycle          (75.26%)
+S2       16           48268988 cache-references                                              (75.16%)
+S2       16            2747099 cache-misses                                                  (74.36%)
+S2       16               5776 faults                                                        (100.00%)
+S2       16                 66 migrations                                                  
+S3       16        40261491142 cycles                    #    0.000 GHz                      (50.19%)
+S3       16         8595267236 instructions              #    0.00  insns per cycle          (75.25%)
+S3       16         2127744268 cache-references                                              (75.67%)
+S3       16           55442015 cache-misses                                                  (74.14%)
+S3       16               9104 faults                                                        (100.00%)
+S3       16                125 migrations                                                  
+
+     155.396098388 seconds time elapsed
+
+ Time Elapsed: 156
+Socket: 0  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      3221812159792 cycles                    #    0.000 GHz                      (49.52%)
+S0       16       177089358183 instructions              #    3.48  insns per cycle          (75.06%)
+S0       16        57857212272 cache-references                                              (75.14%)
+S0       16          192106213 cache-misses              #   20.613 % of all cache refs      (75.33%)
+S0       16               9798 faults                                                        (100.00%)
+S0       16                 40 migrations                                                  
+S1       16         9376136297 cycles                    #    0.000 GHz                      (49.75%)
+S1       16         2656539480 instructions              #    0.00  insns per cycle          (75.55%)
+S1       16          726943283 cache-references                                              (75.77%)
+S1       16           23295957 cache-misses                                                  (74.48%)
+S1       16               6390 faults                                                        (100.00%)
+S1       16                 46 migrations                                                  
+S2       16          841019512 cycles                    #    0.000 GHz                      (49.47%)
+S2       16          148962835 instructions              #    0.00  insns per cycle          (74.65%)
+S2       16           43135129 cache-references                                              (75.34%)
+S2       16            2362980 cache-misses                                                  (75.19%)
+S2       16               3661 faults                                                        (100.00%)
+S2       16                 43 migrations                                                  
+S3       16        21894664628 cycles                    #    0.000 GHz                      (51.09%)
+S3       16         4326070387 instructions              #    0.00  insns per cycle          (75.46%)
+S3       16         1019981475 cache-references                                              (74.94%)
+S3       16           12383879 cache-misses                                                  (73.98%)
+S3       16               6333 faults                                                        (100.00%)
+S3       16                 89 migrations                                                  
+
+     164.140478115 seconds time elapsed
+
+ Time Elapsed: 164
+Socket: 0  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      2996914326747 cycles                    #    0.000 GHz                      (50.11%)
+S0       16       174878995532 instructions              #    3.68  insns per cycle          (75.43%)
+S0       16        57534418013 cache-references                                              (74.74%)
+S0       16          199086412 cache-misses              #   21.336 % of all cache refs      (75.15%)
+S0       16              11222 faults                                                        (100.00%)
+S0       16                 55 migrations                                                  
+S1       16         6345141877 cycles                    #    0.000 GHz                      (49.93%)
+S1       16         1299490527 instructions              #    0.00  insns per cycle          (74.78%)
+S1       16          460687032 cache-references                                              (75.43%)
+S1       16           13107666 cache-misses                                                  (74.64%)
+S1       16               7000 faults                                                        (100.00%)
+S1       16                100 migrations                                                  
+S2       16          776798015 cycles                    #    0.000 GHz                      (49.49%)
+S2       16          153379902 instructions              #    0.00  insns per cycle          (74.06%)
+S2       16           46382753 cache-references                                              (76.35%)
+S2       16            2743715 cache-misses                                                  (74.16%)
+S2       16               5540 faults                                                        (100.00%)
+S2       16                 61 migrations                                                  
+S3       16        36369103860 cycles                    #    0.000 GHz                      (50.67%)
+S3       16         6631698666 instructions              #    0.00  insns per cycle          (75.20%)
+S3       16         1677368281 cache-references                                              (75.15%)
+S3       16           34591903 cache-misses                                                  (74.18%)
+S3       16               9436 faults                                                        (100.00%)
+S3       16                172 migrations                                                  
+
+     152.281108051 seconds time elapsed
+
+ Time Elapsed: 152
+Socket: 0  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=0 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      4395669941065 cycles                    #    0.000 GHz                      (49.67%)
+S0       16       179057425275 instructions              #    2.58  insns per cycle          (74.79%)
+S0       16        58235377530 cache-references                                              (74.83%)
+S0       16          258877020 cache-misses              #   26.861 % of all cache refs      (75.50%)
+S0       16              14273 faults                                                        (100.00%)
+S0       16                 83 migrations                                                  
+S1       16        48265963324 cycles                    #    0.000 GHz                      (49.07%)
+S1       16        11251245749 instructions              #    0.00  insns per cycle          (74.16%)
+S1       16         3234979161 cache-references                                              (75.07%)
+S1       16           95641982 cache-misses                                                  (75.86%)
+S1       16              15831 faults                                                        (100.00%)
+S1       16                147 migrations                                                  
+S2       16         1800372380 cycles                    #    0.000 GHz                      (50.24%)
+S2       16          314810976 instructions              #    0.00  insns per cycle          (75.47%)
+S2       16          106920216 cache-references                                              (74.52%)
+S2       16            5610714 cache-misses                                                  (75.24%)
+S2       16              12706 faults                                                        (100.00%)
+S2       16                152 migrations                                                  
+S3       16         1825561780 cycles                    #    0.000 GHz                      (50.17%)
+S3       16          318775889 instructions              #    0.00  insns per cycle          (75.09%)
+S3       16          104831286 cache-references                                              (75.18%)
+S3       16            5826251 cache-misses                                                  (74.65%)
+S3       16              16216 faults                                                        (100.00%)
+S3       16                197 migrations                                                  
+
+     221.816775724 seconds time elapsed
+
+ Time Elapsed: 222
+Socket: 1  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      1653659896567 cycles                    #    0.000 GHz                      (49.60%)
+S0       16       168161968532 instructions              #    6.45  insns per cycle          (75.07%)
+S0       16        57790574615 cache-references                                              (75.40%)
+S0       16           75505894 cache-misses              #    8.161 % of all cache refs      (75.00%)
+S0       16               8274 faults                                                        (100.00%)
+S0       16                 26 migrations                                                  
+S1       16        14304681501 cycles                    #    0.000 GHz                      (49.70%)
+S1       16         4271575390 instructions              #    0.00  insns per cycle          (74.90%)
+S1       16         1371165286 cache-references                                              (75.50%)
+S1       16           53874210 cache-misses                                                  (74.81%)
+S1       16               3195 faults                                                        (100.00%)
+S1       16                 39 migrations                                                  
+S2       16          442159146 cycles                    #    0.000 GHz                      (48.79%)
+S2       16           78997154 instructions              #    0.00  insns per cycle          (74.20%)
+S2       16           23612953 cache-references                                              (75.13%)
+S2       16            1311146 cache-misses                                                  (76.08%)
+S2       16               1966 faults                                                        (100.00%)
+S2       16                 21 migrations                                                  
+S3       16          563738028 cycles                    #    0.000 GHz                      (48.34%)
+S3       16          100108775 instructions              #    0.00  insns per cycle          (74.34%)
+S3       16           29423855 cache-references                                              (75.62%)
+S3       16            1724007 cache-misses                                                  (76.04%)
+S3       16               3185 faults                                                        (100.00%)
+S3       16                 41 migrations                                                  
+
+      86.726670773 seconds time elapsed
+
+ Time Elapsed: 87
+Socket: 1  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16       895216139850 cycles                    #    0.000 GHz                      (49.92%)
+S0       16       165813043850 instructions              #   11.71  insns per cycle          (75.71%)
+S0       16        62919959926 cache-references                                              (74.94%)
+S0       16           60243415 cache-misses              #    6.024 % of all cache refs      (75.14%)
+S0       16               8327 faults                                                        (100.00%)
+S0       16                 18 migrations                                                  
+S1       16        10032744719 cycles                    #    0.000 GHz                      (48.08%)
+S1       16         3178978451 instructions              #    0.00  insns per cycle          (74.33%)
+S1       16         1035074971 cache-references                                              (76.22%)
+S1       16           41669306 cache-misses                                                  (75.70%)
+S1       16               2332 faults                                                        (100.00%)
+S1       16                 21 migrations                                                  
+S2       16          259518078 cycles                    #    0.000 GHz                      (49.67%)
+S2       16           48339698 instructions              #    0.00  insns per cycle          (75.46%)
+S2       16           15052726 cache-references                                              (75.02%)
+S2       16             790281 cache-misses                                                  (75.32%)
+S2       16               1832 faults                                                        (100.00%)
+S2       16                 20 migrations                                                  
+S3       16          470092725 cycles                    #    0.000 GHz                      (47.97%)
+S3       16          130653850 instructions              #    0.00  insns per cycle          (73.78%)
+S3       16           38555287 cache-references                                              (76.82%)
+S3       16            2174343 cache-misses                                                  (75.22%)
+S3       16               3204 faults                                                        (100.00%)
+S3       16                 42 migrations                                                  
+
+      49.110374608 seconds time elapsed
+
+ Time Elapsed: 49
+Socket: 1  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      2547746152894 cycles                    #    0.000 GHz                      (49.71%)
+S0       16       170092957658 instructions              #    4.22  insns per cycle          (74.98%)
+S0       16        55416247096 cache-references                                              (75.36%)
+S0       16          102498729 cache-misses              #   11.324 % of all cache refs      (74.93%)
+S0       16               9769 faults                                                        (100.00%)
+S0       16                 34 migrations                                                  
+S1       16        20703873326 cycles                    #    0.000 GHz                      (49.98%)
+S1       16         6440413335 instructions              #    0.00  insns per cycle          (75.07%)
+S1       16         2019310713 cache-references                                              (75.49%)
+S1       16           89026164 cache-misses                                                  (74.54%)
+S1       16               5467 faults                                                        (100.00%)
+S1       16                 57 migrations                                                  
+S2       16         6594257913 cycles                    #    0.000 GHz                      (50.19%)
+S2       16         1239188112 instructions              #    0.00  insns per cycle          (75.06%)
+S2       16           37572221 cache-references                                              (74.60%)
+S2       16            9521147 cache-misses                                                  (75.20%)
+S2       16               3667 faults                                                        (100.00%)
+S2       16                 41 migrations                                                  
+S3       16         6268260865 cycles                    #    0.000 GHz                      (49.67%)
+S3       16         1146989968 instructions              #    0.00  insns per cycle          (74.94%)
+S3       16          457764113 cache-references                                              (75.12%)
+S3       16           18588783 cache-misses                                                  (75.21%)
+S3       16               6372 faults                                                        (100.00%)
+S3       16                 80 migrations                                                  
+
+     131.636496652 seconds time elapsed
+
+ Time Elapsed: 132
+Socket: 1  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      2188250092820 cycles                    #    0.000 GHz                      (49.77%)
+S0       16       168631825855 instructions              #    4.89  insns per cycle          (75.04%)
+S0       16        57139341167 cache-references                                              (74.96%)
+S0       16           92398744 cache-misses              #    9.985 % of all cache refs      (75.28%)
+S0       16               9766 faults                                                        (100.00%)
+S0       16                 28 migrations                                                  
+S1       16        16929792288 cycles                    #    0.000 GHz                      (51.47%)
+S1       16         5987172230 instructions              #    0.00  insns per cycle          (75.89%)
+S1       16         1968274659 cache-references                                              (74.91%)
+S1       16           85838479 cache-misses                                                  (73.63%)
+S1       16               4908 faults                                                        (100.00%)
+S1       16                 43 migrations                                                  
+S2       16          594732180 cycles                    #    0.000 GHz                      (49.59%)
+S2       16          112057889 instructions              #    0.00  insns per cycle          (74.99%)
+S2       16           35097877 cache-references                                              (74.59%)
+S2       16            1794151 cache-misses                                                  (75.83%)
+S2       16               3761 faults                                                        (100.00%)
+S2       16                 40 migrations                                                  
+S3       16          905987759 cycles                    #    0.000 GHz                      (49.91%)
+S3       16          262072951 instructions              #    0.00  insns per cycle          (74.56%)
+S3       16           80622272 cache-references                                              (74.54%)
+S3       16            4793633 cache-misses                                                  (75.55%)
+S3       16               6272 faults                                                        (100.00%)
+S3       16                 80 migrations                                                  
+
+     112.926454460 seconds time elapsed
+
+ Time Elapsed: 113
+Socket: 1  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      3089534680108 cycles                    #    0.000 GHz                      (49.74%)
+S0       16       170702032358 instructions              #    3.49  insns per cycle          (74.85%)
+S0       16        56232577360 cache-references                                              (75.13%)
+S0       16          112091100 cache-misses              #   11.930 % of all cache refs      (75.14%)
+S0       16              11398 faults                                                        (100.00%)
+S0       16                 46 migrations                                                  
+S1       16        41738195474 cycles                    #    0.000 GHz                      (49.55%)
+S1       16        12323328257 instructions              #    0.00  insns per cycle          (75.09%)
+S1       16         3746382294 cache-references                                              (75.12%)
+S1       16          145889182 cache-misses                                                  (75.34%)
+S1       16               8323 faults                                                        (100.00%)
+S1       16                 77 migrations                                                  
+S2       16          922120135 cycles                    #    0.000 GHz                      (49.75%)
+S2       16          152882723 instructions              #    0.00  insns per cycle          (74.85%)
+S2       16           46525686 cache-references                                              (75.00%)
+S2       16            2720147 cache-misses                                                  (75.25%)
+S2       16               5544 faults                                                        (100.00%)
+S2       16                 68 migrations                                                  
+S3       16         1233322004 cycles                    #    0.000 GHz                      (49.63%)
+S3       16          350692107 instructions              #    0.00  insns per cycle          (75.15%)
+S3       16          107882563 cache-references                                              (75.71%)
+S3       16            6662151 cache-misses                                                  (74.66%)
+S3       16               9834 faults                                                        (100.00%)
+S3       16                127 migrations                                                  
+
+     156.653883524 seconds time elapsed
+
+ Time Elapsed: 156
+Socket: 1  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      3226293248249 cycles                    #    0.000 GHz                      (49.69%)
+S0       16       171490825181 instructions              #    3.36  insns per cycle          (74.75%)
+S0       16        55621234043 cache-references                                              (75.11%)
+S0       16          115037532 cache-misses              #   12.448 % of all cache refs      (75.20%)
+S0       16               9774 faults                                                        (100.00%)
+S0       16                 32 migrations                                                  
+S1       16        42224787477 cycles                    #    0.000 GHz                      (50.11%)
+S1       16        11598046266 instructions              #    0.00  insns per cycle          (75.01%)
+S1       16         3366134806 cache-references                                              (74.94%)
+S1       16          123185953 cache-misses                                                  (74.96%)
+S1       16               6720 faults                                                        (100.00%)
+S1       16                 55 migrations                                                  
+S2       16          847959634 cycles                    #    0.000 GHz                      (49.49%)
+S2       16          147552430 instructions              #    0.00  insns per cycle          (75.34%)
+S2       16           44495426 cache-references                                              (75.51%)
+S2       16            2526156 cache-misses                                                  (75.00%)
+S2       16               3332 faults                                                        (100.00%)
+S2       16                 40 migrations                                                  
+S3       16         1186626714 cycles                    #    0.000 GHz                      (50.82%)
+S3       16          363348884 instructions              #    0.00  insns per cycle          (75.57%)
+S3       16          112206484 cache-references                                              (74.65%)
+S3       16            6571440 cache-misses                                                  (74.53%)
+S3       16               6130 faults                                                        (100.00%)
+S3       16                 85 migrations                                                  
+
+     165.199421313 seconds time elapsed
+
+ Time Elapsed: 166
+Socket: 1  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      4408993438439 cycles                    #    0.000 GHz                      (49.82%)
+S0       16       173524015246 instructions              #    2.49  insns per cycle          (75.02%)
+S0       16        55945201124 cache-references                                              (75.21%)
+S0       16          138498010 cache-misses              #   14.527 % of all cache refs      (74.96%)
+S0       16              12656 faults                                                        (100.00%)
+S0       16                 59 migrations                                                  
+S1       16        54882561972 cycles                    #    0.000 GHz                      (49.75%)
+S1       16        15775068196 instructions              #    0.00  insns per cycle          (74.85%)
+S1       16         4849449243 cache-references                                              (75.13%)
+S1       16          199722219 cache-misses                                                  (75.12%)
+S1       16              10717 faults                                                        (100.00%)
+S1       16                 98 migrations                                                  
+S2       16         1184105392 cycles                    #    0.000 GHz                      (49.94%)
+S2       16          212745344 instructions              #    0.00  insns per cycle          (75.02%)
+S2       16           65721092 cache-references                                              (74.88%)
+S2       16            3697046 cache-misses                                                  (75.19%)
+S2       16               7103 faults                                                        (100.00%)
+S2       16                 79 migrations                                                  
+S3       16         2061577428 cycles                    #    0.000 GHz                      (50.16%)
+S3       16          496139615 instructions              #    0.00  insns per cycle          (74.77%)
+S3       16          155742492 cache-references                                              (74.52%)
+S3       16            9198356 cache-misses                                                  (75.32%)
+S3       16              12352 faults                                                        (100.00%)
+S3       16                167 migrations                                                  
+
+     222.498113255 seconds time elapsed
+
+ Time Elapsed: 222
+Socket: 1  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=1 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16      3036007584704 cycles                    #    0.000 GHz                      (49.77%)
+S0       16       171407055163 instructions              #    3.58  insns per cycle          (74.92%)
+S0       16        55983554984 cache-references                                              (75.29%)
+S0       16          111549589 cache-misses              #   12.111 % of all cache refs      (74.94%)
+S0       16              13966 faults                                                        (100.00%)
+S0       16                 69 migrations                                                  
+S1       16        23161031990 cycles                    #    0.000 GHz                      (49.30%)
+S1       16         8271022181 instructions              #    0.00  insns per cycle          (75.06%)
+S1       16         2760037738 cache-references                                              (75.41%)
+S1       16          115560424 cache-misses                                                  (75.29%)
+S1       16              13842 faults                                                        (100.00%)
+S1       16                115 migrations                                                  
+S2       16         1200540680 cycles                    #    0.000 GHz                      (49.96%)
+S2       16          239127892 instructions              #    0.00  insns per cycle          (74.95%)
+S2       16           80825900 cache-references                                              (74.94%)
+S2       16            4202808 cache-misses                                                  (75.10%)
+S2       16              13229 faults                                                        (100.00%)
+S2       16                139 migrations                                                  
+S3       16         1570263498 cycles                    #    0.000 GHz                      (49.49%)
+S3       16          396596799 instructions              #    0.00  insns per cycle          (74.88%)
+S3       16          123078719 cache-references                                              (75.50%)
+S3       16            6905436 cache-misses                                                  (75.01%)
+S3       16              12568 faults                                                        (100.00%)
+S3       16                161 migrations                                                  
+
+     153.829836121 seconds time elapsed
+
+ Time Elapsed: 154
+Socket: 2  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         4794934954 cycles                    #    0.000 GHz                      (50.00%)
+S0       16          996371170 instructions              #    0.02  insns per cycle          (74.55%)
+S0       16          267038222 cache-references                                              (75.30%)
+S0       16            8236752 cache-misses              #    0.882 % of all cache refs      (74.70%)
+S0       16               3663 faults                                                        (100.00%)
+S0       16                 29 migrations                                                  
+S1       16      3065422954827 cycles                    #    0.000 GHz                      (50.26%)
+S1       16       174727675497 instructions              #    0.00  insns per cycle          (74.96%)
+S1       16        57770080842 cache-references                                              (74.26%)
+S1       16          180748982 cache-misses                                                  (75.49%)
+S1       16              11845 faults                                                        (100.00%)
+S1       16                 60 migrations                                                  
+S2       16          869714178 cycles                    #    0.000 GHz                      (49.80%)
+S2       16          149127186 instructions              #    0.00  insns per cycle          (74.87%)
+S2       16           42951574 cache-references                                              (74.58%)
+S2       16            2383082 cache-misses                                                  (75.62%)
+S2       16               4157 faults                                                        (100.00%)
+S2       16                 40 migrations                                                  
+S3       16        23841555901 cycles                    #    0.000 GHz                      (49.79%)
+S3       16         6058526866 instructions              #    0.00  insns per cycle          (74.82%)
+S3       16         1713606902 cache-references                                              (75.17%)
+S3       16           44635578 cache-misses                                                  (75.03%)
+S3       16               6328 faults                                                        (100.00%)
+S3       16                 87 migrations                                                  
+
+     156.274904050 seconds time elapsed
+
+ Time Elapsed: 156
+Socket: 2  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2517187967 cycles                    #    0.000 GHz                      (49.82%)
+S0       16          415607126 instructions              #    0.01  insns per cycle          (75.13%)
+S0       16          122689902 cache-references                                              (75.34%)
+S0       16            6413711 cache-misses              #    0.667 % of all cache refs      (74.84%)
+S0       16               8210 faults                                                        (100.00%)
+S0       16                 53 migrations                                                  
+S1       16      4441627827746 cycles                    #    0.000 GHz                      (50.13%)
+S1       16       179131234575 instructions              #    0.00  insns per cycle          (75.03%)
+S1       16        58195364603 cache-references                                              (75.07%)
+S1       16          267840208 cache-misses                                                  (74.80%)
+S1       16              14016 faults                                                        (100.00%)
+S1       16                 92 migrations                                                  
+S2       16         1158527052 cycles                    #    0.000 GHz                      (49.66%)
+S2       16          209862913 instructions              #    0.00  insns per cycle          (75.21%)
+S2       16           65946255 cache-references                                              (75.14%)
+S2       16            3685600 cache-misses                                                  (75.20%)
+S2       16               7409 faults                                                        (100.00%)
+S2       16                 83 migrations                                                  
+S3       16        44915450740 cycles                    #    0.000 GHz                      (49.03%)
+S3       16        11065222694 instructions              #    0.00  insns per cycle          (74.47%)
+S3       16         3137644710 cache-references                                              (75.21%)
+S3       16           74697437 cache-misses                                                  (75.77%)
+S3       16              12821 faults                                                        (100.00%)
+S3       16                162 migrations                                                  
+
+     224.618802048 seconds time elapsed
+
+ Time Elapsed: 225
+Socket: 2  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16          527655211 cycles                    #    0.000 GHz                      (49.20%)
+S0       16           97522726 instructions              #    0.01  insns per cycle          (75.17%)
+S0       16           27772840 cache-references                                              (75.23%)
+S0       16            1374771 cache-misses              #    0.140 % of all cache refs      (75.58%)
+S0       16               2244 faults                                                        (100.00%)
+S0       16                 14 migrations                                                  
+S1       16       925255273075 cycles                    #    0.000 GHz                      (48.40%)
+S1       16       170283979057 instructions              #    0.00  insns per cycle          (73.96%)
+S1       16        62224541656 cache-references                                              (75.29%)
+S1       16           90028206 cache-misses                                                  (76.32%)
+S1       16               8429 faults                                                        (100.00%)
+S1       16                 40 migrations                                                  
+S2       16          285750131 cycles                    #    0.000 GHz                      (50.16%)
+S2       16           52281861 instructions              #    0.00  insns per cycle          (75.37%)
+S2       16           18309483 cache-references                                              (73.94%)
+S2       16             857969 cache-misses                                                  (75.90%)
+S2       16               1844 faults                                                        (100.00%)
+S2       16                 26 migrations                                                  
+S3       16         8918646857 cycles                    #    0.000 GHz                      (49.46%)
+S3       16         2637817437 instructions              #    0.00  insns per cycle          (75.54%)
+S3       16          666134983 cache-references                                              (74.78%)
+S3       16           17711488 cache-misses                                                  (75.76%)
+S3       16               3204 faults                                                        (100.00%)
+S3       16                 50 migrations                                                  
+
+      49.026820628 seconds time elapsed
+
+ Time Elapsed: 49
+Socket: 2  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16          864020349 cycles                    #    0.000 GHz                      (49.21%)
+S0       16          161094646 instructions              #    0.01  insns per cycle          (74.53%)
+S0       16           47816372 cache-references                                              (75.38%)
+S0       16            2290522 cache-misses              #    0.247 % of all cache refs      (75.42%)
+S0       16               2243 faults                                                        (100.00%)
+S0       16                 16 migrations                                                  
+S1       16      1659769681534 cycles                    #    0.000 GHz                      (49.86%)
+S1       16       169849922966 instructions              #    0.00  insns per cycle          (74.96%)
+S1       16        58163747173 cache-references                                              (75.22%)
+S1       16          108611014 cache-misses                                                  (74.93%)
+S1       16               9457 faults                                                        (100.00%)
+S1       16                 39 migrations                                                  
+S2       16          421491219 cycles                    #    0.000 GHz                      (49.76%)
+S2       16           79431478 instructions              #    0.00  insns per cycle          (74.84%)
+S2       16           23015533 cache-references                                              (75.38%)
+S2       16            1241604 cache-misses                                                  (74.86%)
+S2       16               1837 faults                                                        (100.00%)
+S2       16                 22 migrations                                                  
+S3       16        17139734794 cycles                    #    0.000 GHz                      (49.14%)
+S3       16         3872616181 instructions              #    0.00  insns per cycle          (74.18%)
+S3       16         1062102495 cache-references                                              (75.51%)
+S3       16           29933545 cache-misses                                                  (75.35%)
+S3       16               3211 faults                                                        (100.00%)
+S3       16                 45 migrations                                                  
+
+      87.049286447 seconds time elapsed
+
+ Time Elapsed: 87
+Socket: 2  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         8378418011 cycles                    #    0.000 GHz                      (49.24%)
+S0       16         2192246861 instructions              #    0.05  insns per cycle          (74.72%)
+S0       16          615323950 cache-references                                              (75.33%)
+S0       16           16112981 cache-misses              #    1.731 % of all cache refs      (75.43%)
+S0       16               7316 faults                                                        (100.00%)
+S0       16                 49 migrations                                                  
+S1       16      2952386077723 cycles                    #    0.000 GHz                      (49.74%)
+S1       16       175074551865 instructions              #    0.00  insns per cycle          (74.58%)
+S1       16        57756171260 cache-references                                              (74.96%)
+S1       16          201321861 cache-misses                                                  (75.30%)
+S1       16              12443 faults                                                        (100.00%)
+S1       16                 72 migrations                                                  
+S2       16         1636556895 cycles                    #    0.000 GHz                      (49.76%)
+S2       16          331087598 instructions              #    0.00  insns per cycle          (74.71%)
+S2       16           93818323 cache-references                                              (75.45%)
+S2       16            3138936 cache-misses                                                  (74.79%)
+S2       16               5691 faults                                                        (100.00%)
+S2       16                 65 migrations                                                  
+S3       16        15325128363 cycles                    #    0.000 GHz                      (49.49%)
+S3       16         3980795168 instructions              #    0.00  insns per cycle          (74.72%)
+S3       16         1101077234 cache-references                                              (75.22%)
+S3       16           30524430 cache-misses                                                  (75.29%)
+S3       16               9476 faults                                                        (100.00%)
+S3       16                126 migrations                                                  
+
+     150.341230059 seconds time elapsed
+
+ Time Elapsed: 151
+Socket: 2  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1051492468 cycles                    #    0.000 GHz                      (50.06%)
+S0       16          193809154 instructions              #    0.01  insns per cycle          (75.72%)
+S0       16           57549608 cache-references                                              (75.71%)
+S0       16            2693393 cache-misses              #    0.291 % of all cache refs      (74.23%)
+S0       16               2231 faults                                                        (100.00%)
+S0       16                 22 migrations                                                  
+S1       16      2111686044895 cycles                    #    0.000 GHz                      (50.05%)
+S1       16       172298354239 instructions              #    0.00  insns per cycle          (75.03%)
+S1       16        57911569439 cache-references                                              (75.11%)
+S1       16          156928814 cache-misses                                                  (74.84%)
+S1       16               9917 faults                                                        (100.00%)
+S1       16                 34 migrations                                                  
+S2       16         3710878100 cycles                    #    0.000 GHz                      (49.04%)
+S2       16         1271346652 instructions              #    0.00  insns per cycle          (74.35%)
+S2       16          370198256 cache-references                                              (75.46%)
+S2       16            9023369 cache-misses                                                  (75.50%)
+S2       16               2176 faults                                                        (100.00%)
+S2       16                 22 migrations                                                  
+S3       16        13127953920 cycles                    #    0.000 GHz                      (49.42%)
+S3       16         3270615351 instructions              #    0.00  insns per cycle          (74.43%)
+S3       16          916707321 cache-references                                              (75.64%)
+S3       16           25046968 cache-misses                                                  (74.95%)
+S3       16               3164 faults                                                        (100.00%)
+S3       16                 46 migrations                                                  
+
+     109.299999710 seconds time elapsed
+
+ Time Elapsed: 109
+Socket: 2  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1608110463 cycles                    #    0.000 GHz                      (50.38%)
+S0       16          289302845 instructions              #    0.01  insns per cycle          (75.72%)
+S0       16           85284392 cache-references                                              (74.74%)
+S0       16            4297900 cache-misses              #    0.461 % of all cache refs      (74.88%)
+S0       16               5407 faults                                                        (100.00%)
+S0       16                 37 migrations                                                  
+S1       16      3015030343880 cycles                    #    0.000 GHz                      (50.43%)
+S1       16       173156574283 instructions              #    0.00  insns per cycle          (75.23%)
+S1       16        57224797483 cache-references                                              (74.55%)
+S1       16          180184068 cache-misses                                                  (75.03%)
+S1       16              11571 faults                                                        (100.00%)
+S1       16                 67 migrations                                                  
+S2       16          798146223 cycles                    #    0.000 GHz                      (49.94%)
+S2       16          140347583 instructions              #    0.00  insns per cycle          (75.53%)
+S2       16           41734844 cache-references                                              (75.06%)
+S2       16            2390977 cache-misses                                                  (75.00%)
+S2       16               4413 faults                                                        (100.00%)
+S2       16                 49 migrations                                                  
+S3       16        39721180782 cycles                    #    0.000 GHz                      (50.22%)
+S3       16         8705144625 instructions              #    0.00  insns per cycle          (75.96%)
+S3       16         2300637671 cache-references                                              (75.47%)
+S3       16           59179302 cache-misses                                                  (74.31%)
+S3       16               7454 faults                                                        (100.00%)
+S3       16                102 migrations                                                  
+
+     153.669473252 seconds time elapsed
+
+ Time Elapsed: 154
+Socket: 2  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=2 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1576189625 cycles                    #    0.000 GHz                      (49.31%)
+S0       16          290102463 instructions              #    0.01  insns per cycle          (74.72%)
+S0       16           86041364 cache-references                                              (75.44%)
+S0       16            4303850 cache-misses              #    0.460 % of all cache refs      (75.25%)
+S0       16               6344 faults                                                        (100.00%)
+S0       16                 44 migrations                                                  
+S1       16      3034105864172 cycles                    #    0.000 GHz                      (50.12%)
+S1       16       175335808465 instructions              #    0.00  insns per cycle          (74.93%)
+S1       16        57657103491 cache-references                                              (74.77%)
+S1       16          202479160 cache-misses                                                  (75.11%)
+S1       16              11841 faults                                                        (100.00%)
+S1       16                 75 migrations                                                  
+S2       16          772541618 cycles                    #    0.000 GHz                      (49.41%)
+S2       16          149885499 instructions              #    0.00  insns per cycle          (74.84%)
+S2       16           44605353 cache-references                                              (75.11%)
+S2       16            2518400 cache-misses                                                  (75.48%)
+S2       16               5497 faults                                                        (100.00%)
+S2       16                 61 migrations                                                  
+S3       16        34743008622 cycles                    #    0.000 GHz                      (48.34%)
+S3       16         7698122890 instructions              #    0.00  insns per cycle          (74.09%)
+S3       16         2067981285 cache-references                                              (75.90%)
+S3       16           52265352 cache-misses                                                  (75.77%)
+S3       16               9519 faults                                                        (100.00%)
+S3       16                121 migrations                                                  
+
+     153.831072846 seconds time elapsed
+
+ Time Elapsed: 154
+Socket: 3  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         6188044823 cycles                    #    0.000 GHz                      (50.08%)
+S0       16         1221154792 instructions              #    0.02  insns per cycle          (74.65%)
+S0       16          320858070 cache-references                                              (75.12%)
+S0       16           17340629 cache-misses              #    1.807 % of all cache refs      (74.80%)
+S0       16              14624 faults                                                        (100.00%)
+S0       16                 74 migrations                                                  
+S1       16      4482915466551 cycles                    #    0.000 GHz                      (50.28%)
+S1       16       180823198932 instructions              #    0.00  insns per cycle          (75.13%)
+S1       16        58564326398 cache-references                                              (74.91%)
+S1       16          246727760 cache-misses                                                  (74.81%)
+S1       16              11306 faults                                                        (100.00%)
+S1       16                 90 migrations                                                  
+S2       16         1526681282 cycles                    #    0.000 GHz                      (50.21%)
+S2       16          280344390 instructions              #    0.00  insns per cycle          (75.10%)
+S2       16           91536279 cache-references                                              (75.73%)
+S2       16            5026176 cache-misses                                                  (74.06%)
+S2       16              12714 faults                                                        (100.00%)
+S2       16                120 migrations                                                  
+S3       16        40353768367 cycles                    #    0.000 GHz                      (50.23%)
+S3       16         8999048898 instructions              #    0.00  insns per cycle          (75.57%)
+S3       16         2437358661 cache-references                                              (75.16%)
+S3       16           65873569 cache-misses                                                  (74.61%)
+S3       16              13010 faults                                                        (100.00%)
+S3       16                181 migrations                                                  
+
+     225.070248762 seconds time elapsed
+
+ Time Elapsed: 225
+Socket: 3  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5202974199 cycles                    #    0.000 GHz                      (49.05%)
+S0       16         1108037467 instructions              #    0.02  insns per cycle          (74.89%)
+S0       16          297420453 cache-references                                              (75.70%)
+S0       16           14866339 cache-misses              #    1.601 % of all cache refs      (75.25%)
+S0       16               9913 faults                                                        (100.00%)
+S0       16                 43 migrations                                                  
+S1       16      3058173060986 cycles                    #    0.000 GHz                      (49.70%)
+S1       16       174366912401 instructions              #    0.00  insns per cycle          (75.13%)
+S1       16        57305996107 cache-references                                              (75.38%)
+S1       16          195544108 cache-misses                                                  (74.92%)
+S1       16               8397 faults                                                        (100.00%)
+S1       16                 60 migrations                                                  
+S2       16          884020279 cycles                    #    0.000 GHz                      (49.33%)
+S2       16          156710664 instructions              #    0.00  insns per cycle          (74.37%)
+S2       16           44159269 cache-references                                              (75.67%)
+S2       16            2722572 cache-misses                                                  (75.00%)
+S2       16               5500 faults                                                        (100.00%)
+S2       16                 64 migrations                                                  
+S3       16        29838160533 cycles                    #    0.000 GHz                      (49.38%)
+S3       16         7113390218 instructions              #    0.00  insns per cycle          (74.62%)
+S3       16         1782685731 cache-references                                              (75.11%)
+S3       16           48758984 cache-misses                                                  (75.51%)
+S3       16               9516 faults                                                        (100.00%)
+S3       16                120 migrations                                                  
+
+     154.844759744 seconds time elapsed
+
+ Time Elapsed: 155
+Socket: 3  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1961377885 cycles                    #    0.000 GHz                      (49.72%)
+S0       16          395505037 instructions              #    0.02  insns per cycle          (76.03%)
+S0       16          112676317 cache-references                                              (76.27%)
+S0       16            7055713 cache-misses              #    0.762 % of all cache refs      (74.01%)
+S0       16               4307 faults                                                        (100.00%)
+S0       16                 14 migrations                                                  
+S1       16      1647471729652 cycles                    #    0.000 GHz                      (50.21%)
+S1       16       169489747067 instructions              #    0.00  insns per cycle          (75.23%)
+S1       16        57971261568 cache-references                                              (75.40%)
+S1       16          103464339 cache-misses                                                  (74.39%)
+S1       16               7277 faults                                                        (100.00%)
+S1       16                 35 migrations                                                  
+S2       16        12532877014 cycles                    #    0.000 GHz                      (47.49%)
+S2       16         2645311185 instructions              #    0.00  insns per cycle          (73.80%)
+S2       16          694275204 cache-references                                              (76.58%)
+S2       16           18500906 cache-misses                                                  (75.93%)
+S2       16               1833 faults                                                        (100.00%)
+S2       16                 21 migrations                                                  
+S3       16         5740028100 cycles                    #    0.000 GHz                      (48.01%)
+S3       16         1513321354 instructions              #    0.00  insns per cycle          (73.81%)
+S3       16          481824998 cache-references                                              (75.86%)
+S3       16           13921892 cache-misses                                                  (76.13%)
+S3       16               3211 faults                                                        (100.00%)
+S3       16                 43 migrations                                                  
+
+      86.676137468 seconds time elapsed
+
+ Time Elapsed: 86
+Socket: 3  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1249621517 cycles                    #    0.000 GHz                      (47.85%)
+S0       16          242835410 instructions              #    0.02  insns per cycle          (74.35%)
+S0       16           71554029 cache-references                                              (75.93%)
+S0       16            3956392 cache-misses              #    0.399 % of all cache refs      (76.22%)
+S0       16               3388 faults                                                        (100.00%)
+S0       16                 14 migrations                                                  
+S1       16       895868727991 cycles                    #    0.000 GHz                      (49.35%)
+S1       16       167123352302 instructions              #    0.00  insns per cycle          (75.64%)
+S1       16        62754259200 cache-references                                              (75.75%)
+S1       16           89633424 cache-misses                                                  (74.91%)
+S1       16               7278 faults                                                        (100.00%)
+S1       16                 36 migrations                                                  
+S2       16         1210497346 cycles                    #    0.000 GHz                      (50.70%)
+S2       16          333509423 instructions              #    0.00  insns per cycle          (76.16%)
+S2       16          120774187 cache-references                                              (76.75%)
+S2       16            2729648 cache-misses                                                  (72.55%)
+S2       16               1881 faults                                                        (100.00%)
+S2       16                 22 migrations                                                  
+S3       16         9141900327 cycles                    #    0.000 GHz                      (51.29%)
+S3       16         2160069350 instructions              #    0.00  insns per cycle          (76.12%)
+S3       16          540563297 cache-references                                              (75.59%)
+S3       16           15345562 cache-misses                                                  (73.13%)
+S3       16               3162 faults                                                        (100.00%)
+S3       16                 49 migrations                                                  
+
+      48.797699598 seconds time elapsed
+
+ Time Elapsed: 49
+Socket: 3  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3723094838 cycles                    #    0.000 GHz                      (49.49%)
+S0       16          752586755 instructions              #    0.02  insns per cycle          (74.68%)
+S0       16          207384392 cache-references                                              (75.73%)
+S0       16           13003310 cache-misses              #    1.392 % of all cache refs      (74.78%)
+S0       16              11092 faults                                                        (100.00%)
+S0       16                214 migrations                                                  
+S1       16      3027720921922 cycles                    #    0.000 GHz                      (49.93%)
+S1       16       174348432789 instructions              #    0.00  insns per cycle          (75.14%)
+S1       16        57574978290 cache-references                                              (74.78%)
+S1       16          191977195 cache-misses                                                  (75.29%)
+S1       16               9114 faults                                                        (100.00%)
+S1       16                 69 migrations                                                  
+S2       16        13192377048 cycles                    #    0.000 GHz                      (48.38%)
+S2       16         3150902567 instructions              #    0.00  insns per cycle          (73.99%)
+S2       16          790615295 cache-references                                              (76.23%)
+S2       16           20344628 cache-misses                                                  (75.39%)
+S2       16               5707 faults                                                        (100.00%)
+S2       16                 66 migrations                                                  
+S3       16        17597840447 cycles                    #    0.000 GHz                      (49.51%)
+S3       16         4566217320 instructions              #    0.00  insns per cycle          (75.08%)
+S3       16         1223184012 cache-references                                              (75.74%)
+S3       16           33270226 cache-misses                                                  (74.75%)
+S3       16               9092 faults                                                        (100.00%)
+S3       16                121 migrations                                                  
+
+     154.228968050 seconds time elapsed
+
+ Time Elapsed: 154
+Socket: 3  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2449721074 cycles                    #    0.000 GHz                      (49.90%)
+S0       16          508274661 instructions              #    0.01  insns per cycle          (75.22%)
+S0       16          140528207 cache-references                                              (75.84%)
+S0       16            9285253 cache-misses              #    1.000 % of all cache refs      (74.26%)
+S0       16               7056 faults                                                        (100.00%)
+S0       16                254 migrations                                                  
+S1       16      2155742420018 cycles                    #    0.000 GHz                      (49.69%)
+S1       16       171789866997 instructions              #    0.00  insns per cycle          (74.89%)
+S1       16        57682497398 cache-references                                              (75.34%)
+S1       16          150847763 cache-misses                                                  (74.97%)
+S1       16               7834 faults                                                        (100.00%)
+S1       16                 51 migrations                                                  
+S2       16          630619064 cycles                    #    0.000 GHz                      (50.83%)
+S2       16          111056437 instructions              #    0.00  insns per cycle          (75.52%)
+S2       16           31816192 cache-references                                              (75.01%)
+S2       16            1868199 cache-misses                                                  (74.16%)
+S2       16               3669 faults                                                        (100.00%)
+S2       16                 46 migrations                                                  
+S3       16        25665601646 cycles                    #    0.000 GHz                      (49.24%)
+S3       16         5990171659 instructions              #    0.00  insns per cycle          (74.79%)
+S3       16         1553446511 cache-references                                              (75.32%)
+S3       16           40582877 cache-misses                                                  (75.45%)
+S3       16               6355 faults                                                        (100.00%)
+S3       16                 82 migrations                                                  
+
+     111.505387298 seconds time elapsed
+
+ Time Elapsed: 112
+Socket: 3  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5436070767 cycles                    #    0.000 GHz                      (49.96%)
+S0       16         1109333994 instructions              #    0.02  insns per cycle          (75.21%)
+S0       16          305422122 cache-references                                              (75.30%)
+S0       16           18142818 cache-misses              #    1.884 % of all cache refs      (74.74%)
+S0       16              11623 faults                                                        (100.00%)
+S0       16                486 migrations                                                  
+S1       16      4577013689520 cycles                    #    0.000 GHz                      (49.63%)
+S1       16       178664295742 instructions              #    0.00  insns per cycle          (74.81%)
+S1       16        57839222721 cache-references                                              (75.45%)
+S1       16          251872852 cache-misses                                                  (74.92%)
+S1       16               8393 faults                                                        (100.00%)
+S1       16                 68 migrations                                                  
+S2       16         1246760468 cycles                    #    0.000 GHz                      (49.28%)
+S2       16          214292381 instructions              #    0.00  insns per cycle          (74.81%)
+S2       16           64898532 cache-references                                              (74.78%)
+S2       16            3600404 cache-misses                                                  (75.95%)
+S2       16               5723 faults                                                        (100.00%)
+S2       16                 65 migrations                                                  
+S3       16        54194958528 cycles                    #    0.000 GHz                      (50.75%)
+S3       16        12450816355 instructions              #    0.00  insns per cycle          (75.53%)
+S3       16         3423560731 cache-references                                              (74.86%)
+S3       16           89853638 cache-misses                                                  (74.39%)
+S3       16               9449 faults                                                        (100.00%)
+S3       16                121 migrations                                                  
+
+     230.279029259 seconds time elapsed
+
+ Time Elapsed: 230
+Socket: 3  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=3 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5212668865 cycles                    #    0.000 GHz                      (49.63%)
+S0       16         1051030660 instructions              #    0.01  insns per cycle          (75.02%)
+S0       16          293089666 cache-references                                              (75.06%)
+S0       16           17795574 cache-misses              #    1.896 % of all cache refs      (75.31%)
+S0       16              13489 faults                                                        (100.00%)
+S0       16                 55 migrations                                                  
+S1       16      4540200232796 cycles                    #    0.000 GHz                      (49.91%)
+S1       16       177511536070 instructions              #    0.00  insns per cycle          (74.95%)
+S1       16        57448133801 cache-references                                              (74.86%)
+S1       16          223312319 cache-misses                                                  (75.23%)
+S1       16               8950 faults                                                        (100.00%)
+S1       16                 81 migrations                                                  
+S2       16        27502071944 cycles                    #    0.000 GHz                      (49.52%)
+S2       16         6666890622 instructions              #    0.00  insns per cycle          (75.76%)
+S2       16         1915716503 cache-references                                              (75.66%)
+S2       16           45900574 cache-misses                                                  (74.83%)
+S2       16               7427 faults                                                        (100.00%)
+S2       16                 80 migrations                                                  
+S3       16         7043579379 cycles                    #    0.000 GHz                      (49.68%)
+S3       16         1723003622 instructions              #    0.00  insns per cycle          (74.77%)
+S3       16          425304647 cache-references                                              (75.19%)
+S3       16           16250835 cache-misses                                                  (75.13%)
+S3       16              12605 faults                                                        (100.00%)
+S3       16                166 migrations                                                  
+
+     228.245186025 seconds time elapsed
+
+ Time Elapsed: 229
+Socket: 4  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3862927314 cycles                    #    0.000 GHz                      (49.98%)
+S0       16          707216372 instructions              #    0.01  insns per cycle          (74.85%)
+S0       16          206953890 cache-references                                              (75.39%)
+S0       16           13783239 cache-misses              #    1.479 % of all cache refs      (74.63%)
+S0       16              13868 faults                                                        (100.00%)
+S0       16                201 migrations                                                  
+S1       16         5790496267 cycles                    #    0.000 GHz                      (49.45%)
+S1       16         4021684039 instructions              #    0.00  insns per cycle          (74.87%)
+S1       16         1536979189 cache-references                                              (75.83%)
+S1       16           90944245 cache-misses                                                  (74.73%)
+S1       16              10338 faults                                                        (100.00%)
+S1       16                139 migrations                                                  
+S2       16      3062634675746 cycles                    #    0.000 GHz                      (50.00%)
+S2       16       173845769220 instructions              #    0.00  insns per cycle          (75.26%)
+S2       16        56924994655 cache-references                                              (75.02%)
+S2       16          131302886 cache-misses                                                  (74.98%)
+S2       16              14134 faults                                                        (100.00%)
+S2       16                 75 migrations                                                  
+S3       16        15060023514 cycles                    #    0.000 GHz                      (49.38%)
+S3       16         3536066184 instructions              #    0.00  insns per cycle          (74.74%)
+S3       16          992756712 cache-references                                              (75.22%)
+S3       16           27729045 cache-misses                                                  (75.40%)
+S3       16              11722 faults                                                        (100.00%)
+S3       16                162 migrations                                                  
+
+     155.371865699 seconds time elapsed
+
+ Time Elapsed: 155
+Socket: 4  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3830236929 cycles                    #    0.000 GHz                      (50.50%)
+S0       16          742023630 instructions              #    0.02  insns per cycle          (75.43%)
+S0       16          210058860 cache-references                                              (74.79%)
+S0       16           12194227 cache-misses              #    1.312 % of all cache refs      (74.71%)
+S0       16               7400 faults                                                        (100.00%)
+S0       16                182 migrations                                                  
+S1       16         4221109649 cycles                    #    0.000 GHz                      (49.10%)
+S1       16         2792052519 instructions              #    0.00  insns per cycle          (74.85%)
+S1       16         1021723187 cache-references                                              (75.66%)
+S1       16           61667051 cache-misses                                                  (75.25%)
+S1       16               4274 faults                                                        (100.00%)
+S1       16                 75 migrations                                                  
+S2       16      3026082119359 cycles                    #    0.000 GHz                      (49.91%)
+S2       16       169798830818 instructions              #    0.00  insns per cycle          (75.28%)
+S2       16        56293563630 cache-references                                              (74.86%)
+S2       16          107561085 cache-misses                                                  (75.23%)
+S2       16               8233 faults                                                        (100.00%)
+S2       16                 35 migrations                                                  
+S3       16        28624062963 cycles                    #    0.000 GHz                      (50.13%)
+S3       16         7462423785 instructions              #    0.00  insns per cycle          (75.11%)
+S3       16         1978182866 cache-references                                              (75.04%)
+S3       16           48279352 cache-misses                                                  (74.83%)
+S3       16               5707 faults                                                        (100.00%)
+S3       16                 87 migrations                                                  
+
+     153.907296960 seconds time elapsed
+
+ Time Elapsed: 154
+Socket: 4  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3493118832 cycles                    #    0.000 GHz                      (50.09%)
+S0       16          717840122 instructions              #    0.02  insns per cycle          (75.53%)
+S0       16          206890625 cache-references                                              (74.90%)
+S0       16           12677280 cache-misses              #    1.352 % of all cache refs      (75.00%)
+S0       16               9963 faults                                                        (100.00%)
+S0       16                297 migrations                                                  
+S1       16         5855083639 cycles                    #    0.000 GHz                      (49.46%)
+S1       16         4190642742 instructions              #    0.00  insns per cycle          (74.67%)
+S1       16         1498784853 cache-references                                              (75.53%)
+S1       16           84840419 cache-misses                                                  (75.01%)
+S1       16               6301 faults                                                        (100.00%)
+S1       16                100 migrations                                                  
+S2       16      2967230962869 cycles                    #    0.000 GHz                      (49.58%)
+S2       16       170284452968 instructions              #    0.00  insns per cycle          (75.05%)
+S2       16        56211527343 cache-references                                              (75.36%)
+S2       16          108387051 cache-misses                                                  (75.06%)
+S2       16               8836 faults                                                        (100.00%)
+S2       16                 38 migrations                                                  
+S3       16        34695613047 cycles                    #    0.000 GHz                      (50.05%)
+S3       16         7805407898 instructions              #    0.00  insns per cycle          (75.23%)
+S3       16         2089820127 cache-references                                              (75.35%)
+S3       16           53522073 cache-misses                                                  (74.60%)
+S3       16               8209 faults                                                        (100.00%)
+S3       16                115 migrations                                                  
+
+     151.240849021 seconds time elapsed
+
+ Time Elapsed: 151
+Socket: 4  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3592996519 cycles                    #    0.000 GHz                      (49.40%)
+S0       16          736619431 instructions              #    0.02  insns per cycle          (75.19%)
+S0       16          202594702 cache-references                                              (75.75%)
+S0       16           13087842 cache-misses              #    1.419 % of all cache refs      (74.86%)
+S0       16              11092 faults                                                        (100.00%)
+S0       16                361 migrations                                                  
+S1       16         5434792821 cycles                    #    0.000 GHz                      (50.66%)
+S1       16         4072826582 instructions              #    0.00  insns per cycle          (75.33%)
+S1       16         1511135241 cache-references                                              (74.85%)
+S1       16           89845045 cache-misses                                                  (74.49%)
+S1       16               6990 faults                                                        (100.00%)
+S1       16                101 migrations                                                  
+S2       16      2996375312327 cycles                    #    0.000 GHz                      (49.19%)
+S2       16       169979191361 instructions              #    0.00  insns per cycle          (74.95%)
+S2       16        56159789012 cache-references                                              (75.59%)
+S2       16          108296501 cache-misses                                                  (75.23%)
+S2       16               8660 faults                                                        (100.00%)
+S2       16                 33 migrations                                                  
+S3       16        17893381233 cycles                    #    0.000 GHz                      (49.94%)
+S3       16         5007627782 instructions              #    0.00  insns per cycle          (75.38%)
+S3       16         1171461968 cache-references                                              (75.82%)
+S3       16           33412107 cache-misses                                                  (74.24%)
+S3       16               8421 faults                                                        (100.00%)
+S3       16                117 migrations                                                  
+
+     152.503474370 seconds time elapsed
+
+ Time Elapsed: 153
+Socket: 4  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1081637816 cycles                    #    0.000 GHz                      (49.94%)
+S0       16          214303324 instructions              #    0.01  insns per cycle          (75.49%)
+S0       16           60483299 cache-references                                              (75.26%)
+S0       16            3640775 cache-misses              #    0.379 % of all cache refs      (74.81%)
+S0       16               1328 faults                                                        (100.00%)
+S0       16                101 migrations                                                  
+S1       16          451406643 cycles                    #    0.000 GHz                      (47.40%)
+S1       16          198102977 instructions              #    0.00  insns per cycle          (73.56%)
+S1       16           61609899 cache-references                                              (76.92%)
+S1       16            2120524 cache-misses                                                  (75.69%)
+S1       16                  0 faults                                                        (100.00%)
+S1       16                  4 migrations                                                  
+S2       16       924270697025 cycles                    #    0.000 GHz                      (48.47%)
+S2       16       168530462910 instructions              #    0.00  insns per cycle          (74.01%)
+S2       16        60750843322 cache-references                                              (76.68%)
+S2       16           62231877 cache-misses                                                  (74.85%)
+S2       16               6718 faults                                                        (100.00%)
+S2       16                 15 migrations                                                  
+S3       16         7818857318 cycles                    #    0.000 GHz                      (50.01%)
+S3       16         2113589574 instructions              #    0.00  insns per cycle          (76.29%)
+S3       16          576929814 cache-references                                              (75.95%)
+S3       16           13504474 cache-misses                                                  (74.05%)
+S3       16                 52 faults                                                        (100.00%)
+S3       16                  2 migrations                                                  
+
+      49.609027334 seconds time elapsed
+
+ Time Elapsed: 49
+Socket: 4  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2159277063 cycles                    #    0.000 GHz                      (51.16%)
+S0       16          435844431 instructions              #    0.02  insns per cycle          (75.05%)
+S0       16          121800221 cache-references                                              (74.78%)
+S0       16            7355194 cache-misses              #    0.795 % of all cache refs      (74.06%)
+S0       16               6290 faults                                                        (100.00%)
+S0       16                207 migrations                                                  
+S1       16         3211220347 cycles                    #    0.000 GHz                      (49.80%)
+S1       16         2520939005 instructions              #    0.00  insns per cycle          (75.25%)
+S1       16         1022875502 cache-references                                              (75.16%)
+S1       16           58346954 cache-misses                                                  (75.04%)
+S1       16               4198 faults                                                        (100.00%)
+S1       16                 63 migrations                                                  
+S2       16      1649340619421 cycles                    #    0.000 GHz                      (50.38%)
+S2       16       166835604853 instructions              #    0.00  insns per cycle          (75.63%)
+S2       16        57264324090 cache-references                                              (76.12%)
+S2       16           75152632 cache-misses                                                  (73.51%)
+S2       16               8101 faults                                                        (100.00%)
+S2       16                 20 migrations                                                  
+S3       16        13214169618 cycles                    #    0.000 GHz                      (50.71%)
+S3       16         3499135503 instructions              #    0.00  insns per cycle          (75.97%)
+S3       16          773778844 cache-references                                              (75.71%)
+S3       16           22352523 cache-misses                                                  (73.58%)
+S3       16               5515 faults                                                        (100.00%)
+S3       16                 79 migrations                                                  
+
+      86.975924089 seconds time elapsed
+
+ Time Elapsed: 87
+Socket: 4  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2732740612 cycles                    #    0.000 GHz                      (50.13%)
+S0       16          553823677 instructions              #    0.02  insns per cycle          (75.17%)
+S0       16          158618053 cache-references                                              (75.23%)
+S0       16            9547689 cache-misses              #    1.021 % of all cache refs      (74.64%)
+S0       16               7113 faults                                                        (100.00%)
+S0       16                257 migrations                                                  
+S1       16         3670021829 cycles                    #    0.000 GHz                      (50.29%)
+S1       16         2676496766 instructions              #    0.00  insns per cycle          (75.38%)
+S1       16         1023157816 cache-references                                              (75.70%)
+S1       16           60077155 cache-misses                                                  (74.01%)
+S1       16               4210 faults                                                        (100.00%)
+S1       16                 73 migrations                                                  
+S2       16      2167252432066 cycles                    #    0.000 GHz                      (50.14%)
+S2       16       168572434382 instructions              #    0.00  insns per cycle          (75.61%)
+S2       16        57082198214 cache-references                                              (75.12%)
+S2       16           92538719 cache-misses                                                  (74.75%)
+S2       16               8099 faults                                                        (100.00%)
+S2       16                 29 migrations                                                  
+S3       16        26777247780 cycles                    #    0.000 GHz                      (49.08%)
+S3       16         5925809597 instructions              #    0.00  insns per cycle          (74.67%)
+S3       16         1589394249 cache-references                                              (75.45%)
+S3       16           43155959 cache-misses                                                  (75.47%)
+S3       16               5524 faults                                                        (100.00%)
+S3       16                 78 migrations                                                  
+
+     112.418026026 seconds time elapsed
+
+ Time Elapsed: 113
+Socket: 4  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=4 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5554553826 cycles                    #    0.000 GHz                      (49.98%)
+S0       16         1110677929 instructions              #    0.02  insns per cycle          (75.15%)
+S0       16          307001503 cache-references                                              (75.21%)
+S0       16           18074916 cache-misses              #    1.908 % of all cache refs      (74.80%)
+S0       16              11580 faults                                                        (100.00%)
+S0       16                498 migrations                                                  
+S1       16         6042842351 cycles                    #    0.000 GHz                      (50.16%)
+S1       16         4108782950 instructions              #    0.00  insns per cycle          (75.23%)
+S1       16         1596408220 cache-references                                              (74.69%)
+S1       16           90767530 cache-misses                                                  (75.15%)
+S1       16               6299 faults                                                        (100.00%)
+S1       16                103 migrations                                                  
+S2       16      4485179049831 cycles                    #    0.000 GHz                      (49.76%)
+S2       16       173932024444 instructions              #    0.00  insns per cycle          (74.68%)
+S2       16        55684635102 cache-references                                              (75.26%)
+S2       16          138617761 cache-misses                                                  (74.98%)
+S2       16               8793 faults                                                        (100.00%)
+S2       16                 31 migrations                                                  
+S3       16        55852314468 cycles                    #    0.000 GHz                      (49.53%)
+S3       16        11568084234 instructions              #    0.00  insns per cycle          (74.81%)
+S3       16         3054095909 cache-references                                              (75.25%)
+S3       16           76369232 cache-misses                                                  (75.22%)
+S3       16               8273 faults                                                        (100.00%)
+S3       16                114 migrations                                                  
+
+     226.644128145 seconds time elapsed
+
+ Time Elapsed: 227
+Socket: 5  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16        18556911299 cycles                    #    0.000 GHz                      (49.29%)
+S0       16         3319335180 instructions              #    0.05  insns per cycle          (74.49%)
+S0       16          919932524 cache-references                                              (74.99%)
+S0       16           35825803 cache-misses              #    3.711 % of all cache refs      (75.72%)
+S0       16              20655 faults                                                        (100.00%)
+S0       16                593 migrations                                                  
+S1       16         8775203317 cycles                    #    0.000 GHz                      (49.38%)
+S1       16         5388371588 instructions              #    0.00  insns per cycle          (75.41%)
+S1       16         1946362077 cache-references                                              (75.60%)
+S1       16          117651892 cache-misses                                                  (75.02%)
+S1       16              13432 faults                                                        (100.00%)
+S1       16                168 migrations                                                  
+S2       16      4567422176618 cycles                    #    0.000 GHz                      (50.46%)
+S2       16       175573734490 instructions              #    0.00  insns per cycle          (75.67%)
+S2       16        56771019173 cache-references                                              (74.49%)
+S2       16          155579001 cache-misses                                                  (75.05%)
+S2       16              15437 faults                                                        (100.00%)
+S2       16                 67 migrations                                                  
+S3       16        35447116700 cycles                    #    0.000 GHz                      (50.01%)
+S3       16         7943884969 instructions              #    0.00  insns per cycle          (75.25%)
+S3       16         2142854337 cache-references                                              (75.23%)
+S3       16           58194082 cache-misses                                                  (74.77%)
+S3       16              13570 faults                                                        (100.00%)
+S3       16                244 migrations                                                  
+
+     229.826506761 seconds time elapsed
+
+ Time Elapsed: 229
+Socket: 5  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16        49823126341 cycles                    #    0.000 GHz                      (49.99%)
+S0       16        11326384636 instructions              #    0.16  insns per cycle          (75.00%)
+S0       16         2979582268 cache-references                                              (75.06%)
+S0       16           83125432 cache-misses              #    8.609 % of all cache refs      (74.95%)
+S0       16              15084 faults                                                        (100.00%)
+S0       16                528 migrations                                                  
+S1       16         9235644892 cycles                    #    0.000 GHz                      (49.80%)
+S1       16         5703570016 instructions              #    0.00  insns per cycle          (74.73%)
+S1       16         2009228514 cache-references                                              (75.24%)
+S1       16          119076671 cache-misses                                                  (74.96%)
+S1       16               8410 faults                                                        (100.00%)
+S1       16                137 migrations                                                  
+S2       16      4531304271587 cycles                    #    0.000 GHz                      (50.11%)
+S2       16       173353382492 instructions              #    0.00  insns per cycle          (75.37%)
+S2       16        56661949530 cache-references                                              (74.59%)
+S2       16          141625829 cache-misses                                                  (75.31%)
+S2       16               9436 faults                                                        (100.00%)
+S2       16                 30 migrations                                                  
+S3       16         1768936436 cycles                    #    0.000 GHz                      (50.16%)
+S3       16          475898680 instructions              #    0.00  insns per cycle          (74.99%)
+S3       16          146833341 cache-references                                              (75.05%)
+S3       16            9295503 cache-misses                                                  (74.79%)
+S3       16               9855 faults                                                        (100.00%)
+S3       16                154 migrations                                                  
+
+     229.728319912 seconds time elapsed
+
+ Time Elapsed: 230
+Socket: 5  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2567890857 cycles                    #    0.000 GHz                      (49.80%)
+S0       16          534486711 instructions              #    0.02  insns per cycle          (75.49%)
+S0       16          153743518 cache-references                                              (75.50%)
+S0       16            9320906 cache-misses              #    1.017 % of all cache refs      (74.70%)
+S0       16               7571 faults                                                        (100.00%)
+S0       16                257 migrations                                                  
+S1       16         3145954629 cycles                    #    0.000 GHz                      (49.98%)
+S1       16         2500266776 instructions              #    0.00  insns per cycle          (74.72%)
+S1       16         1061364497 cache-references                                              (74.58%)
+S1       16           65418028 cache-misses                                                  (75.43%)
+S1       16               4321 faults                                                        (100.00%)
+S1       16                 69 migrations                                                  
+S2       16      2103629560981 cycles                    #    0.000 GHz                      (49.83%)
+S2       16       169955959211 instructions              #    0.00  insns per cycle          (74.90%)
+S2       16        57381631069 cache-references                                              (75.04%)
+S2       16          103015562 cache-misses                                                  (75.14%)
+S2       16               9007 faults                                                        (100.00%)
+S2       16                 21 migrations                                                  
+S3       16          843539632 cycles                    #    0.000 GHz                      (49.92%)
+S3       16          240664389 instructions              #    0.00  insns per cycle          (75.30%)
+S3       16           79251870 cache-references                                              (75.70%)
+S3       16            4890869 cache-misses                                                  (74.38%)
+S3       16               4983 faults                                                        (100.00%)
+S3       16                 81 migrations                                                  
+
+     109.699757184 seconds time elapsed
+
+ Time Elapsed: 110
+Socket: 5  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3650543700 cycles                    #    0.000 GHz                      (49.75%)
+S0       16          731179471 instructions              #    0.02  insns per cycle          (75.14%)
+S0       16          206098119 cache-references                                              (75.36%)
+S0       16           12629747 cache-misses              #    1.406 % of all cache refs      (74.90%)
+S0       16               8328 faults                                                        (100.00%)
+S0       16                344 migrations                                                  
+S1       16         3973804724 cycles                    #    0.000 GHz                      (50.46%)
+S1       16         2930404287 instructions              #    0.00  insns per cycle          (74.96%)
+S1       16         1102161026 cache-references                                              (75.23%)
+S1       16           61392213 cache-misses                                                  (74.31%)
+S1       16               4280 faults                                                        (100.00%)
+S1       16                 62 migrations                                                  
+S2       16      2998019024166 cycles                    #    0.000 GHz                      (50.23%)
+S2       16       172429688905 instructions              #    0.00  insns per cycle          (75.04%)
+S2       16        56097626094 cache-references                                              (74.98%)
+S2       16          117098895 cache-misses                                                  (74.79%)
+S2       16               8415 faults                                                        (100.00%)
+S2       16                 18 migrations                                                  
+S3       16         1116561800 cycles                    #    0.000 GHz                      (48.78%)
+S3       16          318537530 instructions              #    0.00  insns per cycle          (74.71%)
+S3       16           99035984 cache-references                                              (75.60%)
+S3       16            5653820 cache-misses                                                  (75.62%)
+S3       16               4608 faults                                                        (100.00%)
+S3       16                 78 migrations                                                  
+
+     152.150324152 seconds time elapsed
+
+ Time Elapsed: 152
+Socket: 5  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2144834739 cycles                    #    0.000 GHz                      (49.78%)
+S0       16          455754912 instructions              #    0.02  insns per cycle          (75.07%)
+S0       16          129766465 cache-references                                              (75.47%)
+S0       16            7751422 cache-misses              #    0.842 % of all cache refs      (74.75%)
+S0       16               7844 faults                                                        (100.00%)
+S0       16                209 migrations                                                  
+S1       16         3525031355 cycles                    #    0.000 GHz                      (49.91%)
+S1       16         2474591236 instructions              #    0.00  insns per cycle          (75.35%)
+S1       16          952956572 cache-references                                              (75.80%)
+S1       16           61075985 cache-misses                                                  (74.30%)
+S1       16               4168 faults                                                        (100.00%)
+S1       16                 62 migrations                                                  
+S2       16      1664175929335 cycles                    #    0.000 GHz                      (50.27%)
+S2       16       169215849730 instructions              #    0.00  insns per cycle          (75.48%)
+S2       16        57771918116 cache-references                                              (74.79%)
+S2       16           79932920 cache-misses                                                  (74.95%)
+S2       16               8376 faults                                                        (100.00%)
+S2       16                 26 migrations                                                  
+S3       16          787778307 cycles                    #    0.000 GHz                      (49.44%)
+S3       16          212940554 instructions              #    0.00  insns per cycle          (75.64%)
+S3       16           67022722 cache-references                                              (76.12%)
+S3       16            4324822 cache-misses                                                  (74.44%)
+S3       16               5502 faults                                                        (100.00%)
+S3       16                 88 migrations                                                  
+
+      86.704358801 seconds time elapsed
+
+ Time Elapsed: 87
+Socket: 5  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1083648152 cycles                    #    0.000 GHz                      (50.17%)
+S0       16          232272442 instructions              #    0.02  insns per cycle          (75.23%)
+S0       16           64316123 cache-references                                              (75.03%)
+S0       16            4250021 cache-misses              #    0.430 % of all cache refs      (74.81%)
+S0       16               3701 faults                                                        (100.00%)
+S0       16                115 migrations                                                  
+S1       16         1704485450 cycles                    #    0.000 GHz                      (49.31%)
+S1       16         1296218678 instructions              #    0.00  insns per cycle          (75.11%)
+S1       16          520998971 cache-references                                              (75.26%)
+S1       16           28972720 cache-misses                                                  (75.43%)
+S1       16               2102 faults                                                        (100.00%)
+S1       16                 36 migrations                                                  
+S2       16       885507498369 cycles                    #    0.000 GHz                      (49.92%)
+S2       16       165243637958 instructions              #    0.00  insns per cycle          (75.49%)
+S2       16        62695785384 cache-references                                              (75.59%)
+S2       16           66208836 cache-misses                                                  (74.49%)
+S2       16               7400 faults                                                        (100.00%)
+S2       16                 13 migrations                                                  
+S3       16          442594948 cycles                    #    0.000 GHz                      (48.57%)
+S3       16          122378566 instructions              #    0.00  insns per cycle          (74.17%)
+S3       16           38531321 cache-references                                              (76.42%)
+S3       16            2317294 cache-misses                                                  (75.01%)
+S3       16               2490 faults                                                        (100.00%)
+S3       16                 39 migrations                                                  
+
+      49.202368307 seconds time elapsed
+
+ Time Elapsed: 49
+Socket: 5  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3854026355 cycles                    #    0.000 GHz                      (50.37%)
+S0       16          782583855 instructions              #    0.02  insns per cycle          (75.59%)
+S0       16          214355289 cache-references                                              (74.83%)
+S0       16           11076070 cache-misses              #    1.235 % of all cache refs      (74.81%)
+S0       16               8024 faults                                                        (100.00%)
+S0       16                243 migrations                                                  
+S1       16         3905464380 cycles                    #    0.000 GHz                      (50.65%)
+S1       16         2759427114 instructions              #    0.00  insns per cycle          (75.53%)
+S1       16         1030488144 cache-references                                              (74.70%)
+S1       16           59914178 cache-misses                                                  (74.65%)
+S1       16               4208 faults                                                        (100.00%)
+S1       16                 70 migrations                                                  
+S2       16      2525976328499 cycles                    #    0.000 GHz                      (50.05%)
+S2       16       171632730078 instructions              #    0.00  insns per cycle          (74.69%)
+S2       16        56059465777 cache-references                                              (75.40%)
+S2       16          107241143 cache-misses                                                  (74.56%)
+S2       16               8079 faults                                                        (100.00%)
+S2       16                 30 migrations                                                  
+S3       16          999508367 cycles                    #    0.000 GHz                      (50.00%)
+S3       16          276612379 instructions              #    0.00  insns per cycle          (75.02%)
+S3       16           82771467 cache-references                                              (75.41%)
+S3       16            5232889 cache-misses                                                  (74.60%)
+S3       16               4937 faults                                                        (100.00%)
+S3       16                 82 migrations                                                  
+
+     131.853251487 seconds time elapsed
+
+ Time Elapsed: 132
+Socket: 5  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=5 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3979398664 cycles                    #    0.000 GHz                      (49.74%)
+S0       16         1080372044 instructions              #    0.02  insns per cycle          (75.05%)
+S0       16          336008576 cache-references                                              (75.20%)
+S0       16           16374009 cache-misses              #    1.790 % of all cache refs      (75.07%)
+S0       16              16356 faults                                                        (100.00%)
+S0       16                370 migrations                                                  
+S1       16         6632845897 cycles                    #    0.000 GHz                      (48.53%)
+S1       16         4090250014 instructions              #    0.00  insns per cycle          (74.73%)
+S1       16         1497380928 cache-references                                              (75.82%)
+S1       16           78891240 cache-misses                                                  (75.66%)
+S1       16               6377 faults                                                        (100.00%)
+S1       16                 94 migrations                                                  
+S2       16      3087745663437 cycles                    #    0.000 GHz                      (49.67%)
+S2       16       172604502597 instructions              #    0.00  insns per cycle          (74.64%)
+S2       16        56591544682 cache-references                                              (75.53%)
+S2       16          121507551 cache-misses                                                  (74.81%)
+S2       16               8896 faults                                                        (100.00%)
+S2       16                 23 migrations                                                  
+S3       16         1416465953 cycles                    #    0.000 GHz                      (49.69%)
+S3       16          380778085 instructions              #    0.00  insns per cycle          (75.26%)
+S3       16          120440480 cache-references                                              (75.23%)
+S3       16            6751165 cache-misses                                                  (75.09%)
+S3       16               7523 faults                                                        (100.00%)
+S3       16                124 migrations                                                  
+
+     156.595863781 seconds time elapsed
+
+ Time Elapsed: 157
+Socket: 6  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2569548728 cycles                    #    0.000 GHz                      (50.50%)
+S0       16          508379229 instructions              #    0.01  insns per cycle          (75.48%)
+S0       16          141233685 cache-references                                              (75.34%)
+S0       16            9309927 cache-misses              #    1.029 % of all cache refs      (74.16%)
+S0       16               5601 faults                                                        (100.00%)
+S0       16                246 migrations                                                  
+S1       16         2256231861 cycles                    #    0.000 GHz                      (49.58%)
+S1       16         1542262233 instructions              #    0.00  insns per cycle          (74.92%)
+S1       16          605073972 cache-references                                              (75.30%)
+S1       16           31075124 cache-misses                                                  (75.12%)
+S1       16               1640 faults                                                        (100.00%)
+S1       16                 36 migrations                                                  
+S2       16         4417228562 cycles                    #    0.000 GHz                      (49.28%)
+S2       16         1276432492 instructions              #    0.00  insns per cycle          (74.24%)
+S2       16          408719597 cache-references                                              (75.52%)
+S2       16           13542503 cache-misses                                                  (75.21%)
+S2       16               2032 faults                                                        (100.00%)
+S2       16                 30 migrations                                                  
+S3       16      2164536535141 cycles                    #    0.000 GHz                      (49.60%)
+S3       16       169718370103 instructions              #    0.00  insns per cycle          (74.67%)
+S3       16        56765766371 cache-references                                              (75.06%)
+S3       16           92349867 cache-misses                                                  (75.35%)
+S3       16               7921 faults                                                        (100.00%)
+S3       16                 29 migrations                                                  
+
+     111.700517531 seconds time elapsed
+
+ Time Elapsed: 111
+Socket: 6  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5578837572 cycles                    #    0.000 GHz                      (49.95%)
+S0       16         1083426914 instructions              #    0.02  insns per cycle          (75.36%)
+S0       16          311881385 cache-references                                              (75.06%)
+S0       16           18961657 cache-misses              #    2.056 % of all cache refs      (74.99%)
+S0       16              16997 faults                                                        (100.00%)
+S0       16                584 migrations                                                  
+S1       16         7937886811 cycles                    #    0.000 GHz                      (49.70%)
+S1       16         5349492178 instructions              #    0.00  insns per cycle          (75.10%)
+S1       16         2128476646 cache-references                                              (74.84%)
+S1       16          114815239 cache-misses                                                  (75.46%)
+S1       16              13543 faults                                                        (100.00%)
+S1       16                182 migrations                                                  
+S2       16        12028976227 cycles                    #    0.000 GHz                      (50.24%)
+S2       16         3134060158 instructions              #    0.00  insns per cycle          (75.14%)
+S2       16          863662175 cache-references                                              (74.93%)
+S2       16           20152082 cache-misses                                                  (74.83%)
+S2       16              14742 faults                                                        (100.00%)
+S2       16                135 migrations                                                  
+S3       16      4462132760595 cycles                    #    0.000 GHz                      (49.69%)
+S3       16       173564593383 instructions              #    0.00  insns per cycle          (74.69%)
+S3       16        55730902515 cache-references                                              (75.15%)
+S3       16          137737886 cache-misses                                                  (75.16%)
+S3       16              13638 faults                                                        (100.00%)
+S3       16                 83 migrations                                                  
+
+     223.528440358 seconds time elapsed
+
+ Time Elapsed: 224
+Socket: 6  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3728108460 cycles                    #    0.000 GHz                      (49.37%)
+S0       16          784180772 instructions              #    0.02  insns per cycle          (74.49%)
+S0       16          207123205 cache-references                                              (75.52%)
+S0       16           12735780 cache-misses              #    1.398 % of all cache refs      (75.11%)
+S0       16               8798 faults                                                        (100.00%)
+S0       16                380 migrations                                                  
+S1       16         5982968082 cycles                    #    0.000 GHz                      (49.07%)
+S1       16         3980525751 instructions              #    0.00  insns per cycle          (74.31%)
+S1       16         1493666975 cache-references                                              (75.81%)
+S1       16           84544812 cache-misses                                                  (75.12%)
+S1       16               5175 faults                                                        (100.00%)
+S1       16                 82 migrations                                                  
+S2       16         7511105652 cycles                    #    0.000 GHz                      (49.79%)
+S2       16         2010789076 instructions              #    0.00  insns per cycle          (74.91%)
+S2       16          489195305 cache-references                                              (75.49%)
+S2       16           12416457 cache-misses                                                  (74.72%)
+S2       16               8077 faults                                                        (100.00%)
+S2       16                 80 migrations                                                  
+S3       16      3065344759862 cycles                    #    0.000 GHz                      (50.30%)
+S3       16       171309653627 instructions              #    0.00  insns per cycle          (75.27%)
+S3       16        56126133465 cache-references                                              (74.71%)
+S3       16          111622542 cache-misses                                                  (74.98%)
+S3       16              11547 faults                                                        (100.00%)
+S3       16                 46 migrations                                                  
+
+     155.416496642 seconds time elapsed
+
+ Time Elapsed: 155
+Socket: 6  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3393215859 cycles                    #    0.000 GHz                      (50.18%)
+S0       16          712369224 instructions              #    0.01  insns per cycle          (75.53%)
+S0       16          204342038 cache-references                                              (75.00%)
+S0       16           13016347 cache-misses              #    1.443 % of all cache refs      (74.81%)
+S0       16               7273 faults                                                        (100.00%)
+S0       16                377 migrations                                                  
+S1       16         4414648679 cycles                    #    0.000 GHz                      (50.13%)
+S1       16         2972101781 instructions              #    0.00  insns per cycle          (75.22%)
+S1       16         1044086071 cache-references                                              (75.58%)
+S1       16           61075215 cache-misses                                                  (74.29%)
+S1       16               3344 faults                                                        (100.00%)
+S1       16                 62 migrations                                                  
+S2       16         7666403992 cycles                    #    0.000 GHz                      (49.87%)
+S2       16         1963090342 instructions              #    0.00  insns per cycle          (75.25%)
+S2       16          481571759 cache-references                                              (75.44%)
+S2       16           13844023 cache-misses                                                  (74.70%)
+S2       16               5022 faults                                                        (100.00%)
+S2       16                 47 migrations                                                  
+S3       16      3187623531000 cycles                    #    0.000 GHz                      (50.05%)
+S3       16       171207402863 instructions              #    0.00  insns per cycle          (75.36%)
+S3       16        56019803190 cache-references                                              (75.21%)
+S3       16          114139058 cache-misses                                                  (74.74%)
+S3       16              10190 faults                                                        (100.00%)
+S3       16                 43 migrations                                                  
+
+     163.996885843 seconds time elapsed
+
+ Time Elapsed: 165
+Socket: 6  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3412646435 cycles                    #    0.000 GHz                      (50.09%)
+S0       16          722366654 instructions              #    0.02  insns per cycle          (74.48%)
+S0       16          208203842 cache-references                                              (75.74%)
+S0       16           13391811 cache-misses              #    1.468 % of all cache refs      (74.17%)
+S0       16               9568 faults                                                        (100.00%)
+S0       16                385 migrations                                                  
+S1       16         5647480910 cycles                    #    0.000 GHz                      (50.06%)
+S1       16         4120123906 instructions              #    0.00  insns per cycle          (75.20%)
+S1       16         1491331294 cache-references                                              (75.57%)
+S1       16           87452587 cache-misses                                                  (74.38%)
+S1       16               6001 faults                                                        (100.00%)
+S1       16                 97 migrations                                                  
+S2       16        10820666241 cycles                    #    0.000 GHz                      (49.73%)
+S2       16         2892235437 instructions              #    0.00  insns per cycle          (75.32%)
+S2       16          806194148 cache-references                                              (75.22%)
+S2       16           16135349 cache-misses                                                  (75.05%)
+S2       16               8147 faults                                                        (100.00%)
+S2       16                 69 migrations                                                  
+S3       16      3043307230233 cycles                    #    0.000 GHz                      (49.79%)
+S3       16       170698156463 instructions              #    0.00  insns per cycle          (74.95%)
+S3       16        55892126082 cache-references                                              (75.10%)
+S3       16          111050230 cache-misses                                                  (75.11%)
+S3       16              11524 faults                                                        (100.00%)
+S3       16                 53 migrations                                                  
+
+     155.120004090 seconds time elapsed
+
+ Time Elapsed: 155
+Socket: 6  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5529858233 cycles                    #    0.000 GHz                      (50.30%)
+S0       16         1115247241 instructions              #    0.02  insns per cycle          (76.17%)
+S0       16          322061853 cache-references                                              (74.02%)
+S0       16           18001724 cache-misses              #    1.948 % of all cache refs      (75.68%)
+S0       16              11206 faults                                                        (100.00%)
+S0       16                502 migrations                                                  
+S1       16         7005714083 cycles                    #    0.000 GHz                      (50.43%)
+S1       16         5126125847 instructions              #    0.00  insns per cycle          (75.55%)
+S1       16         2081828844 cache-references                                              (74.91%)
+S1       16          120521908 cache-misses                                                  (74.66%)
+S1       16               7521 faults                                                        (100.00%)
+S1       16                129 migrations                                                  
+S2       16        12051746525 cycles                    #    0.000 GHz                      (49.71%)
+S2       16         3225406885 instructions              #    0.00  insns per cycle          (75.30%)
+S2       16          797435378 cache-references                                              (75.00%)
+S2       16           19031454 cache-misses                                                  (75.30%)
+S2       16              10531 faults                                                        (100.00%)
+S2       16                100 migrations                                                  
+S3       16      4427977438405 cycles                    #    0.000 GHz                      (49.93%)
+S3       16       173329621275 instructions              #    0.00  insns per cycle          (75.05%)
+S3       16        55941334662 cache-references                                              (74.94%)
+S3       16          141431581 cache-misses                                                  (75.13%)
+S3       16              13311 faults                                                        (100.00%)
+S3       16                 67 migrations                                                  
+
+     224.301771108 seconds time elapsed
+
+ Time Elapsed: 224
+Socket: 6  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1158349073 cycles                    #    0.000 GHz                      (48.61%)
+S0       16          234867619 instructions              #    0.02  insns per cycle          (73.01%)
+S0       16           69948090 cache-references                                              (76.90%)
+S0       16            4127800 cache-misses              #    0.429 % of all cache refs      (74.49%)
+S0       16               2648 faults                                                        (100.00%)
+S0       16                 71 migrations                                                  
+S1       16         2500748624 cycles                    #    0.000 GHz                      (47.89%)
+S1       16         1456754547 instructions              #    0.00  insns per cycle          (74.13%)
+S1       16          457740523 cache-references                                              (75.59%)
+S1       16           26662732 cache-misses                                                  (76.52%)
+S1       16               1899 faults                                                        (100.00%)
+S1       16                 32 migrations                                                  
+S2       16         4455437023 cycles                    #    0.000 GHz                      (48.45%)
+S2       16         1010463313 instructions              #    0.00  insns per cycle          (74.01%)
+S2       16          209686580 cache-references                                              (76.13%)
+S2       16            5966251 cache-misses                                                  (75.42%)
+S2       16               2879 faults                                                        (100.00%)
+S2       16                 23 migrations                                                  
+S3       16       947516708899 cycles                    #    0.000 GHz                      (47.94%)
+S3       16       168348835906 instructions              #    0.00  insns per cycle          (74.21%)
+S3       16        60773545919 cache-references                                              (76.83%)
+S3       16           62657179 cache-misses                                                  (75.23%)
+S3       16               8278 faults                                                        (100.00%)
+S3       16                 32 migrations                                                  
+
+      50.087763433 seconds time elapsed
+
+ Time Elapsed: 50
+Socket: 6  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=6 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         1835502890 cycles                    #    0.000 GHz                      (49.44%)
+S0       16          385850592 instructions              #    0.01  insns per cycle          (74.01%)
+S0       16          108603885 cache-references                                              (76.42%)
+S0       16            7070554 cache-misses              #    0.773 % of all cache refs      (74.14%)
+S0       16               3498 faults                                                        (100.00%)
+S0       16                 22 migrations                                                  
+S1       16         2057220023 cycles                    #    0.000 GHz                      (50.20%)
+S1       16         1445530350 instructions              #    0.00  insns per cycle          (75.36%)
+S1       16          559086843 cache-references                                              (74.37%)
+S1       16           31362178 cache-misses                                                  (75.43%)
+S1       16               1991 faults                                                        (100.00%)
+S1       16                 35 migrations                                                  
+S2       16         4968610431 cycles                    #    0.000 GHz                      (49.56%)
+S2       16         1097729679 instructions              #    0.00  insns per cycle          (75.61%)
+S2       16          274618720 cache-references                                              (76.12%)
+S2       16            8042707 cache-misses                                                  (74.33%)
+S2       16               2783 faults                                                        (100.00%)
+S2       16                 21 migrations                                                  
+S3       16      1640492105270 cycles                    #    0.000 GHz                      (49.76%)
+S3       16       168072652425 instructions              #    0.00  insns per cycle          (75.12%)
+S3       16        57630437666 cache-references                                              (75.31%)
+S3       16           75725737 cache-misses                                                  (74.94%)
+S3       16               8365 faults                                                        (100.00%)
+S3       16                 23 migrations                                                  
+
+      86.763177124 seconds time elapsed
+
+ Time Elapsed: 87
+Socket: 7  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=0 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3357981623 cycles                    #    0.000 GHz                      (49.87%)
+S0       16          784675616 instructions              #    0.02  insns per cycle          (74.40%)
+S0       16          219117360 cache-references                                              (75.67%)
+S0       16           13706704 cache-misses              #    1.526 % of all cache refs      (74.47%)
+S0       16               8266 faults                                                        (100.00%)
+S0       16                261 migrations                                                  
+S1       16         3858828704 cycles                    #    0.000 GHz                      (49.98%)
+S1       16         3050715322 instructions              #    0.00  insns per cycle          (74.45%)
+S1       16         1086162743 cache-references                                              (74.59%)
+S1       16           57184028 cache-misses                                                  (75.43%)
+S1       16               3176 faults                                                        (100.00%)
+S1       16                 58 migrations                                                  
+S2       16         5683224474 cycles                    #    0.000 GHz                      (48.85%)
+S2       16         1614111453 instructions              #    0.00  insns per cycle          (74.60%)
+S2       16          461973304 cache-references                                              (75.46%)
+S2       16           11971860 cache-misses                                                  (75.69%)
+S2       16               4606 faults                                                        (100.00%)
+S2       16                 42 migrations                                                  
+S3       16      2524452144337 cycles                    #    0.000 GHz                      (50.01%)
+S3       16       170388753117 instructions              #    0.00  insns per cycle          (74.82%)
+S3       16        55728774839 cache-references                                              (74.88%)
+S3       16           98608655 cache-misses                                                  (75.12%)
+S3       16               9090 faults                                                        (100.00%)
+S3       16                 49 migrations                                                  
+
+     130.651748318 seconds time elapsed
+
+ Time Elapsed: 131
+Socket: 7  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=1 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         4144664768 cycles                    #    0.000 GHz                      (49.78%)
+S0       16          922441656 instructions              #    0.02  insns per cycle          (76.06%)
+S0       16          275932699 cache-references                                              (74.83%)
+S0       16           16306286 cache-misses              #    1.789 % of all cache refs      (75.39%)
+S0       16              15250 faults                                                        (100.00%)
+S0       16                430 migrations                                                  
+S1       16         5633508766 cycles                    #    0.000 GHz                      (50.68%)
+S1       16         4081058691 instructions              #    0.00  insns per cycle          (75.24%)
+S1       16         1553185666 cache-references                                              (74.61%)
+S1       16           87321661 cache-misses                                                  (74.71%)
+S1       16              10302 faults                                                        (100.00%)
+S1       16                151 migrations                                                  
+S2       16         7045104043 cycles                    #    0.000 GHz                      (50.26%)
+S2       16         1770246239 instructions              #    0.00  insns per cycle          (75.37%)
+S2       16          474659708 cache-references                                              (75.04%)
+S2       16           13693301 cache-misses                                                  (74.70%)
+S2       16              13147 faults                                                        (100.00%)
+S2       16                 93 migrations                                                  
+S3       16      3022616189997 cycles                    #    0.000 GHz                      (49.92%)
+S3       16       170610684032 instructions              #    0.00  insns per cycle          (75.09%)
+S3       16        56017653029 cache-references                                              (75.35%)
+S3       16          109346385 cache-misses                                                  (74.74%)
+S3       16              11018 faults                                                        (100.00%)
+S3       16                 91 migrations                                                  
+
+     153.773494423 seconds time elapsed
+
+ Time Elapsed: 154
+Socket: 7  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=2 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         2539986897 cycles                    #    0.000 GHz                      (49.57%)
+S0       16          624131759 instructions              #    0.02  insns per cycle          (74.08%)
+S0       16          183236019 cache-references                                              (76.55%)
+S0       16           11443139 cache-misses              #    1.257 % of all cache refs      (73.89%)
+S0       16               7888 faults                                                        (100.00%)
+S0       16                281 migrations                                                  
+S1       16         4250159667 cycles                    #    0.000 GHz                      (49.00%)
+S1       16         2647169979 instructions              #    0.00  insns per cycle          (74.58%)
+S1       16          977909498 cache-references                                              (75.98%)
+S1       16           63262949 cache-misses                                                  (75.03%)
+S1       16               3275 faults                                                        (100.00%)
+S1       16                 54 migrations                                                  
+S2       16         5145404249 cycles                    #    0.000 GHz                      (49.55%)
+S2       16         1488120563 instructions              #    0.00  insns per cycle          (75.35%)
+S2       16          361320976 cache-references                                              (75.26%)
+S2       16            9040261 cache-misses                                                  (75.20%)
+S2       16               4474 faults                                                        (100.00%)
+S2       16                 36 migrations                                                  
+S3       16      2171596427005 cycles                    #    0.000 GHz                      (49.80%)
+S3       16       169638758082 instructions              #    0.00  insns per cycle          (74.85%)
+S3       16        56736552985 cache-references                                              (75.33%)
+S3       16           91749775 cache-misses                                                  (74.87%)
+S3       16               9094 faults                                                        (100.00%)
+S3       16                 57 migrations                                                  
+
+     112.135653428 seconds time elapsed
+
+ Time Elapsed: 112
+Socket: 7  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=3 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         3119679864 cycles                    #    0.000 GHz                      (49.49%)
+S0       16          725566078 instructions              #    0.02  insns per cycle          (75.54%)
+S0       16          210353784 cache-references                                              (74.75%)
+S0       16           12883946 cache-misses              #    1.409 % of all cache refs      (75.76%)
+S0       16               8454 faults                                                        (100.00%)
+S0       16                327 migrations                                                  
+S1       16        25410111529 cycles                    #    0.000 GHz                      (49.71%)
+S1       16         8195496921 instructions              #    0.00  insns per cycle          (75.30%)
+S1       16         2584373387 cache-references                                              (75.47%)
+S1       16           94902821 cache-misses                                                  (74.82%)
+S1       16               3240 faults                                                        (100.00%)
+S1       16                 58 migrations                                                  
+S2       16          663434296 cycles                    #    0.000 GHz                      (49.54%)
+S2       16          127031218 instructions              #    0.00  insns per cycle          (75.44%)
+S2       16           37319204 cache-references                                              (74.94%)
+S2       16            2075078 cache-misses                                                  (75.53%)
+S2       16               4478 faults                                                        (100.00%)
+S2       16                 43 migrations                                                  
+S3       16      2621781098168 cycles                    #    0.000 GHz                      (50.19%)
+S3       16       170065558429 instructions              #    0.00  insns per cycle          (74.98%)
+S3       16        55686065859 cache-references                                              (74.86%)
+S3       16          100701713 cache-misses                                                  (74.94%)
+S3       16               9098 faults                                                        (100.00%)
+S3       16                 61 migrations                                                  
+
+     135.599828370 seconds time elapsed
+
+ Time Elapsed: 135
+Socket: 7  MEM: 4
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=4 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16        12871393634 cycles                    #    0.000 GHz                      (49.43%)
+S0       16         3161925778 instructions              #    0.04  insns per cycle          (74.85%)
+S0       16          851735146 cache-references                                              (75.32%)
+S0       16           33560612 cache-misses              #    3.528 % of all cache refs      (75.25%)
+S0       16              16776 faults                                                        (100.00%)
+S0       16                572 migrations                                                  
+S1       16        20368784236 cycles                    #    0.000 GHz                      (50.57%)
+S1       16         9259588189 instructions              #    0.00  insns per cycle          (76.10%)
+S1       16         3207488098 cache-references                                              (75.12%)
+S1       16          144607301 cache-misses                                                  (74.31%)
+S1       16               6232 faults                                                        (100.00%)
+S1       16                113 migrations                                                  
+S2       16        11473687776 cycles                    #    0.000 GHz                      (50.10%)
+S2       16         2672250627 instructions              #    0.00  insns per cycle          (75.19%)
+S2       16          692825974 cache-references                                              (75.46%)
+S2       16           16666229 cache-misses                                                  (74.45%)
+S2       16               8446 faults                                                        (100.00%)
+S2       16                 86 migrations                                                  
+S3       16      4455769723609 cycles                    #    0.000 GHz                      (49.83%)
+S3       16       173313606591 instructions              #    0.00  insns per cycle          (74.94%)
+S3       16        56133707243 cache-references                                              (75.22%)
+S3       16          136126486 cache-misses                                                  (74.95%)
+S3       16              11249 faults                                                        (100.00%)
+S3       16                101 migrations                                                  
+
+     225.735232373 seconds time elapsed
+
+ Time Elapsed: 226
+Socket: 7  MEM: 5
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=5 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16        15942358784 cycles                    #    0.000 GHz                      (49.48%)
+S0       16         4054756299 instructions              #    0.08  insns per cycle          (74.93%)
+S0       16         1081878216 cache-references                                              (75.46%)
+S0       16           34750051 cache-misses              #    3.771 % of all cache refs      (75.06%)
+S0       16              11017 faults                                                        (100.00%)
+S0       16                379 migrations                                                  
+S1       16        13536332033 cycles                    #    0.000 GHz                      (49.77%)
+S1       16         5554488168 instructions              #    0.00  insns per cycle          (75.38%)
+S1       16         1743329019 cache-references                                              (75.51%)
+S1       16           73981060 cache-misses                                                  (74.72%)
+S1       16               3950 faults                                                        (100.00%)
+S1       16                 53 migrations                                                  
+S2       16          829879073 cycles                    #    0.000 GHz                      (49.54%)
+S2       16          145758925 instructions              #    0.00  insns per cycle          (75.28%)
+S2       16           42751852 cache-references                                              (74.45%)
+S2       16            2147340 cache-misses                                                  (76.01%)
+S2       16               3573 faults                                                        (100.00%)
+S2       16                 46 migrations                                                  
+S3       16      3091661307397 cycles                    #    0.000 GHz                      (49.69%)
+S3       16       171793484174 instructions              #    0.00  insns per cycle          (75.07%)
+S3       16        56115878015 cache-references                                              (75.16%)
+S3       16          116038857 cache-misses                                                  (75.15%)
+S3       16               9096 faults                                                        (100.00%)
+S3       16                 62 migrations                                                  
+
+     156.415047184 seconds time elapsed
+
+ Time Elapsed: 157
+Socket: 7  MEM: 6
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=6 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         6955081538 cycles                    #    0.000 GHz                      (48.63%)
+S0       16         1651458202 instructions              #    0.06  insns per cycle          (74.18%)
+S0       16          459342567 cache-references                                              (75.80%)
+S0       16           16296488 cache-misses              #    1.753 % of all cache refs      (75.57%)
+S0       16               7930 faults                                                        (100.00%)
+S0       16                230 migrations                                                  
+S1       16         5379834161 cycles                    #    0.000 GHz                      (49.75%)
+S1       16         2835524978 instructions              #    0.00  insns per cycle          (75.88%)
+S1       16         1056651609 cache-references                                              (75.19%)
+S1       16           57880016 cache-misses                                                  (75.07%)
+S1       16               3181 faults                                                        (100.00%)
+S1       16                 49 migrations                                                  
+S2       16         2710551835 cycles                    #    0.000 GHz                      (49.26%)
+S2       16          577534410 instructions              #    0.00  insns per cycle          (73.40%)
+S2       16          144424558 cache-references                                              (75.79%)
+S2       16            4535093 cache-misses                                                  (74.96%)
+S2       16               3753 faults                                                        (100.00%)
+S2       16                 34 migrations                                                  
+S3       16      1664072092892 cycles                    #    0.000 GHz                      (49.86%)
+S3       16       169881362221 instructions              #    0.00  insns per cycle          (75.27%)
+S3       16        57825725223 cache-references                                              (75.43%)
+S3       16           84417214 cache-misses                                                  (74.72%)
+S3       16               9114 faults                                                        (100.00%)
+S3       16                 60 migrations                                                  
+
+      86.692151687 seconds time elapsed
+
+ Time Elapsed: 86
+Socket: 7  MEM: 7
+
+ Performance counter stats for 'numactl --cpunodebind=7 --membind=7 /home/jlenis/numa_benchmark/bin/stream.5GiB.10':
+
+S0       16         5224775255 cycles                    #    0.000 GHz                      (50.48%)
+S0       16         1349673965 instructions              #    0.10  insns per cycle          (75.20%)
+S0       16          358091136 cache-references                                              (75.71%)
+S0       16           11481336 cache-misses              #    1.173 % of all cache refs      (73.81%)
+S0       16               4279 faults                                                        (100.00%)
+S0       16                127 migrations                                                  
+S1       16         1977273458 cycles                    #    0.000 GHz                      (50.40%)
+S1       16         1348645797 instructions              #    0.00  insns per cycle          (76.07%)
+S1       16          534161669 cache-references                                              (76.13%)
+S1       16           31456807 cache-misses                                                  (73.47%)
+S1       16               1594 faults                                                        (100.00%)
+S1       16                 23 migrations                                                  
+S2       16         1601044415 cycles                    #    0.000 GHz                      (50.90%)
+S2       16          478861569 instructions              #    0.00  insns per cycle          (76.77%)
+S2       16          121577404 cache-references                                              (75.48%)
+S2       16            3137446 cache-misses                                                  (73.62%)
+S2       16               1876 faults                                                        (100.00%)
+S2       16                 17 migrations                                                  
+S3       16       891374096041 cycles                    #    0.000 GHz                      (50.25%)
+S3       16       167839042121 instructions              #    0.00  insns per cycle          (75.00%)
+S3       16        61632861222 cache-references                                              (75.10%)
+S3       16           63385272 cache-misses                                                  (74.65%)
+S3       16               7941 faults                                                        (100.00%)
+S3       16                 41 migrations                                                  
+
+      48.749430525 seconds time elapsed
+
+ Time Elapsed: 49

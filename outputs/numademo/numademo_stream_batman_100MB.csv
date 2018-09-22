@@ -1,0 +1,390 @@
+8 nodes available
+memory with no policy,STREAM,Copy,6793.52,MB/s,Scale,6683.73,MB/s,Add,7094.11,MB/s,Triad,6888.51,MB/s
+local memory,STREAM,Copy,6798.19,MB/s,Scale,6658.22,MB/s,Add,7104.69,MB/s,Triad,6883.61,MB/s
+memory interleaved on all nodes,STREAM,Copy,4618.18,MB/s,Scale,4271.90,MB/s,Add,4964.61,MB/s,Triad,4275.54,MB/s
+memory on node 0,STREAM,Copy,3654.60,MB/s,Scale,3653.82,MB/s,Add,3889.53,MB/s,Triad,3440.21,MB/s
+memory on node 1,STREAM,Copy,3073.55,MB/s,Scale,3070.32,MB/s,Add,3098.36,MB/s,Triad,3117.24,MB/s
+memory on node 2,STREAM,Copy,4145.73,MB/s,Scale,4145.23,MB/s,Add,4351.49,MB/s,Triad,3913.91,MB/s
+memory on node 3,STREAM,Copy,3549.36,MB/s,Scale,3533.78,MB/s,Add,3768.87,MB/s,Triad,3451.86,MB/s
+memory on node 4,STREAM,Copy,2106.52,MB/s,Scale,2106.03,MB/s,Add,2100.30,MB/s,Triad,2113.68,MB/s
+memory on node 5,STREAM,Copy,2997.51,MB/s,Scale,2994.06,MB/s,Add,3020.27,MB/s,Triad,3037.76,MB/s
+memory on node 6,STREAM,Copy,4925.99,MB/s,Scale,4930.89,MB/s,Add,5369.63,MB/s,Triad,4716.10,MB/s
+memory on node 7,STREAM,Copy,6784.33,MB/s,Scale,6681.86,MB/s,Add,7093.65,MB/s,Triad,6889.47,MB/s
+memory interleaved on 0 1,STREAM,Copy,3802.52,MB/s,Scale,3782.31,MB/s,Add,4350.57,MB/s,Triad,3807.31,MB/s
+memory interleaved on 0 2,STREAM,Copy,4332.48,MB/s,Scale,4331.99,MB/s,Add,5150.95,MB/s,Triad,4007.41,MB/s
+memory interleaved on 1 2,STREAM,Copy,4400.43,MB/s,Scale,4414.33,MB/s,Add,5072.47,MB/s,Triad,4387.34,MB/s
+memory interleaved on 0 1 2,STREAM,Copy,4023.53,MB/s,Scale,4509.11,MB/s,Add,5120.50,MB/s,Triad,4153.26,MB/s
+memory interleaved on 0 3,STREAM,Copy,4010.87,MB/s,Scale,4020.78,MB/s,Add,4818.15,MB/s,Triad,3648.74,MB/s
+memory interleaved on 1 3,STREAM,Copy,4059.05,MB/s,Scale,4037.75,MB/s,Add,4795.27,MB/s,Triad,3931.96,MB/s
+memory interleaved on 0 1 3,STREAM,Copy,3812.43,MB/s,Scale,4278.41,MB/s,Add,4912.53,MB/s,Triad,3873.86,MB/s
+memory interleaved on 2 3,STREAM,Copy,3880.83,MB/s,Scale,3855.76,MB/s,Add,4187.10,MB/s,Triad,3682.18,MB/s
+memory interleaved on 0 2 3,STREAM,Copy,4034.69,MB/s,Scale,4203.02,MB/s,Add,4841.30,MB/s,Triad,3820.91,MB/s
+memory interleaved on 1 2 3,STREAM,Copy,3930.99,MB/s,Scale,4403.19,MB/s,Add,4895.55,MB/s,Triad,4043.86,MB/s
+memory interleaved on 0 1 2 3,STREAM,Copy,4384.42,MB/s,Scale,4178.41,MB/s,Add,4900.35,MB/s,Triad,3980.49,MB/s
+memory interleaved on 0 4,STREAM,Copy,3382.12,MB/s,Scale,3374.13,MB/s,Add,3720.72,MB/s,Triad,3338.15,MB/s
+memory interleaved on 1 4,STREAM,Copy,3380.14,MB/s,Scale,3354.53,MB/s,Add,3702.87,MB/s,Triad,3503.77,MB/s
+memory interleaved on 0 1 4,STREAM,Copy,3128.29,MB/s,Scale,4074.89,MB/s,Add,4268.93,MB/s,Triad,3672.39,MB/s
+memory interleaved on 2 4,STREAM,Copy,3554.08,MB/s,Scale,3526.81,MB/s,Add,3868.71,MB/s,Triad,3538.41,MB/s
+memory interleaved on 0 2 4,STREAM,Copy,3337.06,MB/s,Scale,4143.52,MB/s,Add,4418.02,MB/s,Triad,3719.15,MB/s
+memory interleaved on 1 2 4,STREAM,Copy,3265.99,MB/s,Scale,4314.86,MB/s,Add,4461.46,MB/s,Triad,3913.63,MB/s
+memory interleaved on 0 1 2 4,STREAM,Copy,4276.87,MB/s,Scale,3866.03,MB/s,Add,4586.13,MB/s,Triad,3902.83,MB/s
+memory interleaved on 3 4,STREAM,Copy,3395.25,MB/s,Scale,3383.94,MB/s,Add,3749.61,MB/s,Triad,3353.63,MB/s
+memory interleaved on 0 3 4,STREAM,Copy,3223.38,MB/s,Scale,4000.28,MB/s,Add,4278.87,MB/s,Triad,3535.31,MB/s
+memory interleaved on 1 3 4,STREAM,Copy,3154.69,MB/s,Scale,4133.96,MB/s,Add,4332.41,MB/s,Triad,3704.82,MB/s
+memory interleaved on 0 1 3 4,STREAM,Copy,4144.72,MB/s,Scale,3754.09,MB/s,Add,4492.81,MB/s,Triad,3741.85,MB/s
+memory interleaved on 2 3 4,STREAM,Copy,3294.30,MB/s,Scale,4017.06,MB/s,Add,4242.31,MB/s,Triad,3641.39,MB/s
+memory interleaved on 0 2 3 4,STREAM,Copy,4111.10,MB/s,Scale,3827.48,MB/s,Add,4501.50,MB/s,Triad,3720.20,MB/s
+memory interleaved on 1 2 3 4,STREAM,Copy,4231.05,MB/s,Scale,3839.90,MB/s,Add,4520.12,MB/s,Triad,3868.27,MB/s
+memory interleaved on 0 1 2 3 4,STREAM,Copy,4241.55,MB/s,Scale,4263.78,MB/s,Add,5172.52,MB/s,Triad,4000.83,MB/s
+memory interleaved on 0 5,STREAM,Copy,4017.97,MB/s,Scale,3996.15,MB/s,Add,4712.28,MB/s,Triad,3911.88,MB/s
+memory interleaved on 1 5,STREAM,Copy,4068.50,MB/s,Scale,4060.23,MB/s,Add,4573.76,MB/s,Triad,4216.91,MB/s
+memory interleaved on 0 1 5,STREAM,Copy,3654.02,MB/s,Scale,4479.91,MB/s,Add,4908.14,MB/s,Triad,4094.40,MB/s
+memory interleaved on 2 5,STREAM,Copy,4339.76,MB/s,Scale,4332.26,MB/s,Add,4946.12,MB/s,Triad,4320.99,MB/s
+memory interleaved on 0 2 5,STREAM,Copy,3951.69,MB/s,Scale,4590.25,MB/s,Add,5143.63,MB/s,Triad,4166.98,MB/s
+memory interleaved on 1 2 5,STREAM,Copy,3860.66,MB/s,Scale,4873.48,MB/s,Add,5185.84,MB/s,Triad,4466.60,MB/s
+memory interleaved on 0 1 2 5,STREAM,Copy,4632.58,MB/s,Scale,4249.81,MB/s,Add,5078.60,MB/s,Triad,4236.68,MB/s
+memory interleaved on 3 5,STREAM,Copy,4014.54,MB/s,Scale,3986.37,MB/s,Add,4708.91,MB/s,Triad,3903.73,MB/s
+memory interleaved on 0 3 5,STREAM,Copy,3777.45,MB/s,Scale,4341.64,MB/s,Add,4941.22,MB/s,Triad,3896.75,MB/s
+memory interleaved on 1 3 5,STREAM,Copy,3691.28,MB/s,Scale,4561.79,MB/s,Add,4989.64,MB/s,Triad,4128.90,MB/s
+memory interleaved on 0 1 3 5,STREAM,Copy,4447.14,MB/s,Scale,4084.91,MB/s,Add,4948.66,MB/s,Triad,4017.68,MB/s
+memory interleaved on 2 3 5,STREAM,Copy,3868.80,MB/s,Scale,4406.50,MB/s,Add,4867.34,MB/s,Triad,4042.17,MB/s
+memory interleaved on 0 2 3 5,STREAM,Copy,4409.30,MB/s,Scale,4174.44,MB/s,Add,4950.53,MB/s,Triad,3983.35,MB/s
+memory interleaved on 1 2 3 5,STREAM,Copy,4571.07,MB/s,Scale,4216.21,MB/s,Add,4958.99,MB/s,Triad,4172.44,MB/s
+memory interleaved on 0 1 2 3 5,STREAM,Copy,4496.94,MB/s,Scale,4512.02,MB/s,Add,5370.71,MB/s,Triad,4185.77,MB/s
+memory interleaved on 4 5,STREAM,Copy,3295.56,MB/s,Scale,3287.65,MB/s,Add,3638.09,MB/s,Triad,3471.64,MB/s
+memory interleaved on 0 4 5,STREAM,Copy,3192.29,MB/s,Scale,4057.65,MB/s,Add,4317.10,MB/s,Triad,3698.16,MB/s
+memory interleaved on 1 4 5,STREAM,Copy,3126.06,MB/s,Scale,4212.42,MB/s,Add,4343.72,MB/s,Triad,3881.60,MB/s
+memory interleaved on 0 1 4 5,STREAM,Copy,4231.05,MB/s,Scale,3718.74,MB/s,Add,4467.14,MB/s,Triad,3848.28,MB/s
+memory interleaved on 2 4 5,STREAM,Copy,3315.40,MB/s,Scale,4218.54,MB/s,Add,4454.83,MB/s,Triad,3910.13,MB/s
+memory interleaved on 0 2 4 5,STREAM,Copy,4268.52,MB/s,Scale,3847.07,MB/s,Add,4606.91,MB/s,Triad,3888.64,MB/s
+memory interleaved on 1 2 4 5,STREAM,Copy,4397.09,MB/s,Scale,3883.40,MB/s,Add,4612.39,MB/s,Triad,4065.02,MB/s
+memory interleaved on 0 1 2 4 5,STREAM,Copy,4347.89,MB/s,Scale,4391.57,MB/s,Add,5314.90,MB/s,Triad,4177.08,MB/s
+memory interleaved on 3 4 5,STREAM,Copy,3198.44,MB/s,Scale,4069.44,MB/s,Add,4330.12,MB/s,Triad,3705.33,MB/s
+memory interleaved on 0 3 4 5,STREAM,Copy,4132.23,MB/s,Scale,3737.06,MB/s,Add,4480.71,MB/s,Triad,3717.82,MB/s
+memory interleaved on 1 3 4 5,STREAM,Copy,4248.51,MB/s,Scale,3758.54,MB/s,Add,4498.77,MB/s,Triad,3869.01,MB/s
+memory interleaved on 0 1 3 4 5,STREAM,Copy,4227.44,MB/s,Scale,4258.36,MB/s,Add,5174.82,MB/s,Triad,3987.74,MB/s
+memory interleaved on 2 3 4 5,STREAM,Copy,4189.47,MB/s,Scale,3806.64,MB/s,Add,4455.03,MB/s,Triad,3831.38,MB/s
+memory interleaved on 0 2 3 4 5,STREAM,Copy,4216.71,MB/s,Scale,4237.67,MB/s,Add,5134.56,MB/s,Triad,3969.31,MB/s
+memory interleaved on 1 2 3 4 5,STREAM,Copy,4325.78,MB/s,Scale,4331.15,MB/s,Add,5260.00,MB/s,Triad,4136.40,MB/s
+memory interleaved on 0 1 2 3 4 5,STREAM,Copy,4372.34,MB/s,Scale,4284.45,MB/s,Add,5255.75,MB/s,Triad,4073.89,MB/s
+memory interleaved on 0 6,STREAM,Copy,4486.54,MB/s,Scale,4474.46,MB/s,Add,5155.47,MB/s,Triad,4122.88,MB/s
+memory interleaved on 1 6,STREAM,Copy,4622.75,MB/s,Scale,4632.22,MB/s,Add,5272.92,MB/s,Triad,4619.91,MB/s
+memory interleaved on 0 1 6,STREAM,Copy,4169.72,MB/s,Scale,4571.32,MB/s,Add,5198.97,MB/s,Triad,4243.87,MB/s
+memory interleaved on 2 6,STREAM,Copy,4993.56,MB/s,Scale,4998.92,MB/s,Add,5821.53,MB/s,Triad,4767.13,MB/s
+memory interleaved on 0 2 6,STREAM,Copy,4583.64,MB/s,Scale,4707.10,MB/s,Add,5500.85,MB/s,Triad,4330.10,MB/s
+memory interleaved on 1 2 6,STREAM,Copy,4481.93,MB/s,Scale,5039.33,MB/s,Add,5610.65,MB/s,Triad,4713.32,MB/s
+memory interleaved on 0 1 2 6,STREAM,Copy,4728.40,MB/s,Scale,4498.36,MB/s,Add,5306.03,MB/s,Triad,4360.16,MB/s
+memory interleaved on 3 6,STREAM,Copy,4553.18,MB/s,Scale,4531.37,MB/s,Add,5361.34,MB/s,Triad,4165.47,MB/s
+memory interleaved on 0 3 6,STREAM,Copy,4348.65,MB/s,Scale,4434.77,MB/s,Add,5243.68,MB/s,Triad,4018.29,MB/s
+memory interleaved on 1 3 6,STREAM,Copy,4256.04,MB/s,Scale,4696.05,MB/s,Add,5351.81,MB/s,Triad,4305.91,MB/s
+memory interleaved on 0 1 3 6,STREAM,Copy,4539.00,MB/s,Scale,4310.89,MB/s,Add,5148.91,MB/s,Triad,4100.98,MB/s
+memory interleaved on 2 3 6,STREAM,Copy,4465.94,MB/s,Scale,4526.08,MB/s,Add,5179.15,MB/s,Triad,4211.98,MB/s
+memory interleaved on 0 2 3 6,STREAM,Copy,4503.89,MB/s,Scale,4413.46,MB/s,Add,5143.36,MB/s,Triad,4069.91,MB/s
+memory interleaved on 1 2 3 6,STREAM,Copy,4681.58,MB/s,Scale,4465.90,MB/s,Add,5181.21,MB/s,Triad,4284.26,MB/s
+memory interleaved on 0 1 2 3 6,STREAM,Copy,4570.78,MB/s,Scale,4583.66,MB/s,Add,5426.87,MB/s,Triad,4234.97,MB/s
+memory interleaved on 4 6,STREAM,Copy,3650.97,MB/s,Scale,3658.61,MB/s,Add,3967.37,MB/s,Triad,3667.38,MB/s
+memory interleaved on 0 4 6,STREAM,Copy,3585.22,MB/s,Scale,4119.35,MB/s,Add,4490.11,MB/s,Triad,3806.78,MB/s
+memory interleaved on 1 4 6,STREAM,Copy,3522.19,MB/s,Scale,4315.92,MB/s,Add,4621.93,MB/s,Triad,4047.91,MB/s
+memory interleaved on 0 1 4 6,STREAM,Copy,4294.98,MB/s,Scale,3894.66,MB/s,Add,4614.59,MB/s,Triad,3925.32,MB/s
+memory interleaved on 2 4 6,STREAM,Copy,3767.64,MB/s,Scale,4331.73,MB/s,Add,4757.83,MB/s,Triad,4078.63,MB/s
+memory interleaved on 0 2 4 6,STREAM,Copy,4341.39,MB/s,Scale,4040.53,MB/s,Add,4763.88,MB/s,Triad,3962.87,MB/s
+memory interleaved on 1 2 4 6,STREAM,Copy,4497.53,MB/s,Scale,4091.36,MB/s,Add,4809.75,MB/s,Triad,4173.59,MB/s
+memory interleaved on 0 1 2 4 6,STREAM,Copy,4408.77,MB/s,Scale,4456.22,MB/s,Add,5371.81,MB/s,Triad,4232.58,MB/s
+memory interleaved on 3 4 6,STREAM,Copy,3614.18,MB/s,Scale,4147.91,MB/s,Add,4591.98,MB/s,Triad,3829.58,MB/s
+memory interleaved on 0 3 4 6,STREAM,Copy,4192.22,MB/s,Scale,3912.74,MB/s,Add,4628.86,MB/s,Triad,3787.66,MB/s
+memory interleaved on 1 3 4 6,STREAM,Copy,4334.38,MB/s,Scale,3950.98,MB/s,Add,4685.11,MB/s,Triad,3967.98,MB/s
+memory interleaved on 0 1 3 4 6,STREAM,Copy,4287.07,MB/s,Scale,4318.61,MB/s,Add,5225.88,MB/s,Triad,4032.38,MB/s
+memory interleaved on 2 3 4 6,STREAM,Copy,4275.78,MB/s,Scale,3992.74,MB/s,Add,4647.14,MB/s,Triad,3925.64,MB/s
+memory interleaved on 0 2 3 4 6,STREAM,Copy,4275.56,MB/s,Scale,4293.90,MB/s,Add,5185.83,MB/s,Triad,4017.23,MB/s
+memory interleaved on 1 2 3 4 6,STREAM,Copy,4388.80,MB/s,Scale,4391.31,MB/s,Add,5324.10,MB/s,Triad,4189.93,MB/s
+memory interleaved on 0 1 2 3 4 6,STREAM,Copy,4444.05,MB/s,Scale,4333.34,MB/s,Add,5308.44,MB/s,Triad,4125.82,MB/s
+memory interleaved on 5 6,STREAM,Copy,4571.34,MB/s,Scale,4580.02,MB/s,Add,5192.78,MB/s,Triad,4567.94,MB/s
+memory interleaved on 0 5 6,STREAM,Copy,4192.95,MB/s,Scale,4638.97,MB/s,Add,5270.84,MB/s,Triad,4265.44,MB/s
+memory interleaved on 1 5 6,STREAM,Copy,4108.94,MB/s,Scale,4953.63,MB/s,Add,5354.77,MB/s,Triad,4623.74,MB/s
+memory interleaved on 0 1 5 6,STREAM,Copy,4689.38,MB/s,Scale,4328.46,MB/s,Add,5124.53,MB/s,Triad,4298.70,MB/s
+memory interleaved on 2 5 6,STREAM,Copy,4448.00,MB/s,Scale,4987.18,MB/s,Add,5563.62,MB/s,Triad,4683.05,MB/s
+memory interleaved on 0 2 5 6,STREAM,Copy,4762.61,MB/s,Scale,4525.80,MB/s,Add,5351.80,MB/s,Triad,4367.80,MB/s
+memory interleaved on 1 2 5 6,STREAM,Copy,4970.85,MB/s,Scale,4591.43,MB/s,Add,5401.11,MB/s,Triad,4639.94,MB/s
+memory interleaved on 0 1 2 5 6,STREAM,Copy,4759.33,MB/s,Scale,4797.90,MB/s,Add,5647.53,MB/s,Triad,4483.22,MB/s
+memory interleaved on 3 5 6,STREAM,Copy,4216.71,MB/s,Scale,4658.15,MB/s,Add,5311.39,MB/s,Triad,4276.76,MB/s
+memory interleaved on 0 3 5 6,STREAM,Copy,4546.06,MB/s,Scale,4331.16,MB/s,Add,5160.55,MB/s,Triad,4108.83,MB/s
+memory interleaved on 1 3 5 6,STREAM,Copy,4734.86,MB/s,Scale,4377.55,MB/s,Add,5223.56,MB/s,Triad,4334.56,MB/s
+memory interleaved on 0 1 3 5 6,STREAM,Copy,4602.67,MB/s,Scale,4613.29,MB/s,Add,5478.16,MB/s,Triad,4251.80,MB/s
+memory interleaved on 2 3 5 6,STREAM,Copy,4655.41,MB/s,Scale,4416.52,MB/s,Add,5158.78,MB/s,Triad,4274.65,MB/s
+memory interleaved on 0 2 3 5 6,STREAM,Copy,4596.93,MB/s,Scale,4594.82,MB/s,Add,5430.48,MB/s,Triad,4231.89,MB/s
+memory interleaved on 1 2 3 5 6,STREAM,Copy,4747.07,MB/s,Scale,4732.90,MB/s,Add,5581.11,MB/s,Triad,4451.24,MB/s
+memory interleaved on 0 1 2 3 5 6,STREAM,Copy,4687.49,MB/s,Scale,4599.35,MB/s,Add,5509.54,MB/s,Triad,4310.88,MB/s
+memory interleaved on 4 5 6,STREAM,Copy,3451.23,MB/s,Scale,4286.31,MB/s,Add,4529.27,MB/s,Triad,3989.70,MB/s
+memory interleaved on 0 4 5 6,STREAM,Copy,4268.72,MB/s,Scale,3861.50,MB/s,Add,4539.29,MB/s,Triad,3896.45,MB/s
+memory interleaved on 1 4 5 6,STREAM,Copy,4411.78,MB/s,Scale,3880.79,MB/s,Add,4591.55,MB/s,Triad,4080.37,MB/s
+memory interleaved on 0 1 4 5 6,STREAM,Copy,4410.11,MB/s,Scale,4380.59,MB/s,Add,5322.19,MB/s,Triad,4200.84,MB/s
+memory interleaved on 2 4 5 6,STREAM,Copy,4432.81,MB/s,Scale,3993.68,MB/s,Add,4692.68,MB/s,Triad,4107.73,MB/s
+memory interleaved on 0 2 4 5 6,STREAM,Copy,4438.13,MB/s,Scale,4400.69,MB/s,Add,5348.54,MB/s,Triad,4218.77,MB/s
+memory interleaved on 1 2 4 5 6,STREAM,Copy,4572.85,MB/s,Scale,4521.97,MB/s,Add,5503.47,MB/s,Triad,4433.18,MB/s
+memory interleaved on 0 1 2 4 5 6,STREAM,Copy,4549.34,MB/s,Scale,4471.65,MB/s,Add,5442.33,MB/s,Triad,4300.09,MB/s
+memory interleaved on 3 4 5 6,STREAM,Copy,4286.04,MB/s,Scale,3879.50,MB/s,Add,4567.96,MB/s,Triad,3908.81,MB/s
+memory interleaved on 0 3 4 5 6,STREAM,Copy,4311.68,MB/s,Scale,4266.90,MB/s,Add,5205.94,MB/s,Triad,4017.83,MB/s
+memory interleaved on 1 3 4 5 6,STREAM,Copy,4436.13,MB/s,Scale,4376.47,MB/s,Add,5351.77,MB/s,Triad,4205.73,MB/s
+memory interleaved on 0 1 3 4 5 6,STREAM,Copy,4409.01,MB/s,Scale,4388.54,MB/s,Add,5326.51,MB/s,Triad,4140.00,MB/s
+memory interleaved on 2 3 4 5 6,STREAM,Copy,4412.11,MB/s,Scale,4350.57,MB/s,Add,5299.56,MB/s,Triad,4172.10,MB/s
+memory interleaved on 0 2 3 4 5 6,STREAM,Copy,4410.99,MB/s,Scale,4374.53,MB/s,Add,5292.91,MB/s,Triad,4123.85,MB/s
+memory interleaved on 1 2 3 4 5 6,STREAM,Copy,4489.18,MB/s,Scale,4494.38,MB/s,Add,5405.89,MB/s,Triad,4290.05,MB/s
+memory interleaved on 0 1 2 3 4 5 6,STREAM,Copy,4471.95,MB/s,Scale,4453.66,MB/s,Add,5367.68,MB/s,Triad,4193.13,MB/s
+memory interleaved on 0 7,STREAM,Copy,5075.15,MB/s,Scale,5055.74,MB/s,Add,5754.44,MB/s,Triad,4891.87,MB/s
+memory interleaved on 1 7,STREAM,Copy,5172.77,MB/s,Scale,5128.43,MB/s,Add,5583.50,MB/s,Triad,5180.99,MB/s
+memory interleaved on 0 1 7,STREAM,Copy,4354.11,MB/s,Scale,4791.95,MB/s,Add,5432.48,MB/s,Triad,4673.20,MB/s
+memory interleaved on 2 7,STREAM,Copy,5737.95,MB/s,Scale,5667.63,MB/s,Add,6344.58,MB/s,Triad,5430.49,MB/s
+memory interleaved on 0 2 7,STREAM,Copy,5053.49,MB/s,Scale,5034.23,MB/s,Add,5848.18,MB/s,Triad,4786.70,MB/s
+memory interleaved on 1 2 7,STREAM,Copy,4913.88,MB/s,Scale,5377.36,MB/s,Add,5917.11,MB/s,Triad,5097.11,MB/s
+memory interleaved on 0 1 2 7,STREAM,Copy,4962.35,MB/s,Scale,4658.15,MB/s,Add,5494.52,MB/s,Triad,4687.21,MB/s
+memory interleaved on 3 7,STREAM,Copy,5068.48,MB/s,Scale,5041.13,MB/s,Add,5741.23,MB/s,Triad,4878.93,MB/s
+memory interleaved on 0 3 7,STREAM,Copy,4739.30,MB/s,Scale,4717.88,MB/s,Add,5545.09,MB/s,Triad,4438.04,MB/s
+memory interleaved on 1 3 7,STREAM,Copy,4622.15,MB/s,Scale,4977.20,MB/s,Add,5609.48,MB/s,Triad,4728.02,MB/s
+memory interleaved on 0 1 3 7,STREAM,Copy,4734.50,MB/s,Scale,4460.26,MB/s,Add,5319.24,MB/s,Triad,4394.87,MB/s
+memory interleaved on 2 3 7,STREAM,Copy,4669.02,MB/s,Scale,4768.44,MB/s,Add,5349.31,MB/s,Triad,4630.48,MB/s
+memory interleaved on 0 2 3 7,STREAM,Copy,4707.70,MB/s,Scale,4618.16,MB/s,Add,5291.54,MB/s,Triad,4358.33,MB/s
+memory interleaved on 1 2 3 7,STREAM,Copy,4899.08,MB/s,Scale,4636.23,MB/s,Add,5306.04,MB/s,Triad,4532.83,MB/s
+memory interleaved on 0 1 2 3 7,STREAM,Copy,4706.77,MB/s,Scale,4704.84,MB/s,Add,5564.77,MB/s,Triad,4440.13,MB/s
+memory interleaved on 4 7,STREAM,Copy,3854.70,MB/s,Scale,3861.32,MB/s,Add,4150.65,MB/s,Triad,4156.41,MB/s
+memory interleaved on 0 4 7,STREAM,Copy,3844.53,MB/s,Scale,4272.93,MB/s,Add,4760.60,MB/s,Triad,4190.61,MB/s
+memory interleaved on 1 4 7,STREAM,Copy,3756.10,MB/s,Scale,4457.98,MB/s,Add,4788.92,MB/s,Triad,4415.25,MB/s
+memory interleaved on 0 1 4 7,STREAM,Copy,4425.47,MB/s,Scale,3994.13,MB/s,Add,4746.17,MB/s,Triad,4185.59,MB/s
+memory interleaved on 2 4 7,STREAM,Copy,4045.68,MB/s,Scale,4505.62,MB/s,Add,4953.83,MB/s,Triad,4464.69,MB/s
+memory interleaved on 0 2 4 7,STREAM,Copy,4501.85,MB/s,Scale,4197.77,MB/s,Add,4906.10,MB/s,Triad,4229.00,MB/s
+memory interleaved on 1 2 4 7,STREAM,Copy,4669.36,MB/s,Scale,4232.57,MB/s,Add,4915.74,MB/s,Triad,4392.86,MB/s
+memory interleaved on 0 1 2 4 7,STREAM,Copy,4534.60,MB/s,Scale,4575.26,MB/s,Add,5513.34,MB/s,Triad,4448.75,MB/s
+memory interleaved on 3 4 7,STREAM,Copy,3851.11,MB/s,Scale,4283.12,MB/s,Add,4775.82,MB/s,Triad,4185.59,MB/s
+memory interleaved on 0 3 4 7,STREAM,Copy,4323.12,MB/s,Scale,4042.83,MB/s,Add,4762.57,MB/s,Triad,4018.13,MB/s
+memory interleaved on 1 3 4 7,STREAM,Copy,4474.47,MB/s,Scale,4061.90,MB/s,Add,4781.88,MB/s,Triad,4174.60,MB/s
+memory interleaved on 0 1 3 4 7,STREAM,Copy,4409.89,MB/s,Scale,4425.75,MB/s,Add,5358.10,MB/s,Triad,4234.11,MB/s
+memory interleaved on 2 3 4 7,STREAM,Copy,4410.43,MB/s,Scale,4059.50,MB/s,Add,4755.25,MB/s,Triad,4134.44,MB/s
+memory interleaved on 0 2 3 4 7,STREAM,Copy,4399.01,MB/s,Scale,4400.13,MB/s,Add,5308.99,MB/s,Triad,4217.94,MB/s
+memory interleaved on 1 2 3 4 7,STREAM,Copy,4507.69,MB/s,Scale,4492.89,MB/s,Add,5443.46,MB/s,Triad,4430.53,MB/s
+memory interleaved on 0 1 2 3 4 7,STREAM,Copy,4582.13,MB/s,Scale,4422.71,MB/s,Add,5451.10,MB/s,Triad,4337.09,MB/s
+memory interleaved on 5 7,STREAM,Copy,5079.56,MB/s,Scale,5042.90,MB/s,Add,5486.22,MB/s,Triad,5112.27,MB/s
+memory interleaved on 0 5 7,STREAM,Copy,4569.26,MB/s,Scale,4918.36,MB/s,Add,5560.08,MB/s,Triad,4699.19,MB/s
+memory interleaved on 1 5 7,STREAM,Copy,4450.88,MB/s,Scale,5231.63,MB/s,Add,5600.18,MB/s,Triad,4980.41,MB/s
+memory interleaved on 0 1 5 7,STREAM,Copy,4898.77,MB/s,Scale,4475.62,MB/s,Add,5284.61,MB/s,Triad,4603.64,MB/s
+memory interleaved on 2 5 7,STREAM,Copy,4880.99,MB/s,Scale,5315.54,MB/s,Add,5863.57,MB/s,Triad,5064.38,MB/s
+memory interleaved on 0 2 5 7,STREAM,Copy,5016.13,MB/s,Scale,4765.16,MB/s,Add,5528.74,MB/s,Triad,4675.92,MB/s
+memory interleaved on 1 2 5 7,STREAM,Copy,5250.46,MB/s,Scale,4813.77,MB/s,Add,5555.94,MB/s,Triad,4878.90,MB/s
+memory interleaved on 0 1 2 5 7,STREAM,Copy,4911.47,MB/s,Scale,4948.99,MB/s,Add,5809.92,MB/s,Triad,4687.20,MB/s
+memory interleaved on 3 5 7,STREAM,Copy,4579.17,MB/s,Scale,4910.82,MB/s,Add,5567.15,MB/s,Triad,4692.87,MB/s
+memory interleaved on 0 3 5 7,STREAM,Copy,4757.09,MB/s,Scale,4522.87,MB/s,Add,5325.42,MB/s,Triad,4389.92,MB/s
+memory interleaved on 1 3 5 7,STREAM,Copy,4957.42,MB/s,Scale,4550.50,MB/s,Add,5361.40,MB/s,Triad,4570.94,MB/s
+memory interleaved on 0 1 3 5 7,STREAM,Copy,4751.92,MB/s,Scale,4745.47,MB/s,Add,5630.24,MB/s,Triad,4441.81,MB/s
+memory interleaved on 2 3 5 7,STREAM,Copy,4872.79,MB/s,Scale,4516.11,MB/s,Add,5308.17,MB/s,Triad,4518.96,MB/s
+memory interleaved on 0 2 3 5 7,STREAM,Copy,4753.84,MB/s,Scale,4728.09,MB/s,Add,5572.23,MB/s,Triad,4428.10,MB/s
+memory interleaved on 1 2 3 5 7,STREAM,Copy,4910.12,MB/s,Scale,4859.89,MB/s,Add,5724.59,MB/s,Triad,4681.99,MB/s
+memory interleaved on 0 1 2 3 5 7,STREAM,Copy,4837.75,MB/s,Scale,4722.37,MB/s,Add,5661.24,MB/s,Triad,4519.51,MB/s
+memory interleaved on 4 5 7,STREAM,Copy,3554.27,MB/s,Scale,4377.81,MB/s,Add,4664.25,MB/s,Triad,4357.63,MB/s
+memory interleaved on 0 4 5 7,STREAM,Copy,4390.72,MB/s,Scale,3984.33,MB/s,Add,4662.40,MB/s,Triad,4151.64,MB/s
+memory interleaved on 1 4 5 7,STREAM,Copy,4537.50,MB/s,Scale,3975.25,MB/s,Add,4687.64,MB/s,Triad,4297.26,MB/s
+memory interleaved on 0 1 4 5 7,STREAM,Copy,4511.75,MB/s,Scale,4462.79,MB/s,Add,5463.06,MB/s,Triad,4401.91,MB/s
+memory interleaved on 2 4 5 7,STREAM,Copy,4575.84,MB/s,Scale,4092.80,MB/s,Add,4808.44,MB/s,Triad,4328.66,MB/s
+memory interleaved on 0 2 4 5 7,STREAM,Copy,4551.41,MB/s,Scale,4486.84,MB/s,Add,5490.76,MB/s,Triad,4413.76,MB/s
+memory interleaved on 1 2 4 5 7,STREAM,Copy,4685.00,MB/s,Scale,4600.20,MB/s,Add,5633.88,MB/s,Triad,4670.49,MB/s
+memory interleaved on 0 1 2 4 5 7,STREAM,Copy,4674.66,MB/s,Scale,4563.85,MB/s,Add,5590.89,MB/s,Triad,4513.89,MB/s
+memory interleaved on 3 4 5 7,STREAM,Copy,4398.48,MB/s,Scale,3991.60,MB/s,Add,4674.45,MB/s,Triad,4156.55,MB/s
+memory interleaved on 0 3 4 5 7,STREAM,Copy,4414.05,MB/s,Scale,4363.09,MB/s,Add,5344.98,MB/s,Triad,4203.72,MB/s
+memory interleaved on 1 3 4 5 7,STREAM,Copy,4544.88,MB/s,Scale,4466.20,MB/s,Add,5478.42,MB/s,Triad,4417.48,MB/s
+memory interleaved on 0 1 3 4 5 7,STREAM,Copy,4529.55,MB/s,Scale,4474.18,MB/s,Add,5466.15,MB/s,Triad,4340.13,MB/s
+memory interleaved on 2 3 4 5 7,STREAM,Copy,4515.56,MB/s,Scale,4439.56,MB/s,Add,5421.53,MB/s,Triad,4380.40,MB/s
+memory interleaved on 0 2 3 4 5 7,STREAM,Copy,4532.20,MB/s,Scale,4472.47,MB/s,Add,5431.90,MB/s,Triad,4321.73,MB/s
+memory interleaved on 1 2 3 4 5 7,STREAM,Copy,4613.92,MB/s,Scale,4592.10,MB/s,Add,5534.23,MB/s,Triad,4506.11,MB/s
+memory interleaved on 0 1 2 3 4 5 7,STREAM,Copy,4554.94,MB/s,Scale,4532.22,MB/s,Add,5465.61,MB/s,Triad,4358.73,MB/s
+memory interleaved on 6 7,STREAM,Copy,6270.65,MB/s,Scale,6182.98,MB/s,Add,6799.65,MB/s,Triad,5927.16,MB/s
+memory interleaved on 0 6 7,STREAM,Copy,5284.27,MB/s,Scale,5195.43,MB/s,Add,5971.73,MB/s,Triad,4955.94,MB/s
+memory interleaved on 1 6 7,STREAM,Copy,5146.12,MB/s,Scale,5595.13,MB/s,Add,6096.72,MB/s,Triad,5304.97,MB/s
+memory interleaved on 0 1 6 7,STREAM,Copy,5058.21,MB/s,Scale,4757.68,MB/s,Add,5592.69,MB/s,Triad,4816.82,MB/s
+memory interleaved on 2 6 7,STREAM,Copy,5714.41,MB/s,Scale,5693.54,MB/s,Add,6416.41,MB/s,Triad,5396.38,MB/s
+memory interleaved on 0 2 6 7,STREAM,Copy,5212.16,MB/s,Scale,5157.90,MB/s,Add,5896.15,MB/s,Triad,4907.25,MB/s
+memory interleaved on 1 2 6 7,STREAM,Copy,5470.33,MB/s,Scale,5206.68,MB/s,Add,5939.28,MB/s,Triad,5129.24,MB/s
+memory interleaved on 0 1 2 6 7,STREAM,Copy,5025.91,MB/s,Scale,5041.81,MB/s,Add,5888.23,MB/s,Triad,4763.45,MB/s
+memory interleaved on 3 6 7,STREAM,Copy,5315.21,MB/s,Scale,5217.58,MB/s,Add,6026.96,MB/s,Triad,4965.55,MB/s
+memory interleaved on 0 3 6 7,STREAM,Copy,4923.59,MB/s,Scale,4850.81,MB/s,Add,5641.78,MB/s,Triad,4560.40,MB/s
+memory interleaved on 1 3 6 7,STREAM,Copy,5158.65,MB/s,Scale,4885.40,MB/s,Add,5689.79,MB/s,Triad,4753.32,MB/s
+memory interleaved on 0 1 3 6 7,STREAM,Copy,4856.18,MB/s,Scale,4836.38,MB/s,Add,5703.14,MB/s,Triad,4517.21,MB/s
+memory interleaved on 2 3 6 7,STREAM,Copy,5047.29,MB/s,Scale,4799.49,MB/s,Add,5610.66,MB/s,Triad,4680.91,MB/s
+memory interleaved on 0 2 3 6 7,STREAM,Copy,4877.55,MB/s,Scale,4829.04,MB/s,Add,5642.96,MB/s,Triad,4497.60,MB/s
+memory interleaved on 1 2 3 6 7,STREAM,Copy,5050.62,MB/s,Scale,4978.30,MB/s,Add,5812.52,MB/s,Triad,4771.88,MB/s
+memory interleaved on 0 1 2 3 6 7,STREAM,Copy,4908.40,MB/s,Scale,4830.00,MB/s,Add,5722.12,MB/s,Triad,4590.58,MB/s
+memory interleaved on 4 6 7,STREAM,Copy,4157.77,MB/s,Scale,4655.09,MB/s,Add,5022.42,MB/s,Triad,4605.90,MB/s
+memory interleaved on 0 4 6 7,STREAM,Copy,4545.16,MB/s,Scale,4278.14,MB/s,Add,4896.66,MB/s,Triad,4314.94,MB/s
+memory interleaved on 1 4 6 7,STREAM,Copy,4720.11,MB/s,Scale,4293.40,MB/s,Add,4947.97,MB/s,Triad,4463.18,MB/s
+memory interleaved on 0 1 4 6 7,STREAM,Copy,4612.40,MB/s,Scale,4562.08,MB/s,Add,5527.57,MB/s,Triad,4474.22,MB/s
+memory interleaved on 2 4 6 7,STREAM,Copy,4769.05,MB/s,Scale,4442.66,MB/s,Add,5083.49,MB/s,Triad,4501.27,MB/s
+memory interleaved on 0 2 4 6 7,STREAM,Copy,4680.28,MB/s,Scale,4606.61,MB/s,Add,5561.53,MB/s,Triad,4493.75,MB/s
+memory interleaved on 1 2 4 6 7,STREAM,Copy,4836.36,MB/s,Scale,4740.90,MB/s,Add,5735.53,MB/s,Triad,4763.68,MB/s
+memory interleaved on 0 1 2 4 6 7,STREAM,Copy,4779.48,MB/s,Scale,4682.17,MB/s,Add,5650.85,MB/s,Triad,4586.73,MB/s
+memory interleaved on 3 4 6 7,STREAM,Copy,4565.41,MB/s,Scale,4292.61,MB/s,Add,4931.21,MB/s,Triad,4323.67,MB/s
+memory interleaved on 0 3 4 6 7,STREAM,Copy,4519.36,MB/s,Scale,4445.74,MB/s,Add,5405.28,MB/s,Triad,4273.10,MB/s
+memory interleaved on 1 3 4 6 7,STREAM,Copy,4661.88,MB/s,Scale,4568.38,MB/s,Add,5566.30,MB/s,Triad,4499.17,MB/s
+memory interleaved on 0 1 3 4 6 7,STREAM,Copy,4603.25,MB/s,Scale,4589.05,MB/s,Add,5523.76,MB/s,Triad,4410.24,MB/s
+memory interleaved on 2 3 4 6 7,STREAM,Copy,4606.28,MB/s,Scale,4520.80,MB/s,Add,5503.17,MB/s,Triad,4464.13,MB/s
+memory interleaved on 0 2 3 4 6 7,STREAM,Copy,4608.99,MB/s,Scale,4580.67,MB/s,Add,5487.32,MB/s,Triad,4395.83,MB/s
+memory interleaved on 1 2 3 4 6 7,STREAM,Copy,4695.38,MB/s,Scale,4714.72,MB/s,Add,5609.15,MB/s,Triad,4593.97,MB/s
+memory interleaved on 0 1 2 3 4 6 7,STREAM,Copy,4629.44,MB/s,Scale,4604.14,MB/s,Add,5521.71,MB/s,Triad,4402.29,MB/s
+memory interleaved on 5 6 7,STREAM,Copy,5085.88,MB/s,Scale,5556.81,MB/s,Add,6038.44,MB/s,Triad,5263.93,MB/s
+memory interleaved on 0 5 6 7,STREAM,Copy,5118.25,MB/s,Scale,4902.51,MB/s,Add,5633.60,MB/s,Triad,4821.71,MB/s
+memory interleaved on 1 5 6 7,STREAM,Copy,5368.25,MB/s,Scale,4949.75,MB/s,Add,5652.70,MB/s,Triad,5024.56,MB/s
+memory interleaved on 0 1 5 6 7,STREAM,Copy,4996.81,MB/s,Scale,4991.79,MB/s,Add,5860.91,MB/s,Triad,4745.96,MB/s
+memory interleaved on 2 5 6 7,STREAM,Copy,5436.71,MB/s,Scale,5163.98,MB/s,Add,5867.50,MB/s,Triad,5083.25,MB/s
+memory interleaved on 0 2 5 6 7,STREAM,Copy,5093.64,MB/s,Scale,5069.29,MB/s,Add,5904.17,MB/s,Triad,4765.17,MB/s
+memory interleaved on 1 2 5 6 7,STREAM,Copy,5298.21,MB/s,Scale,5254.40,MB/s,Add,6115.57,MB/s,Triad,5072.92,MB/s
+memory interleaved on 0 1 2 5 6 7,STREAM,Copy,5095.49,MB/s,Scale,5058.22,MB/s,Add,5907.45,MB/s,Triad,4794.35,MB/s
+memory interleaved on 3 5 6 7,STREAM,Copy,5132.87,MB/s,Scale,4911.84,MB/s,Add,5643.23,MB/s,Triad,4821.02,MB/s
+memory interleaved on 0 3 5 6 7,STREAM,Copy,4885.05,MB/s,Scale,4851.48,MB/s,Add,5706.51,MB/s,Triad,4541.27,MB/s
+memory interleaved on 1 3 5 6 7,STREAM,Copy,5071.46,MB/s,Scale,5017.99,MB/s,Add,5898.46,MB/s,Triad,4791.74,MB/s
+memory interleaved on 0 1 3 5 6 7,STREAM,Copy,4893.96,MB/s,Scale,4901.87,MB/s,Add,5754.78,MB/s,Triad,4602.63,MB/s
+memory interleaved on 2 3 5 6 7,STREAM,Copy,4995.02,MB/s,Scale,4957.78,MB/s,Add,5815.42,MB/s,Triad,4750.72,MB/s
+memory interleaved on 0 2 3 5 6 7,STREAM,Copy,4908.00,MB/s,Scale,4903.90,MB/s,Add,5717.45,MB/s,Triad,4585.13,MB/s
+memory interleaved on 1 2 3 5 6 7,STREAM,Copy,5041.50,MB/s,Scale,5060.45,MB/s,Add,5854.34,MB/s,Triad,4805.36,MB/s
+memory interleaved on 0 1 2 3 5 6 7,STREAM,Copy,4888.44,MB/s,Scale,4899.12,MB/s,Add,5733.39,MB/s,Triad,4561.01,MB/s
+memory interleaved on 4 5 6 7,STREAM,Copy,4664.66,MB/s,Scale,4174.92,MB/s,Add,4934.95,MB/s,Triad,4538.10,MB/s
+memory interleaved on 0 4 5 6 7,STREAM,Copy,4567.17,MB/s,Scale,4550.78,MB/s,Add,5486.16,MB/s,Triad,4492.82,MB/s
+memory interleaved on 1 4 5 6 7,STREAM,Copy,4710.88,MB/s,Scale,4685.61,MB/s,Add,5660.35,MB/s,Triad,4735.24,MB/s
+memory interleaved on 0 1 4 5 6 7,STREAM,Copy,4526.38,MB/s,Scale,4717.59,MB/s,Add,5608.86,MB/s,Triad,4558.84,MB/s
+memory interleaved on 2 4 5 6 7,STREAM,Copy,4736.14,MB/s,Scale,4696.37,MB/s,Add,5667.40,MB/s,Triad,4739.56,MB/s
+memory interleaved on 0 2 4 5 6 7,STREAM,Copy,4548.12,MB/s,Scale,4759.02,MB/s,Add,5630.23,MB/s,Triad,4577.95,MB/s
+memory interleaved on 1 2 4 5 6 7,STREAM,Copy,4655.06,MB/s,Scale,4899.73,MB/s,Add,5761.74,MB/s,Triad,4799.63,MB/s
+memory interleaved on 0 1 2 4 5 6 7,STREAM,Copy,4779.47,MB/s,Scale,4689.45,MB/s,Add,5640.22,MB/s,Triad,4544.43,MB/s
+memory interleaved on 3 4 5 6 7,STREAM,Copy,4577.00,MB/s,Scale,4560.03,MB/s,Add,5509.23,MB/s,Triad,4497.23,MB/s
+memory interleaved on 0 3 4 5 6 7,STREAM,Copy,4441.80,MB/s,Scale,4640.84,MB/s,Add,5504.92,MB/s,Triad,4389.91,MB/s
+memory interleaved on 1 3 4 5 6 7,STREAM,Copy,4539.28,MB/s,Scale,4763.19,MB/s,Add,5628.45,MB/s,Triad,4586.95,MB/s
+memory interleaved on 0 1 3 4 5 6 7,STREAM,Copy,4676.54,MB/s,Scale,4559.42,MB/s,Add,5536.28,MB/s,Triad,4394.90,MB/s
+memory interleaved on 2 3 4 5 6 7,STREAM,Copy,4528.74,MB/s,Scale,4741.23,MB/s,Add,5571.29,MB/s,Triad,4553.47,MB/s
+memory interleaved on 0 2 3 4 5 6 7,STREAM,Copy,4679.02,MB/s,Scale,4560.02,MB/s,Add,5527.57,MB/s,Triad,4388.25,MB/s
+memory interleaved on 1 2 3 4 5 6 7,STREAM,Copy,4798.51,MB/s,Scale,4641.16,MB/s,Add,5642.08,MB/s,Triad,4551.50,MB/s
+memory interleaved on 0 1 2 3 4 5 6 7,STREAM,Copy,4614.80,MB/s,Scale,4269.55,MB/s,Add,4964.35,MB/s,Triad,4277.12,MB/s
+setting preferred node to 0
+memory without policy,STREAM,Copy,3655.15,MB/s,Scale,3653.45,MB/s,Add,3891.70,MB/s,Triad,3443.14,MB/s
+setting preferred node to 1
+memory without policy,STREAM,Copy,3073.70,MB/s,Scale,3070.46,MB/s,Add,3098.46,MB/s,Triad,3117.24,MB/s
+setting preferred node to 2
+memory without policy,STREAM,Copy,4133.46,MB/s,Scale,4144.22,MB/s,Add,4348.03,MB/s,Triad,3917.12,MB/s
+setting preferred node to 3
+memory without policy,STREAM,Copy,3548.68,MB/s,Scale,3534.83,MB/s,Add,3768.59,MB/s,Triad,3446.99,MB/s
+setting preferred node to 4
+memory without policy,STREAM,Copy,2106.46,MB/s,Scale,2106.01,MB/s,Add,2100.47,MB/s,Triad,2113.43,MB/s
+setting preferred node to 5
+memory without policy,STREAM,Copy,2998.80,MB/s,Scale,2994.83,MB/s,Add,3021.67,MB/s,Triad,3039.16,MB/s
+setting preferred node to 6
+memory without policy,STREAM,Copy,4936.44,MB/s,Scale,4927.76,MB/s,Add,5378.11,MB/s,Triad,4717.59,MB/s
+setting preferred node to 7
+memory without policy,STREAM,Copy,6784.93,MB/s,Scale,6660.10,MB/s,Add,7100.81,MB/s,Triad,6881.74,MB/s
+manual interleaving to all nodes,STREAM,Copy,4617.82,MB/s,Scale,4270.04,MB/s,Add,4966.70,MB/s,Triad,4277.46,MB/s
+manual interleaving on node 0/1,STREAM,Copy,3802.91,MB/s,Scale,3782.36,MB/s,Add,4349.85,MB/s,Triad,3806.22,MB/s
+current interleave node 0
+running on node 0, preferred node 0
+local memory,STREAM,Copy,6828.02,MB/s,Scale,6771.06,MB/s,Add,7228.03,MB/s,Triad,7287.85,MB/s
+memory interleaved on all nodes,STREAM,Copy,4450.57,MB/s,Scale,4103.86,MB/s,Add,4716.71,MB/s,Triad,4182.11,MB/s
+memory interleaved on node 0/1,STREAM,Copy,6213.29,MB/s,Scale,6117.03,MB/s,Add,6751.97,MB/s,Triad,5887.60,MB/s
+alloc on node 1,STREAM,Copy,4943.81,MB/s,Scale,4950.10,MB/s,Add,5377.60,MB/s,Triad,4754.81,MB/s
+alloc on node 2,STREAM,Copy,4125.92,MB/s,Scale,4138.34,MB/s,Add,4339.22,MB/s,Triad,3976.84,MB/s
+alloc on node 3,STREAM,Copy,3652.69,MB/s,Scale,3655.00,MB/s,Add,3850.96,MB/s,Triad,3480.29,MB/s
+alloc on node 4,STREAM,Copy,3044.64,MB/s,Scale,3041.87,MB/s,Add,3068.89,MB/s,Triad,3089.58,MB/s
+alloc on node 5,STREAM,Copy,2970.01,MB/s,Scale,2966.99,MB/s,Add,3001.07,MB/s,Triad,3016.88,MB/s
+alloc on node 6,STREAM,Copy,3102.19,MB/s,Scale,3100.56,MB/s,Add,3128.03,MB/s,Triad,3148.50,MB/s
+alloc on node 7,STREAM,Copy,2107.09,MB/s,Scale,2107.60,MB/s,Add,2101.18,MB/s,Triad,2112.92,MB/s
+local allocation,STREAM,Copy,6775.04,MB/s,Scale,6739.80,MB/s,Add,7240.04,MB/s,Triad,7291.93,MB/s
+setting wrong preferred node,STREAM,Copy,4939.97,MB/s,Scale,4944.10,MB/s,Add,5373.74,MB/s,Triad,4750.68,MB/s
+setting correct preferred node,STREAM,Copy,6781.59,MB/s,Scale,6730.08,MB/s,Add,7237.07,MB/s,Triad,7296.02,MB/s
+running on node 1, preferred node 0
+local memory,STREAM,Copy,6780.95,MB/s,Scale,6767.24,MB/s,Add,7160.89,MB/s,Triad,7036.89,MB/s
+memory interleaved on all nodes,STREAM,Copy,4451.14,MB/s,Scale,4083.26,MB/s,Add,4712.05,MB/s,Triad,4231.56,MB/s
+memory interleaved on node 0/1,STREAM,Copy,6232.00,MB/s,Scale,6150.41,MB/s,Add,6768.97,MB/s,Triad,5934.23,MB/s
+alloc on node 0,STREAM,Copy,4878.59,MB/s,Scale,4876.90,MB/s,Add,5363.58,MB/s,Triad,4751.80,MB/s
+alloc on node 2,STREAM,Copy,3641.06,MB/s,Scale,3645.24,MB/s,Add,3854.07,MB/s,Triad,3483.87,MB/s
+alloc on node 3,STREAM,Copy,4140.79,MB/s,Scale,4152.59,MB/s,Add,4338.89,MB/s,Triad,3966.16,MB/s
+alloc on node 4,STREAM,Copy,3014.30,MB/s,Scale,3012.23,MB/s,Add,3039.97,MB/s,Triad,3058.24,MB/s
+alloc on node 5,STREAM,Copy,2948.22,MB/s,Scale,2945.60,MB/s,Add,2979.92,MB/s,Triad,2994.56,MB/s
+alloc on node 6,STREAM,Copy,2119.04,MB/s,Scale,2118.79,MB/s,Add,2112.78,MB/s,Triad,2125.98,MB/s
+alloc on node 7,STREAM,Copy,3073.85,MB/s,Scale,3070.74,MB/s,Add,3098.45,MB/s,Triad,3120.10,MB/s
+local allocation,STREAM,Copy,6756.06,MB/s,Scale,6715.13,MB/s,Add,7141.48,MB/s,Triad,7033.13,MB/s
+setting wrong preferred node,STREAM,Copy,3638.82,MB/s,Scale,3642.98,MB/s,Add,3853.65,MB/s,Triad,3484.70,MB/s
+setting correct preferred node,STREAM,Copy,6805.44,MB/s,Scale,6694.62,MB/s,Add,7164.82,MB/s,Triad,7053.09,MB/s
+running on node 2, preferred node 0
+local memory,STREAM,Copy,6850.10,MB/s,Scale,6818.00,MB/s,Add,7225.14,MB/s,Triad,7302.54,MB/s
+memory interleaved on all nodes,STREAM,Copy,4864.97,MB/s,Scale,4394.07,MB/s,Add,5142.59,MB/s,Triad,4593.77,MB/s
+memory interleaved on node 0/1,STREAM,Copy,3334.04,MB/s,Scale,3312.08,MB/s,Add,3636.08,MB/s,Triad,3501.54,MB/s
+alloc on node 0,STREAM,Copy,3038.17,MB/s,Scale,3036.05,MB/s,Add,3064.14,MB/s,Triad,3082.79,MB/s
+alloc on node 1,STREAM,Copy,2113.28,MB/s,Scale,2112.57,MB/s,Add,2106.63,MB/s,Triad,2118.46,MB/s
+alloc on node 3,STREAM,Copy,4991.10,MB/s,Scale,4997.50,MB/s,Add,5387.00,MB/s,Triad,4783.21,MB/s
+alloc on node 4,STREAM,Copy,3148.88,MB/s,Scale,3146.20,MB/s,Add,3177.31,MB/s,Triad,3198.72,MB/s
+alloc on node 5,STREAM,Copy,4246.42,MB/s,Scale,4247.45,MB/s,Add,4416.71,MB/s,Triad,4035.30,MB/s
+alloc on node 6,STREAM,Copy,3071.41,MB/s,Scale,3068.99,MB/s,Add,3099.81,MB/s,Triad,3117.23,MB/s
+alloc on node 7,STREAM,Copy,3072.22,MB/s,Scale,3069.66,MB/s,Add,3098.44,MB/s,Triad,3116.39,MB/s
+local allocation,STREAM,Copy,6821.31,MB/s,Scale,6788.16,MB/s,Add,7223.58,MB/s,Triad,7300.51,MB/s
+setting wrong preferred node,STREAM,Copy,4987.49,MB/s,Scale,4993.92,MB/s,Add,5386.71,MB/s,Triad,4781.68,MB/s
+setting correct preferred node,STREAM,Copy,6813.43,MB/s,Scale,6799.45,MB/s,Add,7219.10,MB/s,Triad,7296.51,MB/s
+running on node 3, preferred node 0
+local memory,STREAM,Copy,6790.17,MB/s,Scale,6742.98,MB/s,Add,7120.13,MB/s,Triad,6913.10,MB/s
+memory interleaved on all nodes,STREAM,Copy,4542.80,MB/s,Scale,4011.54,MB/s,Add,4642.82,MB/s,Triad,4219.44,MB/s
+memory interleaved on node 0/1,STREAM,Copy,3348.09,MB/s,Scale,3343.62,MB/s,Add,3691.52,MB/s,Triad,3542.13,MB/s
+alloc on node 0,STREAM,Copy,2119.74,MB/s,Scale,2119.49,MB/s,Add,2111.98,MB/s,Triad,2125.16,MB/s
+alloc on node 1,STREAM,Copy,3030.12,MB/s,Scale,3027.11,MB/s,Add,3055.11,MB/s,Triad,3072.39,MB/s
+alloc on node 2,STREAM,Copy,4910.80,MB/s,Scale,4910.08,MB/s,Add,5375.66,MB/s,Triad,4785.84,MB/s
+alloc on node 4,STREAM,Copy,3071.66,MB/s,Scale,3069.25,MB/s,Add,3097.90,MB/s,Triad,3116.95,MB/s
+alloc on node 5,STREAM,Copy,4198.00,MB/s,Scale,4201.78,MB/s,Add,4378.38,MB/s,Triad,4008.45,MB/s
+alloc on node 6,STREAM,Copy,2076.93,MB/s,Scale,2074.09,MB/s,Add,2080.63,MB/s,Triad,2095.73,MB/s
+alloc on node 7,STREAM,Copy,2076.19,MB/s,Scale,2073.53,MB/s,Add,2079.93,MB/s,Triad,2095.73,MB/s
+local allocation,STREAM,Copy,6796.73,MB/s,Scale,6746.31,MB/s,Add,7129.79,MB/s,Triad,6912.57,MB/s
+setting wrong preferred node,STREAM,Copy,3072.62,MB/s,Scale,3069.78,MB/s,Add,3098.27,MB/s,Triad,3117.79,MB/s
+setting correct preferred node,STREAM,Copy,6798.12,MB/s,Scale,6734.01,MB/s,Add,7121.59,MB/s,Triad,6921.75,MB/s
+running on node 4, preferred node 0
+local memory,STREAM,Copy,6870.32,MB/s,Scale,6818.05,MB/s,Add,7233.00,MB/s,Triad,7297.45,MB/s
+memory interleaved on all nodes,STREAM,Copy,4897.06,MB/s,Scale,4405.43,MB/s,Add,5146.11,MB/s,Triad,4583.35,MB/s
+memory interleaved on node 0/1,STREAM,Copy,4047.05,MB/s,Scale,4041.47,MB/s,Add,4564.59,MB/s,Triad,4276.60,MB/s
+alloc on node 0,STREAM,Copy,3040.29,MB/s,Scale,3038.02,MB/s,Add,3067.98,MB/s,Triad,3086.41,MB/s
+alloc on node 1,STREAM,Copy,3017.58,MB/s,Scale,3014.71,MB/s,Add,3040.66,MB/s,Triad,3060.91,MB/s
+alloc on node 2,STREAM,Copy,3144.22,MB/s,Scale,3142.51,MB/s,Add,3173.94,MB/s,Triad,3194.73,MB/s
+alloc on node 3,STREAM,Copy,3076.14,MB/s,Scale,3073.16,MB/s,Add,3101.09,MB/s,Triad,3121.13,MB/s
+alloc on node 5,STREAM,Copy,4987.87,MB/s,Scale,4964.17,MB/s,Add,5371.54,MB/s,Triad,4766.68,MB/s
+alloc on node 6,STREAM,Copy,4137.11,MB/s,Scale,4144.50,MB/s,Add,4342.46,MB/s,Triad,3978.06,MB/s
+alloc on node 7,STREAM,Copy,2085.29,MB/s,Scale,2084.42,MB/s,Add,2079.64,MB/s,Triad,2090.54,MB/s
+local allocation,STREAM,Copy,6843.39,MB/s,Scale,6810.10,MB/s,Add,7243.10,MB/s,Triad,7309.70,MB/s
+setting wrong preferred node,STREAM,Copy,4987.87,MB/s,Scale,4962.38,MB/s,Add,5374.29,MB/s,Triad,4765.17,MB/s
+setting correct preferred node,STREAM,Copy,6808.71,MB/s,Scale,6793.55,MB/s,Add,7243.10,MB/s,Triad,7295.47,MB/s
+running on node 5, preferred node 0
+local memory,STREAM,Copy,6850.06,MB/s,Scale,6709.36,MB/s,Add,7122.07,MB/s,Triad,6991.94,MB/s
+memory interleaved on all nodes,STREAM,Copy,4603.29,MB/s,Scale,4182.43,MB/s,Add,4870.99,MB/s,Triad,4342.12,MB/s
+memory interleaved on node 0/1,STREAM,Copy,2926.74,MB/s,Scale,2918.80,MB/s,Add,3057.70,MB/s,Triad,3058.33,MB/s
+alloc on node 0,STREAM,Copy,2047.72,MB/s,Scale,2044.97,MB/s,Add,2052.37,MB/s,Triad,2065.96,MB/s
+alloc on node 1,STREAM,Copy,2036.91,MB/s,Scale,2034.31,MB/s,Add,2041.78,MB/s,Triad,2054.70,MB/s
+alloc on node 2,STREAM,Copy,4196.71,MB/s,Scale,4206.86,MB/s,Add,4409.66,MB/s,Triad,4032.05,MB/s
+alloc on node 3,STREAM,Copy,3117.69,MB/s,Scale,3114.93,MB/s,Add,3145.95,MB/s,Triad,3162.75,MB/s
+alloc on node 4,STREAM,Copy,4898.72,MB/s,Scale,4896.34,MB/s,Add,5368.50,MB/s,Triad,4768.40,MB/s
+alloc on node 6,STREAM,Copy,3635.02,MB/s,Scale,3636.15,MB/s,Add,3859.47,MB/s,Triad,3485.85,MB/s
+alloc on node 7,STREAM,Copy,3006.53,MB/s,Scale,3003.44,MB/s,Add,3027.50,MB/s,Triad,3048.62,MB/s
+local allocation,STREAM,Copy,6882.43,MB/s,Scale,6743.74,MB/s,Add,7157.03,MB/s,Triad,7040.30,MB/s
+setting wrong preferred node,STREAM,Copy,3635.01,MB/s,Scale,3633.89,MB/s,Add,3860.30,MB/s,Triad,3480.74,MB/s
+setting correct preferred node,STREAM,Copy,6917.81,MB/s,Scale,6818.01,MB/s,Add,7195.36,MB/s,Triad,7185.97,MB/s
+running on node 6, preferred node 0
+local memory,STREAM,Copy,6861.48,MB/s,Scale,6816.68,MB/s,Add,7234.58,MB/s,Triad,7302.04,MB/s
+memory interleaved on all nodes,STREAM,Copy,4348.12,MB/s,Scale,3901.19,MB/s,Add,4476.88,MB/s,Triad,4085.32,MB/s
+memory interleaved on node 0/1,STREAM,Copy,3474.74,MB/s,Scale,3441.23,MB/s,Add,3676.63,MB/s,Triad,3518.82,MB/s
+alloc on node 0,STREAM,Copy,4141.06,MB/s,Scale,4154.61,MB/s,Add,4357.97,MB/s,Triad,3998.68,MB/s
+alloc on node 1,STREAM,Copy,2118.84,MB/s,Scale,2118.27,MB/s,Add,2112.70,MB/s,Triad,2125.34,MB/s
+alloc on node 2,STREAM,Copy,3071.80,MB/s,Scale,3069.64,MB/s,Add,3098.36,MB/s,Triad,3118.34,MB/s
+alloc on node 3,STREAM,Copy,2995.96,MB/s,Scale,2993.54,MB/s,Add,3030.21,MB/s,Triad,3045.00,MB/s
+alloc on node 4,STREAM,Copy,3047.97,MB/s,Scale,3045.70,MB/s,Add,3073.83,MB/s,Triad,3092.22,MB/s
+alloc on node 5,STREAM,Copy,2085.53,MB/s,Scale,2084.98,MB/s,Add,2078.82,MB/s,Triad,2090.63,MB/s
+alloc on node 7,STREAM,Copy,4971.95,MB/s,Scale,4976.12,MB/s,Add,5372.37,MB/s,Triad,4765.17,MB/s
+local allocation,STREAM,Copy,6838.63,MB/s,Scale,6746.92,MB/s,Add,7230.03,MB/s,Triad,7305.66,MB/s
+setting wrong preferred node,STREAM,Copy,4973.00,MB/s,Scale,4957.09,MB/s,Add,5377.57,MB/s,Triad,4764.72,MB/s
+setting correct preferred node,STREAM,Copy,6794.10,MB/s,Scale,6772.47,MB/s,Add,7234.08,MB/s,Triad,7298.97,MB/s
+running on node 7, preferred node 0
+local memory,STREAM,Copy,6778.27,MB/s,Scale,6739.82,MB/s,Add,7115.22,MB/s,Triad,6971.45,MB/s
+memory interleaved on all nodes,STREAM,Copy,4609.62,MB/s,Scale,4273.19,MB/s,Add,4954.08,MB/s,Triad,4338.88,MB/s
+memory interleaved on node 0/1,STREAM,Copy,3795.29,MB/s,Scale,3779.28,MB/s,Add,4343.02,MB/s,Triad,3884.04,MB/s
+alloc on node 0,STREAM,Copy,3642.60,MB/s,Scale,3647.93,MB/s,Add,3883.47,MB/s,Triad,3483.87,MB/s
+alloc on node 1,STREAM,Copy,3072.48,MB/s,Scale,3070.05,MB/s,Add,3097.98,MB/s,Triad,3119.65,MB/s
+alloc on node 2,STREAM,Copy,4126.39,MB/s,Scale,4139.59,MB/s,Add,4343.54,MB/s,Triad,3984.25,MB/s
+alloc on node 3,STREAM,Copy,3551.54,MB/s,Scale,3537.69,MB/s,Add,3767.25,MB/s,Triad,3496.42,MB/s
+alloc on node 4,STREAM,Copy,2106.46,MB/s,Scale,2106.15,MB/s,Add,2100.26,MB/s,Triad,2112.91,MB/s
+alloc on node 5,STREAM,Copy,2999.82,MB/s,Scale,2996.75,MB/s,Add,3022.26,MB/s,Triad,3041.91,MB/s
+alloc on node 6,STREAM,Copy,4900.44,MB/s,Scale,4885.41,MB/s,Add,5366.60,MB/s,Triad,4769.73,MB/s
+local allocation,STREAM,Copy,6827.41,MB/s,Scale,6696.50,MB/s,Add,7122.96,MB/s,Triad,6976.55,MB/s
+setting wrong preferred node,STREAM,Copy,3643.91,MB/s,Scale,3650.41,MB/s,Add,3885.90,MB/s,Triad,3483.41,MB/s
+setting correct preferred node,STREAM,Copy,6802.74,MB/s,Scale,6743.08,MB/s,Add,7126.41,MB/s,Triad,6997.00,MB/s

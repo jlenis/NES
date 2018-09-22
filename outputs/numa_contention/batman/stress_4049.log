@@ -1,0 +1,14 @@
+Number of threads: 
+Job ID: 4049
+Machine: batman 
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13629 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13666 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13675 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13685 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13694 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13703 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13740 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13750 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13768 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13785 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04049/slurm_script: line 37: 13816 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt

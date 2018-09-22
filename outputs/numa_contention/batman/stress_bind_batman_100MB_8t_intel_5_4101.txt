@@ -1,0 +1,14 @@
+Architecture: intel
+num cpus: 8
+numa available: 0
+array size: 104857600 
+x size: 838860800 
+
+all-contention tid: 0  core 0 -> core 0 : BW 1164.38 MB/s
+all-contention tid: 1  core 4 -> core 0 : BW 1164.38 MB/s
+all-contention tid: 2  core 8 -> core 0 : BW 1162.12 MB/s
+all-contention tid: 3  core 12 -> core 0 : BW 1162.12 MB/s
+all-contention tid: 4  core 16 -> core 0 : BW 1158.2 MB/s
+all-contention tid: 5  core 20 -> core 0 : BW 1165.58 MB/s
+all-contention tid: 6  core 24 -> core 0 : BW 1196.46 MB/s
+all-contention tid: 7  core 28 -> core 0 : BW 1187.58 MB/s

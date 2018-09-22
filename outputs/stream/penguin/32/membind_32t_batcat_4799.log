@@ -1,0 +1,339 @@
+Number of threads: 32
+Job ID: 4799
+Machine: penguin 
+Socket: 0,1  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=0,1 --membind=0 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,741,249,802,264      cycles                                                      
+   213,579,189,029      instructions              #    0.12  insns per cycle        
+     2,051,833,097      cache-references                                            
+     1,086,652,540      cache-misses              #   52.960 % of all cache refs    
+             3,954      faults                                                      
+               441      migrations                                                  
+
+      37.857077747 seconds time elapsed
+
+ Time Elapsed: 0
+Socket: 0,1  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=0,1 --membind=1 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,718,754,264,348      cycles                                                      
+   216,237,029,582      instructions              #    0.13  insns per cycle        
+     2,043,809,121      cache-references                                            
+     1,070,038,101      cache-misses              #   52.355 % of all cache refs    
+             3,954      faults                                                      
+               464      migrations                                                  
+
+      37.876053612 seconds time elapsed
+
+ Time Elapsed: -38
+Socket: 0,1  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=0,1 --membind=2 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,162,443,136,989      cycles                                                      
+   171,566,145,169      instructions              #    0.05  insns per cycle        
+     2,086,822,853      cache-references                                            
+     1,085,858,989      cache-misses              #   52.034 % of all cache refs    
+             3,954      faults                                                      
+             1,105      migrations                                                  
+
+      47.579426244 seconds time elapsed
+
+ Time Elapsed: -76
+Socket: 0,1  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=0,1 --membind=3 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,351,309,257,930      cycles                                                      
+   171,091,054,944      instructions              #    0.05  insns per cycle        
+     2,094,657,720      cache-references                                            
+     1,109,648,274      cache-misses              #   52.975 % of all cache refs    
+             3,954      faults                                                      
+                76      migrations                                                  
+
+      48.877731814 seconds time elapsed
+
+ Time Elapsed: -124
+Socket: 0,2  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=0,2 --membind=0 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,778,615,949,633      cycles                                                      
+   225,891,338,957      instructions              #    0.13  insns per cycle        
+     2,085,794,931      cache-references                                            
+     1,072,016,031      cache-misses              #   51.396 % of all cache refs    
+             3,954      faults                                                      
+               537      migrations                                                  
+
+      42.395461813 seconds time elapsed
+
+ Time Elapsed: -172
+Socket: 0,2  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=0,2 --membind=1 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 2,989,633,629,522      cycles                                                      
+   115,662,748,404      instructions              #    0.04  insns per cycle        
+     2,084,281,932      cache-references                                            
+     1,107,861,338      cache-misses              #   53.153 % of all cache refs    
+             3,955      faults                                                      
+                32      migrations                                                  
+
+      43.034946788 seconds time elapsed
+
+ Time Elapsed: -215
+Socket: 0,2  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=0,2 --membind=2 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,959,897,886,637      cycles                                                      
+   210,718,757,468      instructions              #    0.11  insns per cycle        
+     2,061,498,047      cache-references                                            
+     1,106,864,243      cache-misses              #   53.692 % of all cache refs    
+             3,955      faults                                                      
+               386      migrations                                                  
+
+      44.374957697 seconds time elapsed
+
+ Time Elapsed: -258
+Socket: 0,2  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=0,2 --membind=3 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,015,137,757,930      cycles                                                      
+   123,542,521,332      instructions              #    0.04  insns per cycle        
+     2,082,783,235      cache-references                                            
+     1,101,635,080      cache-misses              #   52.892 % of all cache refs    
+             3,954      faults                                                      
+               106      migrations                                                  
+
+      43.545484645 seconds time elapsed
+
+ Time Elapsed: -302
+Socket: 0,3  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=0,3 --membind=0 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,739,212,326,860      cycles                                                      
+   213,490,478,388      instructions              #    0.12  insns per cycle        
+     2,068,681,197      cache-references                                            
+     1,092,845,134      cache-misses              #   52.828 % of all cache refs    
+             3,954      faults                                                      
+               396      migrations                                                  
+
+      38.328650004 seconds time elapsed
+
+ Time Elapsed: -346
+Socket: 0,3  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=0,3 --membind=1 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,626,944,935,586      cycles                                                      
+   167,958,796,398      instructions              #    0.05  insns per cycle        
+     2,107,184,522      cache-references                                            
+     1,097,518,672      cache-misses              #   52.085 % of all cache refs    
+             3,955      faults                                                      
+                98      migrations                                                  
+
+      52.717567643 seconds time elapsed
+
+ Time Elapsed: -384
+Socket: 0,3  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=0,3 --membind=2 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,404,723,629,386      cycles                                                      
+   183,077,160,560      instructions              #    0.05  insns per cycle        
+     2,104,961,501      cache-references                                            
+     1,076,494,116      cache-misses              #   51.141 % of all cache refs    
+             3,954      faults                                                      
+             1,096      migrations                                                  
+
+      51.017146688 seconds time elapsed
+
+ Time Elapsed: -437
+Socket: 0,3  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=0,3 --membind=3 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,718,183,689,004      cycles                                                      
+   217,443,098,307      instructions              #    0.13  insns per cycle        
+     2,053,297,204      cache-references                                            
+     1,085,459,661      cache-misses              #   52.864 % of all cache refs    
+             3,955      faults                                                      
+               502      migrations                                                  
+
+      37.209506681 seconds time elapsed
+
+ Time Elapsed: -488
+Socket: 1,2  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=1,2 --membind=0 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,492,068,495,332      cycles                                                      
+   164,695,806,886      instructions              #    0.05  insns per cycle        
+     2,101,415,856      cache-references                                            
+     1,085,374,663      cache-misses              #   51.650 % of all cache refs    
+             3,954      faults                                                      
+               402      migrations                                                  
+
+      51.594117032 seconds time elapsed
+
+ Time Elapsed: -526
+Socket: 1,2  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=1,2 --membind=1 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,738,392,356,838      cycles                                                      
+   214,348,462,577      instructions              #    0.12  insns per cycle        
+     2,060,216,849      cache-references                                            
+     1,078,056,494      cache-misses              #   52.327 % of all cache refs    
+             3,954      faults                                                      
+               513      migrations                                                  
+
+      37.791957887 seconds time elapsed
+
+ Time Elapsed: -577
+Socket: 1,2  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=1,2 --membind=2 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,691,952,241,170      cycles                                                      
+   218,140,321,814      instructions              #    0.13  insns per cycle        
+     2,070,939,378      cache-references                                            
+     1,091,518,229      cache-misses              #   52.706 % of all cache refs    
+             3,954      faults                                                      
+               541      migrations                                                  
+
+      37.039170636 seconds time elapsed
+
+ Time Elapsed: -615
+Socket: 1,2  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=1,2 --membind=3 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,477,539,892,235      cycles                                                      
+   154,130,386,268      instructions              #    0.04  insns per cycle        
+     2,101,414,293      cache-references                                            
+     1,085,557,039      cache-misses              #   51.658 % of all cache refs    
+             3,954      faults                                                      
+                97      migrations                                                  
+
+      49.825607551 seconds time elapsed
+
+ Time Elapsed: -652
+Socket: 1,3  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=1,3 --membind=0 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,038,017,640,221      cycles                                                      
+   123,031,629,521      instructions              #    0.04  insns per cycle        
+     2,082,898,546      cache-references                                            
+     1,091,453,768      cache-misses              #   52.401 % of all cache refs    
+             3,955      faults                                                      
+               113      migrations                                                  
+
+      43.948526674 seconds time elapsed
+
+ Time Elapsed: -702
+Socket: 1,3  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=1,3 --membind=1 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 2,081,111,880,370      cycles                                                      
+   208,380,168,216      instructions              #    0.10  insns per cycle        
+     2,072,658,852      cache-references                                            
+     1,097,267,681      cache-misses              #   52.940 % of all cache refs    
+             3,953      faults                                                      
+               268      migrations                                                  
+
+      47.056834679 seconds time elapsed
+
+ Time Elapsed: -746
+Socket: 1,3  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=1,3 --membind=2 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,067,471,194,036      cycles                                                      
+   205,967,753,995      instructions              #    0.07  insns per cycle        
+     2,093,021,734      cache-references                                            
+     1,099,028,998      cache-misses              #   52.509 % of all cache refs    
+             3,955      faults                                                      
+               751      migrations                                                  
+
+      46.094841638 seconds time elapsed
+
+ Time Elapsed: -793
+Socket: 1,3  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=1,3 --membind=3 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,994,107,558,275      cycles                                                      
+   211,487,420,014      instructions              #    0.11  insns per cycle        
+     2,062,488,536      cache-references                                            
+     1,104,140,643      cache-misses              #   53.534 % of all cache refs    
+             3,954      faults                                                      
+               291      migrations                                                  
+
+      45.207941917 seconds time elapsed
+
+ Time Elapsed: -839
+Socket: 2,3  MEM: 0
+
+ Performance counter stats for 'numactl --cpunodebind=2,3 --membind=0 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,183,230,129,119      cycles                                                      
+   176,579,315,641      instructions              #    0.06  insns per cycle        
+     2,098,253,161      cache-references                                            
+     1,087,586,653      cache-misses              #   51.833 % of all cache refs    
+             3,955      faults                                                      
+               799      migrations                                                  
+
+      47.883421964 seconds time elapsed
+
+ Time Elapsed: -885
+Socket: 2,3  MEM: 1
+
+ Performance counter stats for 'numactl --cpunodebind=2,3 --membind=1 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 3,411,512,802,120      cycles                                                      
+   180,411,087,968      instructions              #    0.05  insns per cycle        
+     2,095,779,827      cache-references                                            
+     1,115,084,781      cache-misses              #   53.206 % of all cache refs    
+             3,953      faults                                                      
+               121      migrations                                                  
+
+      49.747272276 seconds time elapsed
+
+ Time Elapsed: -933
+Socket: 2,3  MEM: 2
+
+ Performance counter stats for 'numactl --cpunodebind=2,3 --membind=2 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,724,592,115,755      cycles                                                      
+   218,259,300,838      instructions              #    0.13  insns per cycle        
+     2,056,604,474      cache-references                                            
+     1,079,318,972      cache-misses              #   52.481 % of all cache refs    
+             3,954      faults                                                      
+               484      migrations                                                  
+
+      37.611588204 seconds time elapsed
+
+ Time Elapsed: -982
+Socket: 2,3  MEM: 3
+
+ Performance counter stats for 'numactl --cpunodebind=2,3 --membind=3 /home/jlenis/numa_benchmark/bin/stream.2GiB.10':
+
+ 1,859,033,416,016      cycles                                                      
+   196,431,005,984      instructions              #    0.11  insns per cycle        
+     2,045,968,133      cache-references                                            
+     1,123,971,249      cache-misses              #   54.936 % of all cache refs    
+             3,954      faults                                                      
+               159      migrations                                                  
+
+      39.953087582 seconds time elapsed
+
+ Time Elapsed: -1020

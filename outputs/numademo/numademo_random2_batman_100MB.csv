@@ -1,0 +1,390 @@
+8 nodes available
+memory with no policy,random2,Avg,176.03,MB/s,Max,176.50,MB/s,Min,175.25,MB/s
+local memory,random2,Avg,173.33,MB/s,Max,175.00,MB/s,Min,172.04,MB/s
+memory interleaved on all nodes,random2,Avg,119.75,MB/s,Max,119.80,MB/s,Min,119.59,MB/s
+memory on node 0,random2,Avg,110.72,MB/s,Max,110.83,MB/s,Min,110.62,MB/s
+memory on node 1,random2,Avg,129.47,MB/s,Max,129.51,MB/s,Min,129.43,MB/s
+memory on node 2,random2,Avg,131.80,MB/s,Max,131.90,MB/s,Min,131.59,MB/s
+memory on node 3,random2,Avg,109.62,MB/s,Max,109.78,MB/s,Min,109.54,MB/s
+memory on node 4,random2,Avg,108.15,MB/s,Max,108.20,MB/s,Min,108.09,MB/s
+memory on node 5,random2,Avg,128.01,MB/s,Max,128.28,MB/s,Min,127.20,MB/s
+memory on node 6,random2,Avg,137.19,MB/s,Max,137.21,MB/s,Min,137.15,MB/s
+memory on node 7,random2,Avg,174.37,MB/s,Max,176.48,MB/s,Min,172.04,MB/s
+memory interleaved on 0 1,random2,Avg,114.78,MB/s,Max,114.85,MB/s,Min,114.63,MB/s
+memory interleaved on 0 2,random2,Avg,116.36,MB/s,Max,116.38,MB/s,Min,116.34,MB/s
+memory interleaved on 1 2,random2,Avg,130.54,MB/s,Max,130.57,MB/s,Min,130.48,MB/s
+memory interleaved on 0 1 2,random2,Avg,116.86,MB/s,Max,116.89,MB/s,Min,116.78,MB/s
+memory interleaved on 0 3,random2,Avg,108.98,MB/s,Max,109.01,MB/s,Min,108.95,MB/s
+memory interleaved on 1 3,random2,Avg,115.97,MB/s,Max,116.02,MB/s,Min,115.92,MB/s
+memory interleaved on 0 1 3,random2,Avg,111.04,MB/s,Max,111.11,MB/s,Min,110.88,MB/s
+memory interleaved on 2 3,random2,Avg,113.55,MB/s,Max,113.58,MB/s,Min,113.50,MB/s
+memory interleaved on 0 2 3,random2,Avg,110.68,MB/s,Max,110.71,MB/s,Min,110.64,MB/s
+memory interleaved on 1 2 3,random2,Avg,115.86,MB/s,Max,115.89,MB/s,Min,115.82,MB/s
+memory interleaved on 0 1 2 3,random2,Avg,113.35,MB/s,Max,113.37,MB/s,Min,113.31,MB/s
+memory interleaved on 0 4,random2,Avg,108.00,MB/s,Max,108.05,MB/s,Min,107.88,MB/s
+memory interleaved on 1 4,random2,Avg,114.89,MB/s,Max,114.92,MB/s,Min,114.86,MB/s
+memory interleaved on 0 1 4,random2,Avg,110.47,MB/s,Max,110.48,MB/s,Min,110.46,MB/s
+memory interleaved on 2 4,random2,Avg,115.42,MB/s,Max,115.46,MB/s,Min,115.40,MB/s
+memory interleaved on 0 2 4,random2,Avg,110.86,MB/s,Max,110.91,MB/s,Min,110.69,MB/s
+memory interleaved on 1 2 4,random2,Avg,116.40,MB/s,Max,116.42,MB/s,Min,116.33,MB/s
+memory interleaved on 0 1 2 4,random2,Avg,113.28,MB/s,Max,113.33,MB/s,Min,113.12,MB/s
+memory interleaved on 3 4,random2,Avg,108.23,MB/s,Max,108.26,MB/s,Min,108.21,MB/s
+memory interleaved on 0 3 4,random2,Avg,106.66,MB/s,Max,106.68,MB/s,Min,106.65,MB/s
+memory interleaved on 1 3 4,random2,Avg,110.46,MB/s,Max,110.49,MB/s,Min,110.41,MB/s
+memory interleaved on 0 1 3 4,random2,Avg,109.96,MB/s,Max,110.00,MB/s,Min,109.93,MB/s
+memory interleaved on 2 3 4,random2,Avg,109.89,MB/s,Max,109.95,MB/s,Min,109.81,MB/s
+memory interleaved on 0 2 3 4,random2,Avg,109.85,MB/s,Max,109.86,MB/s,Min,109.83,MB/s
+memory interleaved on 1 2 3 4,random2,Avg,113.66,MB/s,Max,113.69,MB/s,Min,113.62,MB/s
+memory interleaved on 0 1 2 3 4,random2,Avg,112.97,MB/s,Max,112.99,MB/s,Min,112.94,MB/s
+memory interleaved on 0 5,random2,Avg,115.65,MB/s,Max,115.68,MB/s,Min,115.63,MB/s
+memory interleaved on 1 5,random2,Avg,129.11,MB/s,Max,129.13,MB/s,Min,129.09,MB/s
+memory interleaved on 0 1 5,random2,Avg,116.41,MB/s,Max,116.46,MB/s,Min,116.29,MB/s
+memory interleaved on 2 5,random2,Avg,129.96,MB/s,Max,130.01,MB/s,Min,129.94,MB/s
+memory interleaved on 0 2 5,random2,Avg,117.03,MB/s,Max,117.05,MB/s,Min,117.01,MB/s
+memory interleaved on 1 2 5,random2,Avg,125.77,MB/s,Max,125.80,MB/s,Min,125.73,MB/s
+memory interleaved on 0 1 2 5,random2,Avg,118.06,MB/s,Max,118.08,MB/s,Min,118.04,MB/s
+memory interleaved on 3 5,random2,Avg,115.45,MB/s,Max,115.48,MB/s,Min,115.43,MB/s
+memory interleaved on 0 3 5,random2,Avg,110.87,MB/s,Max,110.94,MB/s,Min,110.73,MB/s
+memory interleaved on 1 3 5,random2,Avg,116.19,MB/s,Max,116.21,MB/s,Min,116.17,MB/s
+memory interleaved on 0 1 3 5,random2,Avg,113.54,MB/s,Max,113.56,MB/s,Min,113.50,MB/s
+memory interleaved on 2 3 5,random2,Avg,115.36,MB/s,Max,115.38,MB/s,Min,115.33,MB/s
+memory interleaved on 0 2 3 5,random2,Avg,113.36,MB/s,Max,113.39,MB/s,Min,113.34,MB/s
+memory interleaved on 1 2 3 5,random2,Avg,118.35,MB/s,Max,118.41,MB/s,Min,118.26,MB/s
+memory interleaved on 0 1 2 3 5,random2,Avg,116.44,MB/s,Max,116.51,MB/s,Min,116.22,MB/s
+memory interleaved on 4 5,random2,Avg,113.37,MB/s,Max,113.42,MB/s,Min,113.32,MB/s
+memory interleaved on 0 4 5,random2,Avg,110.06,MB/s,Max,110.09,MB/s,Min,110.02,MB/s
+memory interleaved on 1 4 5,random2,Avg,115.29,MB/s,Max,115.31,MB/s,Min,115.24,MB/s
+memory interleaved on 0 1 4 5,random2,Avg,113.02,MB/s,Max,113.06,MB/s,Min,112.99,MB/s
+memory interleaved on 2 4 5,random2,Avg,115.45,MB/s,Max,115.50,MB/s,Min,115.33,MB/s
+memory interleaved on 0 2 4 5,random2,Avg,113.25,MB/s,Max,113.28,MB/s,Min,113.20,MB/s
+memory interleaved on 1 2 4 5,random2,Avg,118.36,MB/s,Max,118.38,MB/s,Min,118.34,MB/s
+memory interleaved on 0 1 2 4 5,random2,Avg,116.35,MB/s,Max,116.38,MB/s,Min,116.31,MB/s
+memory interleaved on 3 4 5,random2,Avg,110.25,MB/s,Max,110.28,MB/s,Min,110.23,MB/s
+memory interleaved on 0 3 4 5,random2,Avg,109.77,MB/s,Max,109.79,MB/s,Min,109.74,MB/s
+memory interleaved on 1 3 4 5,random2,Avg,113.49,MB/s,Max,113.57,MB/s,Min,113.07,MB/s
+memory interleaved on 0 1 3 4 5,random2,Avg,112.93,MB/s,Max,112.96,MB/s,Min,112.91,MB/s
+memory interleaved on 2 3 4 5,random2,Avg,113.25,MB/s,Max,113.28,MB/s,Min,113.20,MB/s
+memory interleaved on 0 2 3 4 5,random2,Avg,112.81,MB/s,Max,112.83,MB/s,Min,112.78,MB/s
+memory interleaved on 1 2 3 4 5,random2,Avg,115.63,MB/s,Max,115.68,MB/s,Min,115.52,MB/s
+memory interleaved on 0 1 2 3 4 5,random2,Avg,114.91,MB/s,Max,114.92,MB/s,Min,114.90,MB/s
+memory interleaved on 0 6,random2,Avg,117.04,MB/s,Max,117.10,MB/s,Min,116.90,MB/s
+memory interleaved on 1 6,random2,Avg,132.62,MB/s,Max,132.65,MB/s,Min,132.59,MB/s
+memory interleaved on 0 1 6,random2,Avg,117.44,MB/s,Max,117.48,MB/s,Min,117.41,MB/s
+memory interleaved on 2 6,random2,Avg,133.64,MB/s,Max,133.67,MB/s,Min,133.61,MB/s
+memory interleaved on 0 2 6,random2,Avg,118.10,MB/s,Max,118.12,MB/s,Min,118.07,MB/s
+memory interleaved on 1 2 6,random2,Avg,127.71,MB/s,Max,127.74,MB/s,Min,127.69,MB/s
+memory interleaved on 0 1 2 6,random2,Avg,118.73,MB/s,Max,118.78,MB/s,Min,118.51,MB/s
+memory interleaved on 3 6,random2,Avg,117.12,MB/s,Max,117.15,MB/s,Min,117.09,MB/s
+memory interleaved on 0 3 6,random2,Avg,111.64,MB/s,Max,111.66,MB/s,Min,111.61,MB/s
+memory interleaved on 1 3 6,random2,Avg,117.30,MB/s,Max,117.32,MB/s,Min,117.29,MB/s
+memory interleaved on 0 1 3 6,random2,Avg,114.05,MB/s,Max,114.08,MB/s,Min,114.00,MB/s
+memory interleaved on 2 3 6,random2,Avg,116.50,MB/s,Max,116.54,MB/s,Min,116.40,MB/s
+memory interleaved on 0 2 3 6,random2,Avg,113.85,MB/s,Max,113.92,MB/s,Min,113.66,MB/s
+memory interleaved on 1 2 3 6,random2,Avg,119.13,MB/s,Max,119.16,MB/s,Min,119.07,MB/s
+memory interleaved on 0 1 2 3 6,random2,Avg,116.99,MB/s,Max,117.01,MB/s,Min,116.94,MB/s
+memory interleaved on 4 6,random2,Avg,115.75,MB/s,Max,115.79,MB/s,Min,115.73,MB/s
+memory interleaved on 0 4 6,random2,Avg,110.91,MB/s,Max,110.93,MB/s,Min,110.90,MB/s
+memory interleaved on 1 4 6,random2,Avg,116.51,MB/s,Max,116.58,MB/s,Min,116.38,MB/s
+memory interleaved on 0 1 4 6,random2,Avg,113.57,MB/s,Max,113.59,MB/s,Min,113.55,MB/s
+memory interleaved on 2 4 6,random2,Avg,116.81,MB/s,Max,116.83,MB/s,Min,116.77,MB/s
+memory interleaved on 0 2 4 6,random2,Avg,113.83,MB/s,Max,113.86,MB/s,Min,113.80,MB/s
+memory interleaved on 1 2 4 6,random2,Avg,119.23,MB/s,Max,119.25,MB/s,Min,119.19,MB/s
+memory interleaved on 0 1 2 4 6,random2,Avg,116.88,MB/s,Max,116.92,MB/s,Min,116.86,MB/s
+memory interleaved on 3 4 6,random2,Avg,111.07,MB/s,Max,111.13,MB/s,Min,110.95,MB/s
+memory interleaved on 0 3 4 6,random2,Avg,110.20,MB/s,Max,110.22,MB/s,Min,110.17,MB/s
+memory interleaved on 1 3 4 6,random2,Avg,114.17,MB/s,Max,114.20,MB/s,Min,114.12,MB/s
+memory interleaved on 0 1 3 4 6,random2,Avg,113.34,MB/s,Max,113.37,MB/s,Min,113.27,MB/s
+memory interleaved on 2 3 4 6,random2,Avg,113.87,MB/s,Max,113.90,MB/s,Min,113.81,MB/s
+memory interleaved on 0 2 3 4 6,random2,Avg,113.27,MB/s,Max,113.29,MB/s,Min,113.24,MB/s
+memory interleaved on 1 2 3 4 6,random2,Avg,116.17,MB/s,Max,116.25,MB/s,Min,116.03,MB/s
+memory interleaved on 0 1 2 3 4 6,random2,Avg,115.29,MB/s,Max,115.32,MB/s,Min,115.26,MB/s
+memory interleaved on 5 6,random2,Avg,131.97,MB/s,Max,132.03,MB/s,Min,131.91,MB/s
+memory interleaved on 0 5 6,random2,Avg,117.58,MB/s,Max,117.61,MB/s,Min,117.56,MB/s
+memory interleaved on 1 5 6,random2,Avg,126.88,MB/s,Max,126.92,MB/s,Min,126.85,MB/s
+memory interleaved on 0 1 5 6,random2,Avg,118.49,MB/s,Max,118.51,MB/s,Min,118.45,MB/s
+memory interleaved on 2 5 6,random2,Avg,127.20,MB/s,Max,127.30,MB/s,Min,126.86,MB/s
+memory interleaved on 0 2 5 6,random2,Avg,118.82,MB/s,Max,118.85,MB/s,Min,118.78,MB/s
+memory interleaved on 1 2 5 6,random2,Avg,126.62,MB/s,Max,126.66,MB/s,Min,126.54,MB/s
+memory interleaved on 0 1 2 5 6,random2,Avg,121.87,MB/s,Max,121.90,MB/s,Min,121.84,MB/s
+memory interleaved on 3 5 6,random2,Avg,117.59,MB/s,Max,117.60,MB/s,Min,117.55,MB/s
+memory interleaved on 0 3 5 6,random2,Avg,113.84,MB/s,Max,113.88,MB/s,Min,113.68,MB/s
+memory interleaved on 1 3 5 6,random2,Avg,119.04,MB/s,Max,119.14,MB/s,Min,118.73,MB/s
+memory interleaved on 0 1 3 5 6,random2,Avg,117.09,MB/s,Max,117.12,MB/s,Min,117.06,MB/s
+memory interleaved on 2 3 5 6,random2,Avg,118.68,MB/s,Max,118.71,MB/s,Min,118.64,MB/s
+memory interleaved on 0 2 3 5 6,random2,Avg,116.95,MB/s,Max,116.98,MB/s,Min,116.91,MB/s
+memory interleaved on 1 2 3 5 6,random2,Avg,120.83,MB/s,Max,120.87,MB/s,Min,120.80,MB/s
+memory interleaved on 0 1 2 3 5 6,random2,Avg,119.14,MB/s,Max,119.17,MB/s,Min,119.10,MB/s
+memory interleaved on 4 5 6,random2,Avg,116.60,MB/s,Max,116.70,MB/s,Min,116.31,MB/s
+memory interleaved on 0 4 5 6,random2,Avg,113.28,MB/s,Max,113.30,MB/s,Min,113.25,MB/s
+memory interleaved on 1 4 5 6,random2,Avg,118.49,MB/s,Max,118.53,MB/s,Min,118.45,MB/s
+memory interleaved on 0 1 4 5 6,random2,Avg,116.60,MB/s,Max,116.63,MB/s,Min,116.57,MB/s
+memory interleaved on 2 4 5 6,random2,Avg,118.68,MB/s,Max,118.70,MB/s,Min,118.63,MB/s
+memory interleaved on 0 2 4 5 6,random2,Avg,116.75,MB/s,Max,116.80,MB/s,Min,116.54,MB/s
+memory interleaved on 1 2 4 5 6,random2,Avg,120.66,MB/s,Max,120.73,MB/s,Min,120.26,MB/s
+memory interleaved on 0 1 2 4 5 6,random2,Avg,118.92,MB/s,Max,118.94,MB/s,Min,118.90,MB/s
+memory interleaved on 3 4 5 6,random2,Avg,113.44,MB/s,Max,113.46,MB/s,Min,113.40,MB/s
+memory interleaved on 0 3 4 5 6,random2,Avg,113.27,MB/s,Max,113.28,MB/s,Min,113.25,MB/s
+memory interleaved on 1 3 4 5 6,random2,Avg,116.22,MB/s,Max,116.25,MB/s,Min,116.20,MB/s
+memory interleaved on 0 1 3 4 5 6,random2,Avg,115.82,MB/s,Max,115.87,MB/s,Min,115.69,MB/s
+memory interleaved on 2 3 4 5 6,random2,Avg,116.03,MB/s,Max,116.05,MB/s,Min,116.00,MB/s
+memory interleaved on 0 2 3 4 5 6,random2,Avg,115.79,MB/s,Max,115.82,MB/s,Min,115.74,MB/s
+memory interleaved on 1 2 3 4 5 6,random2,Avg,118.89,MB/s,Max,118.91,MB/s,Min,118.85,MB/s
+memory interleaved on 0 1 2 3 4 5 6,random2,Avg,117.32,MB/s,Max,117.36,MB/s,Min,117.27,MB/s
+memory interleaved on 0 7,random2,Avg,121.87,MB/s,Max,121.89,MB/s,Min,121.85,MB/s
+memory interleaved on 1 7,random2,Avg,142.62,MB/s,Max,142.74,MB/s,Min,142.39,MB/s
+memory interleaved on 0 1 7,random2,Avg,120.93,MB/s,Max,120.97,MB/s,Min,120.87,MB/s
+memory interleaved on 2 7,random2,Avg,143.97,MB/s,Max,144.03,MB/s,Min,143.77,MB/s
+memory interleaved on 0 2 7,random2,Avg,121.70,MB/s,Max,121.74,MB/s,Min,121.66,MB/s
+memory interleaved on 1 2 7,random2,Avg,133.61,MB/s,Max,133.63,MB/s,Min,133.58,MB/s
+memory interleaved on 0 1 2 7,random2,Avg,121.14,MB/s,Max,121.17,MB/s,Min,121.12,MB/s
+memory interleaved on 3 7,random2,Avg,121.33,MB/s,Max,121.37,MB/s,Min,121.28,MB/s
+memory interleaved on 0 3 7,random2,Avg,113.94,MB/s,Max,113.98,MB/s,Min,113.85,MB/s
+memory interleaved on 1 3 7,random2,Avg,120.48,MB/s,Max,120.50,MB/s,Min,120.46,MB/s
+memory interleaved on 0 1 3 7,random2,Avg,115.81,MB/s,Max,115.83,MB/s,Min,115.77,MB/s
+memory interleaved on 2 3 7,random2,Avg,119.45,MB/s,Max,119.48,MB/s,Min,119.43,MB/s
+memory interleaved on 0 2 3 7,random2,Avg,115.63,MB/s,Max,115.66,MB/s,Min,115.60,MB/s
+memory interleaved on 1 2 3 7,random2,Avg,121.44,MB/s,Max,121.50,MB/s,Min,121.30,MB/s
+memory interleaved on 0 1 2 3 7,random2,Avg,118.59,MB/s,Max,118.63,MB/s,Min,118.56,MB/s
+memory interleaved on 4 7,random2,Avg,119.88,MB/s,Max,119.93,MB/s,Min,119.83,MB/s
+memory interleaved on 0 4 7,random2,Avg,113.27,MB/s,Max,113.31,MB/s,Min,113.14,MB/s
+memory interleaved on 1 4 7,random2,Avg,119.84,MB/s,Max,119.91,MB/s,Min,119.81,MB/s
+memory interleaved on 0 1 4 7,random2,Avg,115.38,MB/s,Max,115.43,MB/s,Min,115.35,MB/s
+memory interleaved on 2 4 7,random2,Avg,120.08,MB/s,Max,120.13,MB/s,Min,119.93,MB/s
+memory interleaved on 0 2 4 7,random2,Avg,115.64,MB/s,Max,115.67,MB/s,Min,115.61,MB/s
+memory interleaved on 1 2 4 7,random2,Avg,121.67,MB/s,Max,121.70,MB/s,Min,121.63,MB/s
+memory interleaved on 0 1 2 4 7,random2,Avg,118.55,MB/s,Max,118.58,MB/s,Min,118.51,MB/s
+memory interleaved on 3 4 7,random2,Avg,113.40,MB/s,Max,113.43,MB/s,Min,113.37,MB/s
+memory interleaved on 0 3 4 7,random2,Avg,111.62,MB/s,Max,111.64,MB/s,Min,111.59,MB/s
+memory interleaved on 1 3 4 7,random2,Avg,115.92,MB/s,Max,115.97,MB/s,Min,115.79,MB/s
+memory interleaved on 0 1 3 4 7,random2,Avg,114.68,MB/s,Max,114.70,MB/s,Min,114.62,MB/s
+memory interleaved on 2 3 4 7,random2,Avg,115.58,MB/s,Max,115.64,MB/s,Min,115.52,MB/s
+memory interleaved on 0 2 3 4 7,random2,Avg,114.56,MB/s,Max,114.57,MB/s,Min,114.54,MB/s
+memory interleaved on 1 2 3 4 7,random2,Avg,117.73,MB/s,Max,117.78,MB/s,Min,117.68,MB/s
+memory interleaved on 0 1 2 3 4 7,random2,Avg,116.40,MB/s,Max,116.42,MB/s,Min,116.38,MB/s
+memory interleaved on 5 7,random2,Avg,141.51,MB/s,Max,141.59,MB/s,Min,141.30,MB/s
+memory interleaved on 0 5 7,random2,Avg,121.08,MB/s,Max,121.10,MB/s,Min,121.03,MB/s
+memory interleaved on 1 5 7,random2,Avg,132.55,MB/s,Max,132.57,MB/s,Min,132.51,MB/s
+memory interleaved on 0 1 5 7,random2,Avg,120.85,MB/s,Max,120.89,MB/s,Min,120.82,MB/s
+memory interleaved on 2 5 7,random2,Avg,133.00,MB/s,Max,133.05,MB/s,Min,132.96,MB/s
+memory interleaved on 0 2 5 7,random2,Avg,121.21,MB/s,Max,121.24,MB/s,Min,121.19,MB/s
+memory interleaved on 1 2 5 7,random2,Avg,130.12,MB/s,Max,130.21,MB/s,Min,129.90,MB/s
+memory interleaved on 0 1 2 5 7,random2,Avg,124.02,MB/s,Max,124.05,MB/s,Min,123.98,MB/s
+memory interleaved on 3 5 7,random2,Avg,120.92,MB/s,Max,120.94,MB/s,Min,120.89,MB/s
+memory interleaved on 0 3 5 7,random2,Avg,115.63,MB/s,Max,115.66,MB/s,Min,115.56,MB/s
+memory interleaved on 1 3 5 7,random2,Avg,121.46,MB/s,Max,121.50,MB/s,Min,121.40,MB/s
+memory interleaved on 0 1 3 5 7,random2,Avg,118.73,MB/s,Max,118.75,MB/s,Min,118.72,MB/s
+memory interleaved on 2 3 5 7,random2,Avg,120.89,MB/s,Max,120.96,MB/s,Min,120.61,MB/s
+memory interleaved on 0 2 3 5 7,random2,Avg,118.54,MB/s,Max,118.59,MB/s,Min,118.48,MB/s
+memory interleaved on 1 2 3 5 7,random2,Avg,122.79,MB/s,Max,122.83,MB/s,Min,122.65,MB/s
+memory interleaved on 0 1 2 3 5 7,random2,Avg,120.51,MB/s,Max,120.53,MB/s,Min,120.46,MB/s
+memory interleaved on 4 5 7,random2,Avg,119.96,MB/s,Max,120.01,MB/s,Min,119.92,MB/s
+memory interleaved on 0 4 5 7,random2,Avg,115.05,MB/s,Max,115.08,MB/s,Min,115.01,MB/s
+memory interleaved on 1 4 5 7,random2,Avg,120.80,MB/s,Max,120.90,MB/s,Min,120.53,MB/s
+memory interleaved on 0 1 4 5 7,random2,Avg,118.22,MB/s,Max,118.27,MB/s,Min,118.07,MB/s
+memory interleaved on 2 4 5 7,random2,Avg,121.04,MB/s,Max,121.09,MB/s,Min,120.98,MB/s
+memory interleaved on 0 2 4 5 7,random2,Avg,118.42,MB/s,Max,118.46,MB/s,Min,118.37,MB/s
+memory interleaved on 1 2 4 5 7,random2,Avg,122.73,MB/s,Max,122.78,MB/s,Min,122.60,MB/s
+memory interleaved on 0 1 2 4 5 7,random2,Avg,120.31,MB/s,Max,120.34,MB/s,Min,120.28,MB/s
+memory interleaved on 3 4 5 7,random2,Avg,115.07,MB/s,Max,115.16,MB/s,Min,114.64,MB/s
+memory interleaved on 0 3 4 5 7,random2,Avg,114.57,MB/s,Max,114.63,MB/s,Min,114.51,MB/s
+memory interleaved on 1 3 4 5 7,random2,Avg,117.76,MB/s,Max,117.78,MB/s,Min,117.74,MB/s
+memory interleaved on 0 1 3 4 5 7,random2,Avg,117.00,MB/s,Max,117.02,MB/s,Min,116.99,MB/s
+memory interleaved on 2 3 4 5 7,random2,Avg,117.55,MB/s,Max,117.59,MB/s,Min,117.51,MB/s
+memory interleaved on 0 2 3 4 5 7,random2,Avg,116.94,MB/s,Max,116.96,MB/s,Min,116.92,MB/s
+memory interleaved on 1 2 3 4 5 7,random2,Avg,120.15,MB/s,Max,120.27,MB/s,Min,119.66,MB/s
+memory interleaved on 0 1 2 3 4 5 7,random2,Avg,118.29,MB/s,Max,118.32,MB/s,Min,118.25,MB/s
+memory interleaved on 6 7,random2,Avg,147.93,MB/s,Max,147.98,MB/s,Min,147.85,MB/s
+memory interleaved on 0 6 7,random2,Avg,122.60,MB/s,Max,122.63,MB/s,Min,122.56,MB/s
+memory interleaved on 1 6 7,random2,Avg,135.43,MB/s,Max,135.49,MB/s,Min,135.37,MB/s
+memory interleaved on 0 1 6 7,random2,Avg,121.66,MB/s,Max,121.70,MB/s,Min,121.60,MB/s
+memory interleaved on 2 6 7,random2,Avg,135.98,MB/s,Max,136.04,MB/s,Min,135.73,MB/s
+memory interleaved on 0 2 6 7,random2,Avg,122.05,MB/s,Max,122.11,MB/s,Min,121.77,MB/s
+memory interleaved on 1 2 6 7,random2,Avg,131.63,MB/s,Max,131.68,MB/s,Min,131.60,MB/s
+memory interleaved on 0 1 2 6 7,random2,Avg,124.84,MB/s,Max,124.87,MB/s,Min,124.80,MB/s
+memory interleaved on 3 6 7,random2,Avg,122.51,MB/s,Max,122.54,MB/s,Min,122.47,MB/s
+memory interleaved on 0 3 6 7,random2,Avg,116.24,MB/s,Max,116.28,MB/s,Min,116.22,MB/s
+memory interleaved on 1 3 6 7,random2,Avg,122.37,MB/s,Max,122.41,MB/s,Min,122.34,MB/s
+memory interleaved on 0 1 3 6 7,random2,Avg,119.28,MB/s,Max,119.33,MB/s,Min,119.12,MB/s
+memory interleaved on 2 3 6 7,random2,Avg,121.88,MB/s,Max,121.92,MB/s,Min,121.83,MB/s
+memory interleaved on 0 2 3 6 7,random2,Avg,119.16,MB/s,Max,119.20,MB/s,Min,119.12,MB/s
+memory interleaved on 1 2 3 6 7,random2,Avg,123.61,MB/s,Max,123.64,MB/s,Min,123.55,MB/s
+memory interleaved on 0 1 2 3 6 7,random2,Avg,121.08,MB/s,Max,121.12,MB/s,Min,121.05,MB/s
+memory interleaved on 4 6 7,random2,Avg,121.81,MB/s,Max,121.83,MB/s,Min,121.80,MB/s
+memory interleaved on 0 4 6 7,random2,Avg,115.72,MB/s,Max,115.76,MB/s,Min,115.56,MB/s
+memory interleaved on 1 4 6 7,random2,Avg,121.88,MB/s,Max,121.92,MB/s,Min,121.83,MB/s
+memory interleaved on 0 1 4 6 7,random2,Avg,118.88,MB/s,Max,118.92,MB/s,Min,118.85,MB/s
+memory interleaved on 2 4 6 7,random2,Avg,122.10,MB/s,Max,122.12,MB/s,Min,122.08,MB/s
+memory interleaved on 0 2 4 6 7,random2,Avg,119.08,MB/s,Max,119.10,MB/s,Min,119.06,MB/s
+memory interleaved on 1 2 4 6 7,random2,Avg,123.63,MB/s,Max,123.65,MB/s,Min,123.60,MB/s
+memory interleaved on 0 1 2 4 6 7,random2,Avg,120.89,MB/s,Max,120.96,MB/s,Min,120.73,MB/s
+memory interleaved on 3 4 6 7,random2,Avg,115.86,MB/s,Max,115.88,MB/s,Min,115.82,MB/s
+memory interleaved on 0 3 4 6 7,random2,Avg,115.09,MB/s,Max,115.11,MB/s,Min,115.07,MB/s
+memory interleaved on 1 3 4 6 7,random2,Avg,118.40,MB/s,Max,118.43,MB/s,Min,118.36,MB/s
+memory interleaved on 0 1 3 4 6 7,random2,Avg,117.51,MB/s,Max,117.55,MB/s,Min,117.48,MB/s
+memory interleaved on 2 3 4 6 7,random2,Avg,118.21,MB/s,Max,118.25,MB/s,Min,118.17,MB/s
+memory interleaved on 0 2 3 4 6 7,random2,Avg,117.39,MB/s,Max,117.46,MB/s,Min,116.97,MB/s
+memory interleaved on 1 2 3 4 6 7,random2,Avg,120.87,MB/s,Max,120.90,MB/s,Min,120.84,MB/s
+memory interleaved on 0 1 2 3 4 6 7,random2,Avg,118.66,MB/s,Max,118.69,MB/s,Min,118.61,MB/s
+memory interleaved on 5 6 7,random2,Avg,134.92,MB/s,Max,134.94,MB/s,Min,134.90,MB/s
+memory interleaved on 0 5 6 7,random2,Avg,121.74,MB/s,Max,121.77,MB/s,Min,121.67,MB/s
+memory interleaved on 1 5 6 7,random2,Avg,131.07,MB/s,Max,131.12,MB/s,Min,130.97,MB/s
+memory interleaved on 0 1 5 6 7,random2,Avg,124.51,MB/s,Max,124.58,MB/s,Min,124.26,MB/s
+memory interleaved on 2 5 6 7,random2,Avg,131.40,MB/s,Max,131.44,MB/s,Min,131.37,MB/s
+memory interleaved on 0 2 5 6 7,random2,Avg,124.80,MB/s,Max,124.82,MB/s,Min,124.77,MB/s
+memory interleaved on 1 2 5 6 7,random2,Avg,131.47,MB/s,Max,131.49,MB/s,Min,131.45,MB/s
+memory interleaved on 0 1 2 5 6 7,random2,Avg,125.72,MB/s,Max,125.74,MB/s,Min,125.69,MB/s
+memory interleaved on 3 5 6 7,random2,Avg,121.70,MB/s,Max,121.73,MB/s,Min,121.60,MB/s
+memory interleaved on 0 3 5 6 7,random2,Avg,119.26,MB/s,Max,119.32,MB/s,Min,119.06,MB/s
+memory interleaved on 1 3 5 6 7,random2,Avg,123.77,MB/s,Max,123.79,MB/s,Min,123.75,MB/s
+memory interleaved on 0 1 3 5 6 7,random2,Avg,121.14,MB/s,Max,121.18,MB/s,Min,121.10,MB/s
+memory interleaved on 2 3 5 6 7,random2,Avg,123.50,MB/s,Max,123.52,MB/s,Min,123.48,MB/s
+memory interleaved on 0 2 3 5 6 7,random2,Avg,121.05,MB/s,Max,121.10,MB/s,Min,121.03,MB/s
+memory interleaved on 1 2 3 5 6 7,random2,Avg,125.57,MB/s,Max,125.62,MB/s,Min,125.54,MB/s
+memory interleaved on 0 1 2 3 5 6 7,random2,Avg,122.07,MB/s,Max,122.15,MB/s,Min,121.89,MB/s
+memory interleaved on 4 5 6 7,random2,Avg,120.97,MB/s,Max,121.00,MB/s,Min,120.92,MB/s
+memory interleaved on 0 4 5 6 7,random2,Avg,118.75,MB/s,Max,118.77,MB/s,Min,118.71,MB/s
+memory interleaved on 1 4 5 6 7,random2,Avg,123.21,MB/s,Max,123.27,MB/s,Min,123.18,MB/s
+memory interleaved on 0 1 4 5 6 7,random2,Avg,120.72,MB/s,Max,120.75,MB/s,Min,120.69,MB/s
+memory interleaved on 2 4 5 6 7,random2,Avg,123.29,MB/s,Max,123.32,MB/s,Min,123.26,MB/s
+memory interleaved on 0 2 4 5 6 7,random2,Avg,120.80,MB/s,Max,120.87,MB/s,Min,120.65,MB/s
+memory interleaved on 1 2 4 5 6 7,random2,Avg,125.37,MB/s,Max,125.42,MB/s,Min,125.33,MB/s
+memory interleaved on 0 1 2 4 5 6 7,random2,Avg,121.92,MB/s,Max,121.95,MB/s,Min,121.90,MB/s
+memory interleaved on 3 4 5 6 7,random2,Avg,118.88,MB/s,Max,118.91,MB/s,Min,118.86,MB/s
+memory interleaved on 0 3 4 5 6 7,random2,Avg,117.44,MB/s,Max,117.49,MB/s,Min,117.40,MB/s
+memory interleaved on 1 3 4 5 6 7,random2,Avg,120.88,MB/s,Max,120.91,MB/s,Min,120.84,MB/s
+memory interleaved on 0 1 3 4 5 6 7,random2,Avg,118.63,MB/s,Max,118.72,MB/s,Min,118.24,MB/s
+memory interleaved on 2 3 4 5 6 7,random2,Avg,120.74,MB/s,Max,120.77,MB/s,Min,120.70,MB/s
+memory interleaved on 0 2 3 4 5 6 7,random2,Avg,118.66,MB/s,Max,118.68,MB/s,Min,118.63,MB/s
+memory interleaved on 1 2 3 4 5 6 7,random2,Avg,121.96,MB/s,Max,121.98,MB/s,Min,121.90,MB/s
+memory interleaved on 0 1 2 3 4 5 6 7,random2,Avg,119.87,MB/s,Max,119.90,MB/s,Min,119.84,MB/s
+setting preferred node to 0
+memory without policy,random2,Avg,110.51,MB/s,Max,110.72,MB/s,Min,110.34,MB/s
+setting preferred node to 1
+memory without policy,random2,Avg,129.44,MB/s,Max,129.54,MB/s,Min,129.29,MB/s
+setting preferred node to 2
+memory without policy,random2,Avg,131.34,MB/s,Max,131.86,MB/s,Min,130.80,MB/s
+setting preferred node to 3
+memory without policy,random2,Avg,109.27,MB/s,Max,109.31,MB/s,Min,109.23,MB/s
+setting preferred node to 4
+memory without policy,random2,Avg,107.97,MB/s,Max,108.16,MB/s,Min,107.89,MB/s
+setting preferred node to 5
+memory without policy,random2,Avg,128.28,MB/s,Max,128.32,MB/s,Min,128.24,MB/s
+setting preferred node to 6
+memory without policy,random2,Avg,137.17,MB/s,Max,137.21,MB/s,Min,137.14,MB/s
+setting preferred node to 7
+memory without policy,random2,Avg,173.56,MB/s,Max,174.63,MB/s,Min,172.48,MB/s
+manual interleaving to all nodes,random2,Avg,119.84,MB/s,Max,119.87,MB/s,Min,119.73,MB/s
+manual interleaving on node 0/1,random2,Avg,114.78,MB/s,Max,114.83,MB/s,Min,114.74,MB/s
+current interleave node 0
+running on node 0, preferred node 0
+local memory,random2,Avg,171.90,MB/s,Max,172.05,MB/s,Min,171.84,MB/s
+memory interleaved on all nodes,random2,Avg,120.12,MB/s,Max,120.16,MB/s,Min,120.07,MB/s
+memory interleaved on node 0/1,random2,Avg,146.39,MB/s,Max,146.45,MB/s,Min,146.35,MB/s
+alloc on node 1,random2,Avg,135.55,MB/s,Max,135.58,MB/s,Min,135.53,MB/s
+alloc on node 2,random2,Avg,129.97,MB/s,Max,130.24,MB/s,Min,129.53,MB/s
+alloc on node 3,random2,Avg,108.87,MB/s,Max,108.91,MB/s,Min,108.76,MB/s
+alloc on node 4,random2,Avg,130.39,MB/s,Max,130.63,MB/s,Min,129.85,MB/s
+alloc on node 5,random2,Avg,108.05,MB/s,Max,108.10,MB/s,Min,108.00,MB/s
+alloc on node 6,random2,Avg,131.65,MB/s,Max,131.89,MB/s,Min,131.55,MB/s
+alloc on node 7,random2,Avg,108.55,MB/s,Max,108.57,MB/s,Min,108.53,MB/s
+local allocation,random2,Avg,176.06,MB/s,Max,176.38,MB/s,Min,175.04,MB/s
+setting wrong preferred node,random2,Avg,135.54,MB/s,Max,135.58,MB/s,Min,135.48,MB/s
+setting correct preferred node,random2,Avg,173.51,MB/s,Max,175.24,MB/s,Min,172.09,MB/s
+running on node 1, preferred node 0
+local memory,random2,Avg,173.28,MB/s,Max,173.43,MB/s,Min,173.17,MB/s
+memory interleaved on all nodes,random2,Avg,120.20,MB/s,Max,120.24,MB/s,Min,120.13,MB/s
+memory interleaved on node 0/1,random2,Avg,146.02,MB/s,Max,146.08,MB/s,Min,145.96,MB/s
+alloc on node 0,random2,Avg,134.82,MB/s,Max,134.86,MB/s,Min,134.76,MB/s
+alloc on node 2,random2,Avg,109.89,MB/s,Max,109.98,MB/s,Min,109.60,MB/s
+alloc on node 3,random2,Avg,129.75,MB/s,Max,129.80,MB/s,Min,129.70,MB/s
+alloc on node 4,random2,Avg,129.62,MB/s,Max,129.93,MB/s,Min,129.30,MB/s
+alloc on node 5,random2,Avg,107.99,MB/s,Max,108.05,MB/s,Min,107.89,MB/s
+alloc on node 6,random2,Avg,108.47,MB/s,Max,108.57,MB/s,Min,108.33,MB/s
+alloc on node 7,random2,Avg,129.55,MB/s,Max,129.59,MB/s,Min,129.44,MB/s
+local allocation,random2,Avg,174.44,MB/s,Max,175.98,MB/s,Min,173.21,MB/s
+setting wrong preferred node,random2,Avg,109.93,MB/s,Max,109.99,MB/s,Min,109.85,MB/s
+setting correct preferred node,random2,Avg,174.16,MB/s,Max,174.28,MB/s,Min,174.01,MB/s
+running on node 2, preferred node 0
+local memory,random2,Avg,172.52,MB/s,Max,173.63,MB/s,Min,172.07,MB/s
+memory interleaved on all nodes,random2,Avg,127.59,MB/s,Max,127.63,MB/s,Min,127.55,MB/s
+memory interleaved on node 0/1,random2,Avg,113.88,MB/s,Max,113.92,MB/s,Min,113.83,MB/s
+alloc on node 0,random2,Avg,128.27,MB/s,Max,128.29,MB/s,Min,128.24,MB/s
+alloc on node 1,random2,Avg,107.99,MB/s,Max,108.07,MB/s,Min,107.87,MB/s
+alloc on node 3,random2,Avg,136.14,MB/s,Max,136.17,MB/s,Min,136.07,MB/s
+alloc on node 4,random2,Avg,130.91,MB/s,Max,130.94,MB/s,Min,130.86,MB/s
+alloc on node 5,random2,Avg,130.59,MB/s,Max,130.66,MB/s,Min,130.52,MB/s
+alloc on node 6,random2,Avg,129.65,MB/s,Max,130.14,MB/s,Min,129.31,MB/s
+alloc on node 7,random2,Avg,129.77,MB/s,Max,129.82,MB/s,Min,129.72,MB/s
+local allocation,random2,Avg,171.98,MB/s,Max,172.04,MB/s,Min,171.87,MB/s
+setting wrong preferred node,random2,Avg,135.72,MB/s,Max,135.80,MB/s,Min,135.46,MB/s
+setting correct preferred node,random2,Avg,173.01,MB/s,Max,175.84,MB/s,Min,171.93,MB/s
+running on node 3, preferred node 0
+local memory,random2,Avg,172.44,MB/s,Max,173.00,MB/s,Min,172.20,MB/s
+memory interleaved on all nodes,random2,Avg,119.67,MB/s,Max,119.70,MB/s,Min,119.63,MB/s
+memory interleaved on node 0/1,random2,Avg,112.85,MB/s,Max,112.89,MB/s,Min,112.83,MB/s
+alloc on node 0,random2,Avg,106.92,MB/s,Max,106.95,MB/s,Min,106.90,MB/s
+alloc on node 1,random2,Avg,128.94,MB/s,Max,128.96,MB/s,Min,128.91,MB/s
+alloc on node 2,random2,Avg,137.62,MB/s,Max,137.65,MB/s,Min,137.50,MB/s
+alloc on node 4,random2,Avg,130.19,MB/s,Max,130.23,MB/s,Min,130.11,MB/s
+alloc on node 5,random2,Avg,130.52,MB/s,Max,130.56,MB/s,Min,130.47,MB/s
+alloc on node 6,random2,Avg,107.39,MB/s,Max,107.41,MB/s,Min,107.37,MB/s
+alloc on node 7,random2,Avg,107.67,MB/s,Max,107.69,MB/s,Min,107.64,MB/s
+local allocation,random2,Avg,172.32,MB/s,Max,172.43,MB/s,Min,172.26,MB/s
+setting wrong preferred node,random2,Avg,130.13,MB/s,Max,130.21,MB/s,Min,129.94,MB/s
+setting correct preferred node,random2,Avg,172.54,MB/s,Max,173.68,MB/s,Min,172.01,MB/s
+running on node 4, preferred node 0
+local memory,random2,Avg,172.40,MB/s,Max,172.81,MB/s,Min,172.27,MB/s
+memory interleaved on all nodes,random2,Avg,127.53,MB/s,Max,127.58,MB/s,Min,127.47,MB/s
+memory interleaved on node 0/1,random2,Avg,129.03,MB/s,Max,129.07,MB/s,Min,128.99,MB/s
+alloc on node 0,random2,Avg,128.19,MB/s,Max,128.23,MB/s,Min,128.14,MB/s
+alloc on node 1,random2,Avg,128.94,MB/s,Max,128.97,MB/s,Min,128.91,MB/s
+alloc on node 2,random2,Avg,132.57,MB/s,Max,132.66,MB/s,Min,132.32,MB/s
+alloc on node 3,random2,Avg,130.57,MB/s,Max,131.84,MB/s,Min,129.96,MB/s
+alloc on node 5,random2,Avg,135.15,MB/s,Max,135.18,MB/s,Min,135.11,MB/s
+alloc on node 6,random2,Avg,130.26,MB/s,Max,130.31,MB/s,Min,130.21,MB/s
+alloc on node 7,random2,Avg,107.02,MB/s,Max,107.07,MB/s,Min,106.99,MB/s
+local allocation,random2,Avg,172.28,MB/s,Max,172.34,MB/s,Min,172.24,MB/s
+setting wrong preferred node,random2,Avg,135.12,MB/s,Max,135.17,MB/s,Min,135.07,MB/s
+setting correct preferred node,random2,Avg,172.22,MB/s,Max,172.39,MB/s,Min,171.59,MB/s
+running on node 5, preferred node 0
+local memory,random2,Avg,172.32,MB/s,Max,172.39,MB/s,Min,172.22,MB/s
+memory interleaved on all nodes,random2,Avg,119.54,MB/s,Max,119.57,MB/s,Min,119.48,MB/s
+memory interleaved on node 0/1,random2,Avg,105.85,MB/s,Max,105.87,MB/s,Min,105.83,MB/s
+alloc on node 0,random2,Avg,106.46,MB/s,Max,106.48,MB/s,Min,106.43,MB/s
+alloc on node 1,random2,Avg,106.90,MB/s,Max,106.92,MB/s,Min,106.88,MB/s
+alloc on node 2,random2,Avg,132.73,MB/s,Max,132.81,MB/s,Min,132.56,MB/s
+alloc on node 3,random2,Avg,132.82,MB/s,Max,132.85,MB/s,Min,132.77,MB/s
+alloc on node 4,random2,Avg,134.96,MB/s,Max,135.22,MB/s,Min,134.34,MB/s
+alloc on node 6,random2,Avg,109.47,MB/s,Max,109.52,MB/s,Min,109.42,MB/s
+alloc on node 7,random2,Avg,128.26,MB/s,Max,128.44,MB/s,Min,128.15,MB/s
+local allocation,random2,Avg,173.18,MB/s,Max,174.12,MB/s,Min,172.21,MB/s
+setting wrong preferred node,random2,Avg,109.46,MB/s,Max,109.50,MB/s,Min,109.32,MB/s
+setting correct preferred node,random2,Avg,175.08,MB/s,Max,176.50,MB/s,Min,174.08,MB/s
+running on node 6, preferred node 0
+local memory,random2,Avg,171.83,MB/s,Max,172.30,MB/s,Min,171.54,MB/s
+memory interleaved on all nodes,random2,Avg,120.28,MB/s,Max,120.31,MB/s,Min,120.24,MB/s
+memory interleaved on node 0/1,random2,Avg,113.87,MB/s,Max,113.91,MB/s,Min,113.82,MB/s
+alloc on node 0,random2,Avg,129.66,MB/s,Max,129.71,MB/s,Min,129.60,MB/s
+alloc on node 1,random2,Avg,107.75,MB/s,Max,107.80,MB/s,Min,107.71,MB/s
+alloc on node 2,random2,Avg,130.36,MB/s,Max,130.52,MB/s,Min,130.12,MB/s
+alloc on node 3,random2,Avg,109.57,MB/s,Max,109.62,MB/s,Min,109.52,MB/s
+alloc on node 4,random2,Avg,129.46,MB/s,Max,129.49,MB/s,Min,129.40,MB/s
+alloc on node 5,random2,Avg,108.79,MB/s,Max,108.81,MB/s,Min,108.77,MB/s
+alloc on node 7,random2,Avg,135.06,MB/s,Max,135.09,MB/s,Min,135.02,MB/s
+local allocation,random2,Avg,171.81,MB/s,Max,171.86,MB/s,Min,171.75,MB/s
+setting wrong preferred node,random2,Avg,134.96,MB/s,Max,135.10,MB/s,Min,134.30,MB/s
+setting correct preferred node,random2,Avg,171.84,MB/s,Max,172.02,MB/s,Min,171.78,MB/s
+running on node 7, preferred node 0
+local memory,random2,Avg,173.13,MB/s,Max,173.72,MB/s,Min,172.30,MB/s
+memory interleaved on all nodes,random2,Avg,119.65,MB/s,Max,119.67,MB/s,Min,119.63,MB/s
+memory interleaved on node 0/1,random2,Avg,113.93,MB/s,Max,113.99,MB/s,Min,113.88,MB/s
+alloc on node 0,random2,Avg,109.30,MB/s,Max,109.34,MB/s,Min,109.25,MB/s
+alloc on node 1,random2,Avg,129.35,MB/s,Max,129.39,MB/s,Min,129.30,MB/s
+alloc on node 2,random2,Avg,131.17,MB/s,Max,131.25,MB/s,Min,130.98,MB/s
+alloc on node 3,random2,Avg,110.21,MB/s,Max,110.25,MB/s,Min,110.13,MB/s
+alloc on node 4,random2,Avg,106.97,MB/s,Max,107.01,MB/s,Min,106.90,MB/s
+alloc on node 5,random2,Avg,130.03,MB/s,Max,130.30,MB/s,Min,129.76,MB/s
+alloc on node 6,random2,Avg,134.73,MB/s,Max,135.06,MB/s,Min,133.89,MB/s
+local allocation,random2,Avg,175.98,MB/s,Max,176.44,MB/s,Min,173.83,MB/s
+setting wrong preferred node,random2,Avg,109.21,MB/s,Max,109.36,MB/s,Min,108.98,MB/s
+setting correct preferred node,random2,Avg,174.83,MB/s,Max,175.75,MB/s,Min,173.17,MB/s

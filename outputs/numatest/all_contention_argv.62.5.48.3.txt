@@ -1,0 +1,62 @@
+num cpus: 48
+numa available: 0
+numa node 0 111111110000000000000000000000000000000000000000 - 15.9929 GiB
+numa node 1 000000001111111100000000000000000000000000000000 - 16 GiB
+numa node 2 000000000000000011111111000000000000000000000000 - 16 GiB
+numa node 3 000000000000000000000000111111110000000000000000 - 16 GiB
+numa node 4 000000000000000000000000000000001111111100000000 - 16 GiB
+numa node 5 000000000000000000000000000000000000000011111111 - 16 GiB
+numa node 6 000000000000000000000000000000000000000000000000 - 16 GiB
+numa node 7 000000000000000000000000000000000000000000000000 - 16 GiB
+
+array size: 65011712 
+x size: 520093696 
+
+all-contention core 0 -> core 0 : BW 842.291 MB/s
+all-contention core 1 -> core 0 : BW 838.423 MB/s
+all-contention core 2 -> core 0 : BW 842.591 MB/s
+all-contention core 3 -> core 0 : BW 846.049 MB/s
+all-contention core 4 -> core 0 : BW 836.388 MB/s
+all-contention core 5 -> core 0 : BW 838.543 MB/s
+all-contention core 6 -> core 0 : BW 838.493 MB/s
+all-contention core 7 -> core 0 : BW 838.493 MB/s
+all-contention core 8 -> core 0 : BW 836.488 MB/s
+all-contention core 9 -> core 0 : BW 842.995 MB/s
+all-contention core 10 -> core 0 : BW 832.782 MB/s
+all-contention core 11 -> core 0 : BW 847.286 MB/s
+all-contention core 12 -> core 0 : BW 846.595 MB/s
+all-contention core 13 -> core 0 : BW 832.786 MB/s
+all-contention core 14 -> core 0 : BW 842.974 MB/s
+all-contention core 15 -> core 0 : BW 842.881 MB/s
+all-contention core 16 -> core 0 : BW 841.874 MB/s
+all-contention core 17 -> core 0 : BW 841.869 MB/s
+all-contention core 18 -> core 0 : BW 835.311 MB/s
+all-contention core 19 -> core 0 : BW 841.767 MB/s
+all-contention core 20 -> core 0 : BW 835.294 MB/s
+all-contention core 21 -> core 0 : BW 841.765 MB/s
+all-contention core 22 -> core 0 : BW 849.895 MB/s
+all-contention core 23 -> core 0 : BW 849.892 MB/s
+all-contention core 24 -> core 0 : BW 841.854 MB/s
+all-contention core 25 -> core 0 : BW 849.999 MB/s
+all-contention core 26 -> core 0 : BW 855.353 MB/s
+all-contention core 27 -> core 0 : BW 835.542 MB/s
+all-contention core 28 -> core 0 : BW 841.884 MB/s
+all-contention core 29 -> core 0 : BW 841.868 MB/s
+all-contention core 30 -> core 0 : BW 851.951 MB/s
+all-contention core 31 -> core 0 : BW 851.951 MB/s
+all-contention core 32 -> core 0 : BW 839.268 MB/s
+all-contention core 33 -> core 0 : BW 844.148 MB/s
+all-contention core 34 -> core 0 : BW 841.558 MB/s
+all-contention core 35 -> core 0 : BW 841.559 MB/s
+all-contention core 36 -> core 0 : BW 841.854 MB/s
+all-contention core 37 -> core 0 : BW 841.855 MB/s
+all-contention core 38 -> core 0 : BW 841.598 MB/s
+all-contention core 39 -> core 0 : BW 844.206 MB/s
+all-contention core 40 -> core 0 : BW 843.787 MB/s
+all-contention core 41 -> core 0 : BW 843.924 MB/s
+all-contention core 42 -> core 0 : BW 844.558 MB/s
+all-contention core 43 -> core 0 : BW 840.22 MB/s
+all-contention core 44 -> core 0 : BW 837.071 MB/s
+all-contention core 45 -> core 0 : BW 843.905 MB/s
+all-contention core 46 -> core 0 : BW 837.083 MB/s
+all-contention core 47 -> core 0 : BW 840.192 MB/s

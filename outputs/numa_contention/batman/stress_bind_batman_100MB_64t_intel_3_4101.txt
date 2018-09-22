@@ -1,0 +1,70 @@
+Architecture: intel
+num cpus: 64
+numa available: 0
+array size: 104857600 
+x size: 838860800 
+
+all-contention tid: 0  core 0 -> core 0 : BW 222.743 MB/s
+all-contention tid: 1  core 4 -> core 0 : BW 222.745 MB/s
+all-contention tid: 2  core 8 -> core 0 : BW 315.006 MB/s
+all-contention tid: 3  core 12 -> core 0 : BW 315.004 MB/s
+all-contention tid: 4  core 16 -> core 0 : BW 399.259 MB/s
+all-contention tid: 5  core 20 -> core 0 : BW 399.269 MB/s
+all-contention tid: 6  core 24 -> core 0 : BW 780.11 MB/s
+all-contention tid: 7  core 28 -> core 0 : BW 780.189 MB/s
+all-contention tid: 8  core 32 -> core 0 : BW 314.611 MB/s
+all-contention tid: 9  core 36 -> core 0 : BW 314.607 MB/s
+all-contention tid: 10  core 40 -> core 0 : BW 484.62 MB/s
+all-contention tid: 11  core 44 -> core 0 : BW 484.62 MB/s
+all-contention tid: 12  core 48 -> core 0 : BW 225.144 MB/s
+all-contention tid: 13  core 52 -> core 0 : BW 225.142 MB/s
+all-contention tid: 14  core 56 -> core 0 : BW 221.975 MB/s
+all-contention tid: 15  core 60 -> core 0 : BW 222.005 MB/s
+all-contention tid: 16  core 1 -> core 0 : BW 222.744 MB/s
+all-contention tid: 17  core 5 -> core 0 : BW 222.745 MB/s
+all-contention tid: 18  core 9 -> core 0 : BW 315.003 MB/s
+all-contention tid: 19  core 13 -> core 0 : BW 315.004 MB/s
+all-contention tid: 20  core 17 -> core 0 : BW 399.259 MB/s
+all-contention tid: 21  core 21 -> core 0 : BW 399.267 MB/s
+all-contention tid: 22  core 25 -> core 0 : BW 780.036 MB/s
+all-contention tid: 23  core 29 -> core 0 : BW 780.073 MB/s
+all-contention tid: 24  core 33 -> core 0 : BW 314.607 MB/s
+all-contention tid: 25  core 37 -> core 0 : BW 314.607 MB/s
+all-contention tid: 26  core 41 -> core 0 : BW 484.62 MB/s
+all-contention tid: 27  core 45 -> core 0 : BW 484.62 MB/s
+all-contention tid: 28  core 49 -> core 0 : BW 225.142 MB/s
+all-contention tid: 29  core 53 -> core 0 : BW 225.142 MB/s
+all-contention tid: 30  core 57 -> core 0 : BW 222.012 MB/s
+all-contention tid: 31  core 61 -> core 0 : BW 222.005 MB/s
+all-contention tid: 32  core 2 -> core 0 : BW 222.744 MB/s
+all-contention tid: 33  core 6 -> core 0 : BW 222.743 MB/s
+all-contention tid: 34  core 10 -> core 0 : BW 315.004 MB/s
+all-contention tid: 35  core 14 -> core 0 : BW 315.003 MB/s
+all-contention tid: 36  core 18 -> core 0 : BW 399.057 MB/s
+all-contention tid: 37  core 22 -> core 0 : BW 399.267 MB/s
+all-contention tid: 38  core 26 -> core 0 : BW 780 MB/s
+all-contention tid: 39  core 30 -> core 0 : BW 779.953 MB/s
+all-contention tid: 40  core 34 -> core 0 : BW 314.607 MB/s
+all-contention tid: 41  core 38 -> core 0 : BW 314.607 MB/s
+all-contention tid: 42  core 42 -> core 0 : BW 484.618 MB/s
+all-contention tid: 43  core 46 -> core 0 : BW 484.618 MB/s
+all-contention tid: 44  core 50 -> core 0 : BW 225.142 MB/s
+all-contention tid: 45  core 54 -> core 0 : BW 225.142 MB/s
+all-contention tid: 46  core 58 -> core 0 : BW 222.01 MB/s
+all-contention tid: 47  core 62 -> core 0 : BW 221.999 MB/s
+all-contention tid: 48  core 3 -> core 0 : BW 222.744 MB/s
+all-contention tid: 49  core 7 -> core 0 : BW 222.743 MB/s
+all-contention tid: 50  core 11 -> core 0 : BW 315.003 MB/s
+all-contention tid: 51  core 15 -> core 0 : BW 315.004 MB/s
+all-contention tid: 52  core 19 -> core 0 : BW 399.258 MB/s
+all-contention tid: 53  core 23 -> core 0 : BW 399.271 MB/s
+all-contention tid: 54  core 27 -> core 0 : BW 780.251 MB/s
+all-contention tid: 55  core 31 -> core 0 : BW 780.138 MB/s
+all-contention tid: 56  core 35 -> core 0 : BW 314.611 MB/s
+all-contention tid: 57  core 39 -> core 0 : BW 314.607 MB/s
+all-contention tid: 58  core 43 -> core 0 : BW 484.618 MB/s
+all-contention tid: 59  core 47 -> core 0 : BW 484.619 MB/s
+all-contention tid: 60  core 51 -> core 0 : BW 225.144 MB/s
+all-contention tid: 61  core 55 -> core 0 : BW 225.143 MB/s
+all-contention tid: 62  core 59 -> core 0 : BW 222.013 MB/s
+all-contention tid: 63  core 63 -> core 0 : BW 221.999 MB/s

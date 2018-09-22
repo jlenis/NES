@@ -1,0 +1,22 @@
+num cpus: 8
+numa available: 0
+numa node 0 11111111 - 15.9929 GiB
+numa node 1 00000000 - 16 GiB
+numa node 2 00000000 - 16 GiB
+numa node 3 00000000 - 16 GiB
+numa node 4 00000000 - 16 GiB
+numa node 5 00000000 - 16 GiB
+numa node 6 00000000 - 16 GiB
+numa node 7 00000000 - 16 GiB
+
+array size: 524288000 
+x size: -100663296 
+
+all-contention core 0 -> core 0 : BW 349.547 MB/s
+all-contention core 1 -> core 0 : BW 349.55 MB/s
+all-contention core 2 -> core 0 : BW 349.549 MB/s
+all-contention core 3 -> core 0 : BW 349.543 MB/s
+all-contention core 4 -> core 0 : BW 349.542 MB/s
+all-contention core 5 -> core 0 : BW 349.544 MB/s
+all-contention core 6 -> core 0 : BW 349.548 MB/s
+all-contention core 7 -> core 0 : BW 349.545 MB/s

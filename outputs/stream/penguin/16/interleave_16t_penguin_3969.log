@@ -1,0 +1,577 @@
+Number of threads: 16
+Job ID: 3969
+Machine: penguin 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+Socket: 0,1  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16    306,577,088,514      cycles                                                        (100.00%)
+S0       16     41,148,447,115      instructions                                                  (100.00%)
+S0       16      1,099,534,081      cache-references                                              (100.00%)
+S0       16        377,553,018      cache-misses                                                
+S0       16              1,981      faults                                                        (100.00%)
+S0       16                 24      migrations                                                  
+S1       16    309,674,214,342      cycles                                                        (100.00%)
+S1       16     47,032,915,521      instructions                                                  (100.00%)
+S1       16      1,152,019,608      cache-references                                              (100.00%)
+S1       16        385,714,825      cache-misses                                                
+S1       16              2,223      faults                                                        (100.00%)
+S1       16                 27      migrations                                                  
+S2       16        968,926,217      cycles                                                        (100.00%)
+S2       16        392,790,008      instructions                                                  (100.00%)
+S2       16         10,122,044      cache-references                                              (100.00%)
+S2       16          1,524,640      cache-misses                                                
+S2       16              4,100      faults                                                        (100.00%)
+S2       16                 62      migrations                                                  
+S3       16      1,984,765,021      cycles                                                        (100.00%)
+S3       16      1,495,519,164      instructions                                                  (100.00%)
+S3       16         28,405,860      cache-references                                              (100.00%)
+S3       16          1,613,467      cache-misses                                                
+S3       16              3,766      faults                                                        (100.00%)
+S3       16                 81      migrations                                                  
+
+      18.462833702 seconds time elapsed
+
+Socket: 0,1  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16    408,961,022,043      cycles                                                        (100.00%)
+S0       16     41,674,087,303      instructions                                                  (100.00%)
+S0       16      1,083,473,026      cache-references                                              (100.00%)
+S0       16        385,303,866      cache-misses                                                
+S0       16              1,551      faults                                                        (100.00%)
+S0       16                  5      migrations                                                  
+S1       16    416,210,776,123      cycles                                                        (100.00%)
+S1       16     57,045,350,172      instructions                                                  (100.00%)
+S1       16      1,097,292,913      cache-references                                              (100.00%)
+S1       16        445,515,493      cache-misses                                                
+S1       16              2,224      faults                                                        (100.00%)
+S1       16                 16      migrations                                                  
+S2       16      1,487,999,301      cycles                                                        (100.00%)
+S2       16        856,258,403      instructions                                                  (100.00%)
+S2       16         21,887,579      cache-references                                              (100.00%)
+S2       16          2,294,835      cache-misses                                                
+S2       16                147      faults                                                        (100.00%)
+S2       16                 11      migrations                                                  
+S3       16        507,283,445      cycles                                                        (100.00%)
+S3       16        128,569,759      instructions                                                  (100.00%)
+S3       16          2,836,495      cache-references                                              (100.00%)
+S3       16            605,397      cache-misses                                                
+S3       16                539      faults                                                        (100.00%)
+S3       16                 14      migrations                                                  
+
+      24.509085797 seconds time elapsed
+
+Socket: 0,1  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16    413,234,685,863      cycles                                                        (100.00%)
+S0       16     61,659,734,633      instructions                                                  (100.00%)
+S0       16      1,090,387,804      cache-references                                              (100.00%)
+S0       16        384,720,196      cache-misses                                                
+S0       16              1,563      faults                                                        (100.00%)
+S0       16                 71      migrations                                                  
+S1       16    430,581,304,539      cycles                                                        (100.00%)
+S1       16     46,379,307,984      instructions                                                  (100.00%)
+S1       16      1,102,444,533      cache-references                                              (100.00%)
+S1       16        448,414,536      cache-misses                                                
+S1       16              2,224      faults                                                        (100.00%)
+S1       16                 17      migrations                                                  
+S2       16      3,163,501,136      cycles                                                        (100.00%)
+S2       16      2,360,550,162      instructions                                                  (100.00%)
+S2       16         47,642,844      cache-references                                              (100.00%)
+S2       16          2,581,203      cache-misses                                                
+S2       16              3,443      faults                                                        (100.00%)
+S2       16                 74      migrations                                                  
+S3       16        663,227,426      cycles                                                        (100.00%)
+S3       16        174,929,951      instructions                                                  (100.00%)
+S3       16          3,902,091      cache-references                                              (100.00%)
+S3       16            964,065      cache-misses                                                
+S3       16              5,074      faults                                                        (100.00%)
+S3       16                 46      migrations                                                  
+
+      25.375374762 seconds time elapsed
+
+ Time Elapsed: 26
+ Time Elapsed: 26
+ Time Elapsed: 26
+ Time Elapsed: 26
+Socket: 0,2  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16    389,129,616,849      cycles                                                        (100.00%)
+S0       16     52,724,318,554      instructions                                                  (100.00%)
+S0       16      1,090,559,799      cache-references                                              (100.00%)
+S0       16        380,498,827      cache-misses                                                
+S0       16              1,584      faults                                                        (100.00%)
+S0       16                 52      migrations                                                  
+S1       16        837,487,381      cycles                                                        (100.00%)
+S1       16        506,589,424      instructions                                                  (100.00%)
+S1       16         11,720,907      cache-references                                              (100.00%)
+S1       16            855,021      cache-misses                                                
+S1       16                  2      faults                                                        (100.00%)
+S1       16                  5      migrations                                                  
+S2       16    408,150,335,473      cycles                                                        (100.00%)
+S2       16     46,458,609,858      instructions                                                  (100.00%)
+S2       16      1,089,318,005      cache-references                                              (100.00%)
+S2       16        441,869,948      cache-misses                                                
+S2       16              2,336      faults                                                        (100.00%)
+S2       16                 35      migrations                                                  
+S3       16        905,661,231      cycles                                                        (100.00%)
+S3       16        438,327,794      instructions                                                  (100.00%)
+S3       16         10,942,228      cache-references                                              (100.00%)
+S3       16          1,252,909      cache-misses                                                
+S3       16                492      faults                                                        (100.00%)
+S3       16                  5      migrations                                                  
+
+      24.124949060 seconds time elapsed
+
+Socket: 0,2  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16    382,409,046,373      cycles                                                        (100.00%)
+S0       16     41,887,390,801      instructions                                                  (100.00%)
+S0       16      1,089,112,941      cache-references                                              (100.00%)
+S0       16        380,648,825      cache-misses                                                
+S0       16              1,584      faults                                                        (100.00%)
+S0       16                 33      migrations                                                  
+S1       16      1,506,607,801      cycles                                                        (100.00%)
+S1       16      1,139,655,569      instructions                                                  (100.00%)
+S1       16         25,412,884      cache-references                                              (100.00%)
+S1       16          1,308,888      cache-misses                                                
+S1       16                  2      faults                                                        (100.00%)
+S1       16                 24      migrations                                                  
+S2       16    387,531,495,821      cycles                                                        (100.00%)
+S2       16     46,672,856,279      instructions                                                  (100.00%)
+S2       16      1,142,801,673      cache-references                                              (100.00%)
+S2       16        393,189,410      cache-misses                                                
+S2       16              2,336      faults                                                        (100.00%)
+S2       16                 31      migrations                                                  
+S3       16        424,210,677      cycles                                                        (100.00%)
+S3       16        101,895,302      instructions                                                  (100.00%)
+S3       16          2,477,125      cache-references                                              (100.00%)
+S3       16            459,161      cache-misses                                                
+S3       16                720      faults                                                        (100.00%)
+S3       16                  3      migrations                                                  
+
+      22.668946161 seconds time elapsed
+
+Socket: 0,2  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16    402,697,896,367      cycles                                                        (100.00%)
+S0       16     51,208,638,200      instructions                                                  (100.00%)
+S0       16      1,102,086,822      cache-references                                              (100.00%)
+S0       16        378,954,421      cache-misses                                                
+S0       16              1,584      faults                                                        (100.00%)
+S0       16                 10      migrations                                                  
+S1       16      1,866,443,355      cycles                                                        (100.00%)
+S1       16      1,219,553,119      instructions                                                  (100.00%)
+S1       16         21,683,241      cache-references                                              (100.00%)
+S1       16          1,308,493      cache-misses                                                
+S1       16              4,354      faults                                                        (100.00%)
+S1       16                 47      migrations                                                  
+S2       16    401,470,785,962      cycles                                                        (100.00%)
+S2       16     46,009,058,377      instructions                                                  (100.00%)
+S2       16      1,082,171,492      cache-references                                              (100.00%)
+S2       16        438,598,079      cache-misses                                                
+S2       16              2,485      faults                                                        (100.00%)
+S2       16                 47      migrations                                                  
+S3       16        495,987,873      cycles                                                        (100.00%)
+S3       16        139,013,727      instructions                                                  (100.00%)
+S3       16          3,145,490      cache-references                                              (100.00%)
+S3       16            676,449      cache-misses                                                
+S3       16              3,668      faults                                                        (100.00%)
+S3       16                 32      migrations                                                  
+
+      23.842315900 seconds time elapsed
+
+ Time Elapsed: 24
+Socket: 1,2  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16      1,825,280,023      cycles                                                        (100.00%)
+S0       16      1,372,523,850      instructions                                                  (100.00%)
+S0       16         29,956,541      cache-references                                              (100.00%)
+S0       16          1,755,194      cache-misses                                                
+S0       16                 35      faults                                                        (100.00%)
+S0       16                 18      migrations                                                  
+S1       16    442,908,676,853      cycles                                                        (100.00%)
+S1       16     46,741,960,143      instructions                                                  (100.00%)
+S1       16      1,084,993,037      cache-references                                              (100.00%)
+S1       16        367,270,811      cache-misses                                                
+S1       16              1,551      faults                                                        (100.00%)
+S1       16                  6      migrations                                                  
+S2       16    449,694,528,449      cycles                                                        (100.00%)
+S2       16     47,651,964,646      instructions                                                  (100.00%)
+S2       16      1,106,873,813      cache-references                                              (100.00%)
+S2       16        451,207,312      cache-misses                                                
+S2       16              2,336      faults                                                        (100.00%)
+S2       16                 31      migrations                                                  
+S3       16        563,478,976      cycles                                                        (100.00%)
+S3       16        144,095,538      instructions                                                  (100.00%)
+S3       16          2,996,512      cache-references                                              (100.00%)
+S3       16            615,844      cache-misses                                                
+S3       16                730      faults                                                        (100.00%)
+S3       16                 17      migrations                                                  
+
+      26.430787483 seconds time elapsed
+
+Socket: 1,2  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16      2,334,699,447      cycles                                                        (100.00%)
+S0       16      1,611,955,224      instructions                                                  (100.00%)
+S0       16         29,316,003      cache-references                                              (100.00%)
+S0       16          2,105,134      cache-misses                                                
+S0       16              3,459      faults                                                        (100.00%)
+S0       16                 38      migrations                                                  
+S1       16    442,286,325,030      cycles                                                        (100.00%)
+S1       16     43,020,874,045      instructions                                                  (100.00%)
+S1       16      1,037,925,350      cache-references                                              (100.00%)
+S1       16        423,637,061      cache-misses                                                
+S1       16              1,559      faults                                                        (100.00%)
+S1       16                  3      migrations                                                  
+S2       16    446,859,121,876      cycles                                                        (100.00%)
+S2       16     50,454,782,644      instructions                                                  (100.00%)
+S2       16      1,141,897,104      cache-references                                              (100.00%)
+S2       16        395,481,170      cache-misses                                                
+S2       16              2,570      faults                                                        (100.00%)
+S2       16                 48      migrations                                                  
+S3       16      1,464,220,584      cycles                                                        (100.00%)
+S3       16        740,003,963      instructions                                                  (100.00%)
+S3       16         19,258,906      cache-references                                              (100.00%)
+S3       16          2,497,444      cache-misses                                                
+S3       16              4,493      faults                                                        (100.00%)
+S3       16                 41      migrations                                                  
+
+      26.126165918 seconds time elapsed
+
+Socket: 1,2  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16        467,978,014      cycles                                                        (100.00%)
+S0       16        123,719,073      instructions                                                  (100.00%)
+S0       16          2,866,192      cache-references                                              (100.00%)
+S0       16            448,052      cache-misses                                                
+S0       16                 34      faults                                                        (100.00%)
+S0       16                  7      migrations                                                  
+S1       16    462,282,494,705      cycles                                                        (100.00%)
+S1       16     42,106,808,786      instructions                                                  (100.00%)
+S1       16      1,026,496,857      cache-references                                              (100.00%)
+S1       16        430,111,647      cache-misses                                                
+S1       16              1,551      faults                                                        (100.00%)
+S1       16                  1      migrations                                                  
+S2       16    469,926,916,464      cycles                                                        (100.00%)
+S2       16     46,932,788,605      instructions                                                  (100.00%)
+S2       16      1,093,148,148      cache-references                                              (100.00%)
+S2       16        443,918,681      cache-misses                                                
+S2       16              2,337      faults                                                        (100.00%)
+S2       16                 32      migrations                                                  
+S3       16      1,320,273,076      cycles                                                        (100.00%)
+S3       16        727,479,395      instructions                                                  (100.00%)
+S3       16         17,563,813      cache-references                                              (100.00%)
+S3       16          1,779,488      cache-misses                                                
+S3       16                725      faults                                                        (100.00%)
+S3       16                  8      migrations                                                  
+
+      27.551268639 seconds time elapsed
+
+ Time Elapsed: 28
+ Time Elapsed: 28
+ Time Elapsed: 28
+Socket: 0,3  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16    450,265,685,917      cycles                                                        (100.00%)
+S0       16     55,503,746,044      instructions                                                  (100.00%)
+S0       16      1,087,545,306      cache-references                                              (100.00%)
+S0       16        379,521,268      cache-misses                                                
+S0       16              1,552      faults                                                        (100.00%)
+S0       16                  5      migrations                                                  
+S1       16        860,752,381      cycles                                                        (100.00%)
+S1       16        268,848,132      instructions                                                  (100.00%)
+S1       16          7,033,784      cache-references                                              (100.00%)
+S1       16          1,282,275      cache-misses                                                
+S1       16             11,396      faults                                                        (100.00%)
+S1       16                 91      migrations                                                  
+S2       16      3,619,897,446      cycles                                                        (100.00%)
+S2       16      2,245,238,586      instructions                                                  (100.00%)
+S2       16         44,878,181      cache-references                                              (100.00%)
+S2       16          4,439,555      cache-misses                                                
+S2       16              7,438      faults                                                        (100.00%)
+S2       16                148      migrations                                                  
+S3       16    463,695,210,657      cycles                                                        (100.00%)
+S3       16     46,366,356,085      instructions                                                  (100.00%)
+S3       16      1,106,384,361      cache-references                                              (100.00%)
+S3       16        446,739,146      cache-misses                                                
+S3       16              2,949      faults                                                        (100.00%)
+S3       16                 37      migrations                                                  
+
+      27.326995660 seconds time elapsed
+
+Socket: 0,3  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16    450,537,475,663      cycles                                                        (100.00%)
+S0       16     41,564,873,658      instructions                                                  (100.00%)
+S0       16      1,081,974,119      cache-references                                              (100.00%)
+S0       16        384,512,059      cache-misses                                                
+S0       16              1,552      faults                                                        (100.00%)
+S0       16                  4      migrations                                                  
+S1       16      1,722,014,617      cycles                                                        (100.00%)
+S1       16      1,007,015,864      instructions                                                  (100.00%)
+S1       16         26,199,178      cache-references                                              (100.00%)
+S1       16          2,716,054      cache-misses                                                
+S1       16                  2      faults                                                        (100.00%)
+S1       16                 13      migrations                                                  
+S2       16        405,895,087      cycles                                                        (100.00%)
+S2       16         68,025,363      instructions                                                  (100.00%)
+S2       16          1,886,710      cache-references                                              (100.00%)
+S2       16            374,706      cache-misses                                                
+S2       16                144      faults                                                        (100.00%)
+S2       16                  8      migrations                                                  
+S3       16    455,896,035,280      cycles                                                        (100.00%)
+S3       16     55,488,970,725      instructions                                                  (100.00%)
+S3       16      1,101,411,712      cache-references                                              (100.00%)
+S3       16        441,397,588      cache-misses                                                
+S3       16              2,950      faults                                                        (100.00%)
+S3       16                 23      migrations                                                  
+
+      26.673220355 seconds time elapsed
+
+Socket: 0,3  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16    304,160,079,752      cycles                                                        (100.00%)
+S0       16     41,198,661,912      instructions                                                  (100.00%)
+S0       16      1,097,979,394      cache-references                                              (100.00%)
+S0       16        381,796,728      cache-misses                                                
+S0       16              1,552      faults                                                        (100.00%)
+S0       16                  4      migrations                                                  
+S1       16      1,046,510,025      cycles                                                        (100.00%)
+S1       16        581,390,113      instructions                                                  (100.00%)
+S1       16         15,436,055      cache-references                                              (100.00%)
+S1       16          1,623,956      cache-misses                                                
+S1       16                  0      faults                                                        (100.00%)
+S1       16                  7      migrations                                                  
+S2       16        272,850,491      cycles                                                        (100.00%)
+S2       16         35,099,204      instructions                                                  (100.00%)
+S2       16          1,127,528      cache-references                                              (100.00%)
+S2       16            237,415      cache-misses                                                
+S2       16                144      faults                                                        (100.00%)
+S2       16                  7      migrations                                                  
+S3       16    310,025,848,318      cycles                                                        (100.00%)
+S3       16     46,173,342,501      instructions                                                  (100.00%)
+S3       16      1,154,662,726      cache-references                                              (100.00%)
+S3       16        386,698,800      cache-misses                                                
+S3       16              2,719      faults                                                        (100.00%)
+S3       16                 24      migrations                                                  
+
+      18.316520586 seconds time elapsed
+
+ Time Elapsed: 18
+Socket: 1,3  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16      1,902,221,446      cycles                                                        (100.00%)
+S0       16      1,351,599,901      instructions                                                  (100.00%)
+S0       16         22,784,775      cache-references                                              (100.00%)
+S0       16          1,171,768      cache-misses                                                
+S0       16              4,201      faults                                                        (100.00%)
+S0       16                 64      migrations                                                  
+S1       16    383,227,805,126      cycles                                                        (100.00%)
+S1       16     75,919,919,510      instructions                                                  (100.00%)
+S1       16        980,916,463      cache-references                                              (100.00%)
+S1       16        328,446,530      cache-misses                                                
+S1       16              1,740      faults                                                        (100.00%)
+S1       16                156      migrations                                                  
+S2       16        618,750,712      cycles                                                        (100.00%)
+S2       16         89,306,662      instructions                                                  (100.00%)
+S2       16          2,752,108      cache-references                                              (100.00%)
+S2       16            825,155      cache-misses                                                
+S2       16              3,229      faults                                                        (100.00%)
+S2       16                 58      migrations                                                  
+S3       16    538,192,175,076      cycles                                                        (100.00%)
+S3       16     65,145,200,257      instructions                                                  (100.00%)
+S3       16      1,227,020,720      cache-references                                              (100.00%)
+S3       16        520,761,706      cache-misses                                                
+S3       16              3,141      faults                                                        (100.00%)
+S3       16                284      migrations                                                  
+
+      28.022661943 seconds time elapsed
+
+Socket: 1,3  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16        817,667,618      cycles                                                        (100.00%)
+S0       16        418,751,387      instructions                                                  (100.00%)
+S0       16          9,608,972      cache-references                                              (100.00%)
+S0       16            995,792      cache-misses                                                
+S0       16                 35      faults                                                        (100.00%)
+S0       16                  2      migrations                                                  
+S1       16    415,657,100,044      cycles                                                        (100.00%)
+S1       16     44,553,790,584      instructions                                                  (100.00%)
+S1       16      1,039,002,407      cache-references                                              (100.00%)
+S1       16        430,633,467      cache-misses                                                
+S1       16              1,517      faults                                                        (100.00%)
+S1       16                 16      migrations                                                  
+S2       16        382,390,866      cycles                                                        (100.00%)
+S2       16         50,403,869      instructions                                                  (100.00%)
+S2       16          1,486,779      cache-references                                              (100.00%)
+S2       16            305,909      cache-misses                                                
+S2       16                144      faults                                                        (100.00%)
+S2       16                  8      migrations                                                  
+S3       16    412,553,493,347      cycles                                                        (100.00%)
+S3       16     46,521,835,426      instructions                                                  (100.00%)
+S3       16      1,086,085,238      cache-references                                              (100.00%)
+S3       16        438,484,940      cache-misses                                                
+S3       16              2,949      faults                                                        (100.00%)
+S3       16                 50      migrations                                                  
+
+      24.415426738 seconds time elapsed
+
+Socket: 1,3  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16      6,195,695,538      cycles                                                        (100.00%)
+S0       16      2,593,795,781      instructions                                                  (100.00%)
+S0       16         29,489,971      cache-references                                              (100.00%)
+S0       16          1,687,385      cache-misses                                                
+S0       16              3,763      faults                                                        (100.00%)
+S0       16                 42      migrations                                                  
+S1       16    396,512,223,927      cycles                                                        (100.00%)
+S1       16     41,360,750,891      instructions                                                  (100.00%)
+S1       16      1,020,248,540      cache-references                                              (100.00%)
+S1       16        427,185,678      cache-misses                                                
+S1       16              1,528      faults                                                        (100.00%)
+S1       16                 23      migrations                                                  
+S2       16        595,373,142      cycles                                                        (100.00%)
+S2       16        119,625,799      instructions                                                  (100.00%)
+S2       16          2,910,898      cache-references                                              (100.00%)
+S2       16            804,481      cache-misses                                                
+S2       16              4,578      faults                                                        (100.00%)
+S2       16                 66      migrations                                                  
+S3       16    406,891,131,927      cycles                                                        (100.00%)
+S3       16     57,553,413,106      instructions                                                  (100.00%)
+S3       16      1,155,764,528      cache-references                                              (100.00%)
+S3       16        387,842,860      cache-misses                                                
+S3       16              2,250      faults                                                        (100.00%)
+S3       16                 36      migrations                                                  
+
+      23.385421381 seconds time elapsed
+
+ Time Elapsed: 23
+Socket: 2,3  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16      1,778,026,714      cycles                                                        (100.00%)
+S0       16      1,067,453,962      instructions                                                  (100.00%)
+S0       16         26,184,687      cache-references                                              (100.00%)
+S0       16          2,810,805      cache-misses                                                
+S0       16                629      faults                                                        (100.00%)
+S0       16                  5      migrations                                                  
+S1       16        461,508,538      cycles                                                        (100.00%)
+S1       16         69,900,150      instructions                                                  (100.00%)
+S1       16          2,646,301      cache-references                                              (100.00%)
+S1       16            538,333      cache-misses                                                
+S1       16                  2      faults                                                        (100.00%)
+S1       16                  3      migrations                                                  
+S2       16    452,402,269,545      cycles                                                        (100.00%)
+S2       16     47,898,880,511      instructions                                                  (100.00%)
+S2       16      1,095,733,422      cache-references                                              (100.00%)
+S2       16        447,328,806      cache-misses                                                
+S2       16              2,448      faults                                                        (100.00%)
+S2       16                 34      migrations                                                  
+S3       16    448,096,224,154      cycles                                                        (100.00%)
+S3       16     41,692,150,711      instructions                                                  (100.00%)
+S3       16      1,030,316,643      cache-references                                              (100.00%)
+S3       16        436,168,632      cache-misses                                                
+S3       16              1,569      faults                                                        (100.00%)
+S3       16                  4      migrations                                                  
+
+      26.696309962 seconds time elapsed
+
+Socket: 2,3  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16        442,694,721      cycles                                                        (100.00%)
+S0       16        145,930,365      instructions                                                  (100.00%)
+S0       16          2,754,504      cache-references                                              (100.00%)
+S0       16            407,765      cache-misses                                                
+S0       16                501      faults                                                        (100.00%)
+S0       16                  2      migrations                                                  
+S1       16        404,270,489      cycles                                                        (100.00%)
+S1       16         60,949,864      instructions                                                  (100.00%)
+S1       16          2,310,515      cache-references                                              (100.00%)
+S1       16            440,189      cache-misses                                                
+S1       16                  0      faults                                                        (100.00%)
+S1       16                  1      migrations                                                  
+S2       16    418,977,194,068      cycles                                                        (100.00%)
+S2       16     46,415,062,935      instructions                                                  (100.00%)
+S2       16      1,143,100,009      cache-references                                              (100.00%)
+S2       16        399,935,241      cache-misses                                                
+S2       16              2,343      faults                                                        (100.00%)
+S2       16                 32      migrations                                                  
+S3       16    416,873,422,182      cycles                                                        (100.00%)
+S3       16     51,865,428,937      instructions                                                  (100.00%)
+S3       16      1,042,786,516      cache-references                                              (100.00%)
+S3       16        434,271,157      cache-misses                                                
+S3       16              1,568      faults                                                        (100.00%)
+S3       16                 14      migrations                                                  
+
+      24.424438453 seconds time elapsed
+
+Socket: 2,3  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16      2,950,042,503      cycles                                                        (100.00%)
+S0       16      2,243,944,771      instructions                                                  (100.00%)
+S0       16         42,314,912      cache-references                                              (100.00%)
+S0       16          2,385,678      cache-misses                                                
+S0       16              3,909      faults                                                        (100.00%)
+S0       16                 38      migrations                                                  
+S1       16        650,742,610      cycles                                                        (100.00%)
+S1       16        104,931,553      instructions                                                  (100.00%)
+S1       16          3,736,004      cache-references                                              (100.00%)
+S1       16          1,023,137      cache-misses                                                
+S1       16              4,275      faults                                                        (100.00%)
+S1       16                 39      migrations                                                  
+S2       16    429,107,072,400      cycles                                                        (100.00%)
+S2       16     46,581,685,612      instructions                                                  (100.00%)
+S2       16      1,102,946,796      cache-references                                              (100.00%)
+S2       16        449,283,094      cache-misses                                                
+S2       16              2,565      faults                                                        (100.00%)
+S2       16                 47      migrations                                                  
+S3       16    421,107,432,629      cycles                                                        (100.00%)
+S3       16     63,096,567,674      instructions                                                  (100.00%)
+S3       16      1,092,274,323      cache-references                                              (100.00%)
+S3       16        381,745,119      cache-misses                                                
+S3       16              1,569      faults                                                        (100.00%)
+S3       16                  8      migrations                                                  
+
+      25.308409476 seconds time elapsed
+
+ Time Elapsed: 25
+ Time Elapsed: 25

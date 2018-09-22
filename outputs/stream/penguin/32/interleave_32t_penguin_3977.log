@@ -1,0 +1,352 @@
+Number of threads: 32
+Job ID: 3977
+Machine: penguin 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+ Time Elapsed: 
+Socket: 0,1,2,3  MEM: 1
+
+ Performance counter stats for 'system wide':
+
+S0       16     54,763,104,653      cycles                                                        (100.00%)
+S0       16      9,071,530,153      instructions                                                  (100.00%)
+S0       16        138,150,590      cache-references                                              (100.00%)
+S0       16         47,568,030      cache-misses                                                
+S0       16                452      faults                                                        (100.00%)
+S0       16                  4      migrations                                                  
+S1       16     54,939,947,211      cycles                                                        (100.00%)
+S1       16      9,109,431,483      instructions                                                  (100.00%)
+S1       16        138,636,666      cache-references                                              (100.00%)
+S1       16         47,601,018      cache-misses                                                
+S1       16                195      faults                                                        (100.00%)
+S1       16                 18      migrations                                                  
+S2       16     55,706,712,508      cycles                                                        (100.00%)
+S2       16      7,453,143,327      instructions                                                  (100.00%)
+S2       16        144,871,444      cache-references                                              (100.00%)
+S2       16         56,317,428      cache-misses                                                
+S2       16              1,070      faults                                                        (100.00%)
+S2       16                 50      migrations                                                  
+S3       16     54,909,987,018      cycles                                                        (100.00%)
+S3       16      6,221,961,507      instructions                                                  (100.00%)
+S3       16        129,376,595      cache-references                                              (100.00%)
+S3       16         54,054,577      cache-misses                                                
+S3       16                243      faults                                                        (100.00%)
+S3       16                  3      migrations                                                  
+
+       3.639833232 seconds time elapsed
+
+Socket: 0,1,2,3  MEM: 2
+
+ Performance counter stats for 'system wide':
+
+S0       16     52,332,516,872      cycles                                                        (100.00%)
+S0       16      6,621,857,242      instructions                                                  (100.00%)
+S0       16        137,433,593      cache-references                                              (100.00%)
+S0       16         48,169,719      cache-misses                                                
+S0       16                217      faults                                                        (100.00%)
+S0       16                  0      migrations                                                  
+S1       16     52,405,711,286      cycles                                                        (100.00%)
+S1       16      7,381,462,805      instructions                                                  (100.00%)
+S1       16        127,691,273      cache-references                                              (100.00%)
+S1       16         52,747,405      cache-misses                                                
+S1       16                195      faults                                                        (100.00%)
+S1       16                  0      migrations                                                  
+S2       16     56,211,818,087      cycles                                                        (100.00%)
+S2       16      7,738,973,294      instructions                                                  (100.00%)
+S2       16        152,828,253      cache-references                                              (100.00%)
+S2       16         50,643,880      cache-misses                                                
+S2       16              1,070      faults                                                        (100.00%)
+S2       16                 48      migrations                                                  
+S3       16     52,402,464,624      cycles                                                        (100.00%)
+S3       16      7,209,705,906      instructions                                                  (100.00%)
+S3       16        127,735,255      cache-references                                              (100.00%)
+S3       16         52,732,094      cache-misses                                                
+S3       16                244      faults                                                        (100.00%)
+S3       16                  2      migrations                                                  
+
+       3.514893286 seconds time elapsed
+
+Socket: 0,1,2,3  MEM: 3
+
+ Performance counter stats for 'system wide':
+
+S0       16     53,932,910,587      cycles                                                        (100.00%)
+S0       16      9,483,072,949      instructions                                                  (100.00%)
+S0       16        137,795,121      cache-references                                              (100.00%)
+S0       16         47,665,205      cache-misses                                                
+S0       16                451      faults                                                        (100.00%)
+S0       16                  1      migrations                                                  
+S1       16     54,202,463,884      cycles                                                        (100.00%)
+S1       16      6,383,998,075      instructions                                                  (100.00%)
+S1       16        129,956,179      cache-references                                              (100.00%)
+S1       16         54,025,271      cache-misses                                                
+S1       16                195      faults                                                        (100.00%)
+S1       16                  6      migrations                                                  
+S2       16     56,145,524,045      cycles                                                        (100.00%)
+S2       16      7,504,202,566      instructions                                                  (100.00%)
+S2       16        146,396,343      cache-references                                              (100.00%)
+S2       16         56,612,930      cache-misses                                                
+S2       16              1,071      faults                                                        (100.00%)
+S2       16                 50      migrations                                                  
+S3       16     54,029,552,940      cycles                                                        (100.00%)
+S3       16      9,168,815,490      instructions                                                  (100.00%)
+S3       16        137,302,937      cache-references                                              (100.00%)
+S3       16         48,382,019      cache-misses                                                
+S3       16                242      faults                                                        (100.00%)
+S3       16                  4      migrations                                                  
+
+       3.590137565 seconds time elapsed
+
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4
+ Time Elapsed: 4

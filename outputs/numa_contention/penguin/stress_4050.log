@@ -1,0 +1,6 @@
+Number of threads: 
+Job ID: 4050
+Machine: penguin 
+/var/log/slurm/log_slurmd//job04050/slurm_script: line 37:  2688 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04050/slurm_script: line 37:  2697 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt
+/var/log/slurm/log_slurmd//job04050/slurm_script: line 37:  2735 Segmentation fault      $bin_path/bench_stress $size $threads $node $mode > $output_path/stress_bind_$SLURM_JOB_NODELIST'_'$size''MB_$OMP_NUM_THREADS''t_$mode'_'$SLURM_JOB_ID'.'txt

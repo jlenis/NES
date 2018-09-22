@@ -1,0 +1,78 @@
+num cpus: 64
+numa available: 0
+numa node 0 1111111100000000000000000000000000000000000000000000000000000000 - 15.9929 GiB
+numa node 1 0000000011111111000000000000000000000000000000000000000000000000 - 16 GiB
+numa node 2 0000000000000000111111110000000000000000000000000000000000000000 - 16 GiB
+numa node 3 0000000000000000000000001111111100000000000000000000000000000000 - 16 GiB
+numa node 4 0000000000000000000000000000000011111111000000000000000000000000 - 16 GiB
+numa node 5 0000000000000000000000000000000000000000111111110000000000000000 - 16 GiB
+numa node 6 0000000000000000000000000000000000000000000000001111111100000000 - 16 GiB
+numa node 7 0000000000000000000000000000000000000000000000000000000011111111 - 16 GiB
+
+array size: 131072000 
+x size: 1048576000 
+
+all-contention core 0 -> core 0 : BW 760.644 MB/s
+all-contention core 1 -> core 0 : BW 755.898 MB/s
+all-contention core 2 -> core 0 : BW 763.982 MB/s
+all-contention core 3 -> core 0 : BW 759.819 MB/s
+all-contention core 4 -> core 0 : BW 759.511 MB/s
+all-contention core 5 -> core 0 : BW 756.577 MB/s
+all-contention core 6 -> core 0 : BW 755.894 MB/s
+all-contention core 7 -> core 0 : BW 756.58 MB/s
+all-contention core 8 -> core 0 : BW 763.652 MB/s
+all-contention core 9 -> core 0 : BW 759.512 MB/s
+all-contention core 10 -> core 0 : BW 759.512 MB/s
+all-contention core 11 -> core 0 : BW 775.656 MB/s
+all-contention core 12 -> core 0 : BW 759.509 MB/s
+all-contention core 13 -> core 0 : BW 764.489 MB/s
+all-contention core 14 -> core 0 : BW 763.985 MB/s
+all-contention core 15 -> core 0 : BW 759.509 MB/s
+all-contention core 16 -> core 0 : BW 763.793 MB/s
+all-contention core 17 -> core 0 : BW 775.149 MB/s
+all-contention core 18 -> core 0 : BW 768.486 MB/s
+all-contention core 19 -> core 0 : BW 775.152 MB/s
+all-contention core 20 -> core 0 : BW 770.883 MB/s
+all-contention core 21 -> core 0 : BW 775.014 MB/s
+all-contention core 22 -> core 0 : BW 763.793 MB/s
+all-contention core 23 -> core 0 : BW 775.148 MB/s
+all-contention core 24 -> core 0 : BW 772.58 MB/s
+all-contention core 25 -> core 0 : BW 789.121 MB/s
+all-contention core 26 -> core 0 : BW 769.128 MB/s
+all-contention core 27 -> core 0 : BW 776.382 MB/s
+all-contention core 28 -> core 0 : BW 791.257 MB/s
+all-contention core 29 -> core 0 : BW 775.15 MB/s
+all-contention core 30 -> core 0 : BW 775.123 MB/s
+all-contention core 31 -> core 0 : BW 771.155 MB/s
+all-contention core 32 -> core 0 : BW 764.663 MB/s
+all-contention core 33 -> core 0 : BW 760.554 MB/s
+all-contention core 34 -> core 0 : BW 763.39 MB/s
+all-contention core 35 -> core 0 : BW 759.509 MB/s
+all-contention core 36 -> core 0 : BW 764.694 MB/s
+all-contention core 37 -> core 0 : BW 768.197 MB/s
+all-contention core 38 -> core 0 : BW 764.105 MB/s
+all-contention core 39 -> core 0 : BW 764.666 MB/s
+all-contention core 40 -> core 0 : BW 760.043 MB/s
+all-contention core 41 -> core 0 : BW 755.979 MB/s
+all-contention core 42 -> core 0 : BW 753.518 MB/s
+all-contention core 43 -> core 0 : BW 753.52 MB/s
+all-contention core 44 -> core 0 : BW 753.102 MB/s
+all-contention core 45 -> core 0 : BW 753.519 MB/s
+all-contention core 46 -> core 0 : BW 756.202 MB/s
+all-contention core 47 -> core 0 : BW 753.101 MB/s
+all-contention core 48 -> core 0 : BW 759.782 MB/s
+all-contention core 49 -> core 0 : BW 769.483 MB/s
+all-contention core 50 -> core 0 : BW 764.293 MB/s
+all-contention core 51 -> core 0 : BW 756.614 MB/s
+all-contention core 52 -> core 0 : BW 756.612 MB/s
+all-contention core 53 -> core 0 : BW 756.61 MB/s
+all-contention core 54 -> core 0 : BW 760.472 MB/s
+all-contention core 55 -> core 0 : BW 756.569 MB/s
+all-contention core 56 -> core 0 : BW 768.376 MB/s
+all-contention core 57 -> core 0 : BW 764.62 MB/s
+all-contention core 58 -> core 0 : BW 769.957 MB/s
+all-contention core 59 -> core 0 : BW 772.911 MB/s
+all-contention core 60 -> core 0 : BW 768.758 MB/s
+all-contention core 61 -> core 0 : BW 773.628 MB/s
+all-contention core 62 -> core 0 : BW 790.926 MB/s
+all-contention core 63 -> core 0 : BW 784.554 MB/s

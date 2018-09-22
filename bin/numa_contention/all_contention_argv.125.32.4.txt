@@ -1,0 +1,46 @@
+num cpus: 32
+numa available: 0
+numa node 0 11111111000000000000000000000000 - 15.9929 GiB
+numa node 1 00000000111111110000000000000000 - 16 GiB
+numa node 2 00000000000000001111111100000000 - 16 GiB
+numa node 3 00000000000000000000000011111111 - 16 GiB
+numa node 4 00000000000000000000000000000000 - 16 GiB
+numa node 5 00000000000000000000000000000000 - 16 GiB
+numa node 6 00000000000000000000000000000000 - 16 GiB
+numa node 7 00000000000000000000000000000000 - 16 GiB
+
+array size: 131072000 
+x size: 1048576000 
+
+all-contention core 0 -> core 0 : BW 822.614 MB/s
+all-contention core 1 -> core 0 : BW 830.233 MB/s
+all-contention core 2 -> core 0 : BW 822.615 MB/s
+all-contention core 3 -> core 0 : BW 824.914 MB/s
+all-contention core 4 -> core 0 : BW 824.912 MB/s
+all-contention core 5 -> core 0 : BW 824.915 MB/s
+all-contention core 6 -> core 0 : BW 820.226 MB/s
+all-contention core 7 -> core 0 : BW 830.242 MB/s
+all-contention core 8 -> core 0 : BW 863.714 MB/s
+all-contention core 9 -> core 0 : BW 843.269 MB/s
+all-contention core 10 -> core 0 : BW 848.235 MB/s
+all-contention core 11 -> core 0 : BW 857.659 MB/s
+all-contention core 12 -> core 0 : BW 848.233 MB/s
+all-contention core 13 -> core 0 : BW 848.285 MB/s
+all-contention core 14 -> core 0 : BW 852.613 MB/s
+all-contention core 15 -> core 0 : BW 852.613 MB/s
+all-contention core 16 -> core 0 : BW 811.225 MB/s
+all-contention core 17 -> core 0 : BW 811.744 MB/s
+all-contention core 18 -> core 0 : BW 811.228 MB/s
+all-contention core 19 -> core 0 : BW 819.716 MB/s
+all-contention core 20 -> core 0 : BW 820.975 MB/s
+all-contention core 21 -> core 0 : BW 821.608 MB/s
+all-contention core 22 -> core 0 : BW 812.276 MB/s
+all-contention core 23 -> core 0 : BW 815.413 MB/s
+all-contention core 24 -> core 0 : BW 843.585 MB/s
+all-contention core 25 -> core 0 : BW 831.257 MB/s
+all-contention core 26 -> core 0 : BW 840.995 MB/s
+all-contention core 27 -> core 0 : BW 835.934 MB/s
+all-contention core 28 -> core 0 : BW 832.998 MB/s
+all-contention core 29 -> core 0 : BW 832.998 MB/s
+all-contention core 30 -> core 0 : BW 842.926 MB/s
+all-contention core 31 -> core 0 : BW 831.261 MB/s

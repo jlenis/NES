@@ -1,0 +1,45 @@
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 1048576000 (elements), Offset = 0 (elements)
+Memory per array = 8000.0 MiB (= 7.8 GiB).
+Total memory required = 24000.0 MiB (= 23.4 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 64
+Number of Threads counted = 64
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 138123 microseconds.
+   (= 138123 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           78169.9     0.217729     0.214625     0.219698
+Scale:          75098.4     0.225491     0.223403     0.227304
+Add:            76502.6     0.333627     0.328954     0.345163
+Triad:          75713.8     0.334672     0.332381     0.336271
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+
+ Performance counter stats for '/home/jlenis/numa_benchmark/bin/stream.10GiB.20':
+
+     3784454572753 cycles                    #    0.000 GHz                     [50.02%]
+     1158028247142 instructions              #    0.31  insns per cycle         [75.02%]
+      366720272886 cache-references                                             [74.97%]
+         251691865 cache-misses              #    0.069 % of all cache refs     [75.01%]
+             12837 faults                                                      
+                64 migrations                                                  
+
+      43.396529134 seconds time elapsed
+

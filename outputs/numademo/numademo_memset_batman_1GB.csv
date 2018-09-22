@@ -1,0 +1,390 @@
+8 nodes available
+memory with no policy,memset,Avg,7625.62,MB/s,Max,7797.61,MB/s,Min,7497.38,MB/s
+local memory,memset,Avg,7358.12,MB/s,Max,7437.87,MB/s,Min,7172.69,MB/s
+memory interleaved on all nodes,memset,Avg,3069.87,MB/s,Max,3078.98,MB/s,Min,3063.60,MB/s
+memory on node 0,memset,Avg,5483.64,MB/s,Max,5684.11,MB/s,Min,5374.06,MB/s
+memory on node 1,memset,Avg,7269.71,MB/s,Max,7404.94,MB/s,Min,7107.45,MB/s
+memory on node 2,memset,Avg,2118.05,MB/s,Max,2118.47,MB/s,Min,2117.48,MB/s
+memory on node 3,memset,Avg,3365.12,MB/s,Max,3368.37,MB/s,Min,3359.98,MB/s
+memory on node 4,memset,Avg,3413.02,MB/s,Max,3414.30,MB/s,Min,3411.72,MB/s
+memory on node 5,memset,Avg,2122.31,MB/s,Max,2123.15,MB/s,Min,2120.37,MB/s
+memory on node 6,memset,Avg,2142.28,MB/s,Max,2142.80,MB/s,Min,2140.96,MB/s
+memory on node 7,memset,Avg,3399.54,MB/s,Max,3413.76,MB/s,Min,3391.35,MB/s
+memory interleaved on 0 1,memset,Avg,6109.02,MB/s,Max,6191.88,MB/s,Min,6047.12,MB/s
+memory interleaved on 0 2,memset,Avg,3085.22,MB/s,Max,3103.94,MB/s,Min,3069.28,MB/s
+memory interleaved on 1 2,memset,Avg,3317.17,MB/s,Max,3328.39,MB/s,Min,3296.10,MB/s
+memory interleaved on 0 1 2,memset,Avg,3820.56,MB/s,Max,3844.97,MB/s,Min,3796.52,MB/s
+memory interleaved on 0 3,memset,Avg,4165.88,MB/s,Max,4195.33,MB/s,Min,4132.47,MB/s
+memory interleaved on 1 3,memset,Avg,4567.79,MB/s,Max,4613.65,MB/s,Min,4523.10,MB/s
+memory interleaved on 0 1 3,memset,Avg,4886.22,MB/s,Max,4960.17,MB/s,Min,4845.41,MB/s
+memory interleaved on 2 3,memset,Avg,2597.20,MB/s,Max,2598.15,MB/s,Min,2595.58,MB/s
+memory interleaved on 0 2 3,memset,Avg,3151.59,MB/s,Max,3164.11,MB/s,Min,3142.64,MB/s
+memory interleaved on 1 2 3,memset,Avg,3310.36,MB/s,Max,3318.34,MB/s,Min,3302.59,MB/s
+memory interleaved on 0 1 2 3,memset,Avg,3668.72,MB/s,Max,3695.79,MB/s,Min,3652.77,MB/s
+memory interleaved on 0 4,memset,Avg,4195.57,MB/s,Max,4218.09,MB/s,Min,4154.70,MB/s
+memory interleaved on 1 4,memset,Avg,4610.33,MB/s,Max,4653.47,MB/s,Min,4572.74,MB/s
+memory interleaved on 0 1 4,memset,Avg,4900.52,MB/s,Max,4948.12,MB/s,Min,4847.38,MB/s
+memory interleaved on 2 4,memset,Avg,2609.56,MB/s,Max,2611.98,MB/s,Min,2596.51,MB/s
+memory interleaved on 0 2 4,memset,Avg,3169.51,MB/s,Max,3179.47,MB/s,Min,3159.18,MB/s
+memory interleaved on 1 2 4,memset,Avg,3319.45,MB/s,Max,3333.16,MB/s,Min,3314.40,MB/s
+memory interleaved on 0 1 2 4,memset,Avg,3689.63,MB/s,Max,3719.57,MB/s,Min,3673.49,MB/s
+memory interleaved on 3 4,memset,Avg,3384.33,MB/s,Max,3387.46,MB/s,Min,3381.40,MB/s
+memory interleaved on 0 3 4,memset,Avg,3892.97,MB/s,Max,3916.56,MB/s,Min,3870.97,MB/s
+memory interleaved on 1 3 4,memset,Avg,4120.94,MB/s,Max,4141.70,MB/s,Min,4106.47,MB/s
+memory interleaved on 0 1 3 4,memset,Avg,4376.56,MB/s,Max,4399.11,MB/s,Min,4355.24,MB/s
+memory interleaved on 2 3 4,memset,Avg,2822.75,MB/s,Max,2823.88,MB/s,Min,2822.05,MB/s
+memory interleaved on 0 2 3 4,memset,Avg,3226.86,MB/s,Max,3234.97,MB/s,Min,3198.88,MB/s
+memory interleaved on 1 2 3 4,memset,Avg,3342.05,MB/s,Max,3348.87,MB/s,Min,3333.97,MB/s
+memory interleaved on 0 1 2 3 4,memset,Avg,3634.15,MB/s,Max,3658.09,MB/s,Min,3621.66,MB/s
+memory interleaved on 0 5,memset,Avg,3091.90,MB/s,Max,3107.07,MB/s,Min,3074.46,MB/s
+memory interleaved on 1 5,memset,Avg,3319.49,MB/s,Max,3340.51,MB/s,Min,3297.89,MB/s
+memory interleaved on 0 1 5,memset,Avg,3818.96,MB/s,Max,3838.79,MB/s,Min,3792.33,MB/s
+memory interleaved on 2 5,memset,Avg,2119.26,MB/s,Max,2119.72,MB/s,Min,2118.33,MB/s
+memory interleaved on 0 2 5,memset,Avg,2676.60,MB/s,Max,2687.77,MB/s,Min,2670.51,MB/s
+memory interleaved on 1 2 5,memset,Avg,2782.48,MB/s,Max,2792.17,MB/s,Min,2772.62,MB/s
+memory interleaved on 0 1 2 5,memset,Avg,3181.49,MB/s,Max,3195.02,MB/s,Min,3162.52,MB/s
+memory interleaved on 3 5,memset,Avg,2603.51,MB/s,Max,2604.34,MB/s,Min,2602.11,MB/s
+memory interleaved on 0 3 5,memset,Avg,3162.16,MB/s,Max,3173.07,MB/s,Min,3150.37,MB/s
+memory interleaved on 1 3 5,memset,Avg,3312.20,MB/s,Max,3318.99,MB/s,Min,3303.49,MB/s
+memory interleaved on 0 1 3 5,memset,Avg,3678.43,MB/s,Max,3689.87,MB/s,Min,3659.89,MB/s
+memory interleaved on 2 3 5,memset,Avg,2418.15,MB/s,Max,2419.02,MB/s,Min,2417.28,MB/s
+memory interleaved on 0 2 3 5,memset,Avg,2831.83,MB/s,Max,2838.19,MB/s,Min,2826.15,MB/s
+memory interleaved on 1 2 3 5,memset,Avg,2916.83,MB/s,Max,2920.69,MB/s,Min,2912.37,MB/s
+memory interleaved on 0 1 2 3 5,memset,Avg,3235.45,MB/s,Max,3241.94,MB/s,Min,3227.84,MB/s
+memory interleaved on 4 5,memset,Avg,2617.39,MB/s,Max,2618.40,MB/s,Min,2612.97,MB/s
+memory interleaved on 0 4 5,memset,Avg,3171.99,MB/s,Max,3183.55,MB/s,Min,3161.20,MB/s
+memory interleaved on 1 4 5,memset,Avg,3332.37,MB/s,Max,3347.79,MB/s,Min,3322.25,MB/s
+memory interleaved on 0 1 4 5,memset,Avg,3693.32,MB/s,Max,3726.92,MB/s,Min,3673.47,MB/s
+memory interleaved on 2 4 5,memset,Avg,2424.73,MB/s,Max,2426.69,MB/s,Min,2412.79,MB/s
+memory interleaved on 0 2 4 5,memset,Avg,2837.29,MB/s,Max,2843.08,MB/s,Min,2830.46,MB/s
+memory interleaved on 1 2 4 5,memset,Avg,2928.64,MB/s,Max,2930.55,MB/s,Min,2924.77,MB/s
+memory interleaved on 0 1 2 4 5,memset,Avg,3244.02,MB/s,Max,3253.67,MB/s,Min,3233.55,MB/s
+memory interleaved on 3 4 5,memset,Avg,2824.93,MB/s,Max,2826.63,MB/s,Min,2822.77,MB/s
+memory interleaved on 0 3 4 5,memset,Avg,3224.97,MB/s,Max,3239.70,MB/s,Min,3212.89,MB/s
+memory interleaved on 1 3 4 5,memset,Avg,3338.39,MB/s,Max,3345.55,MB/s,Min,3332.57,MB/s
+memory interleaved on 0 1 3 4 5,memset,Avg,3645.84,MB/s,Max,3654.96,MB/s,Min,3633.70,MB/s
+memory interleaved on 2 3 4 5,memset,Avg,2604.63,MB/s,Max,2605.28,MB/s,Min,2603.74,MB/s
+memory interleaved on 0 2 3 4 5,memset,Avg,2932.39,MB/s,Max,2938.88,MB/s,Min,2926.11,MB/s
+memory interleaved on 1 2 3 4 5,memset,Avg,3002.41,MB/s,Max,3005.96,MB/s,Min,2995.94,MB/s
+memory interleaved on 0 1 2 3 4 5,memset,Avg,3255.00,MB/s,Max,3264.53,MB/s,Min,3235.83,MB/s
+memory interleaved on 0 6,memset,Avg,3107.41,MB/s,Max,3133.09,MB/s,Min,3096.33,MB/s
+memory interleaved on 1 6,memset,Avg,3338.61,MB/s,Max,3353.89,MB/s,Min,3329.68,MB/s
+memory interleaved on 0 1 6,memset,Avg,3846.70,MB/s,Max,3872.90,MB/s,Min,3816.78,MB/s
+memory interleaved on 2 6,memset,Avg,2127.32,MB/s,Max,2129.11,MB/s,Min,2119.91,MB/s
+memory interleaved on 0 2 6,memset,Avg,2685.34,MB/s,Max,2696.39,MB/s,Min,2677.90,MB/s
+memory interleaved on 1 2 6,memset,Avg,2791.93,MB/s,Max,2797.69,MB/s,Min,2785.54,MB/s
+memory interleaved on 0 1 2 6,memset,Avg,3190.06,MB/s,Max,3200.66,MB/s,Min,3175.10,MB/s
+memory interleaved on 3 6,memset,Avg,2617.80,MB/s,Max,2618.19,MB/s,Min,2616.76,MB/s
+memory interleaved on 0 3 6,memset,Avg,3177.66,MB/s,Max,3194.23,MB/s,Min,3158.31,MB/s
+memory interleaved on 1 3 6,memset,Avg,3327.98,MB/s,Max,3337.29,MB/s,Min,3320.85,MB/s
+memory interleaved on 0 1 3 6,memset,Avg,3689.19,MB/s,Max,3705.86,MB/s,Min,3669.80,MB/s
+memory interleaved on 2 3 6,memset,Avg,2426.17,MB/s,Max,2426.75,MB/s,Min,2424.85,MB/s
+memory interleaved on 0 2 3 6,memset,Avg,2838.65,MB/s,Max,2845.90,MB/s,Min,2835.38,MB/s
+memory interleaved on 1 2 3 6,memset,Avg,2925.79,MB/s,Max,2931.03,MB/s,Min,2921.00,MB/s
+memory interleaved on 0 1 2 3 6,memset,Avg,3244.68,MB/s,Max,3254.81,MB/s,Min,3230.65,MB/s
+memory interleaved on 4 6,memset,Avg,2631.80,MB/s,Max,2632.69,MB/s,Min,2630.09,MB/s
+memory interleaved on 0 4 6,memset,Avg,3191.19,MB/s,Max,3202.27,MB/s,Min,3179.15,MB/s
+memory interleaved on 1 4 6,memset,Avg,3346.18,MB/s,Max,3355.27,MB/s,Min,3331.84,MB/s
+memory interleaved on 0 1 4 6,memset,Avg,3713.18,MB/s,Max,3727.67,MB/s,Min,3701.79,MB/s
+memory interleaved on 2 4 6,memset,Avg,2434.47,MB/s,Max,2435.22,MB/s,Min,2433.11,MB/s
+memory interleaved on 0 2 4 6,memset,Avg,2843.62,MB/s,Max,2849.79,MB/s,Min,2837.32,MB/s
+memory interleaved on 1 2 4 6,memset,Avg,2934.19,MB/s,Max,2936.26,MB/s,Min,2931.25,MB/s
+memory interleaved on 0 1 2 4 6,memset,Avg,3248.25,MB/s,Max,3258.61,MB/s,Min,3232.31,MB/s
+memory interleaved on 3 4 6,memset,Avg,2836.41,MB/s,Max,2837.60,MB/s,Min,2835.00,MB/s
+memory interleaved on 0 3 4 6,memset,Avg,3232.96,MB/s,Max,3238.23,MB/s,Min,3222.78,MB/s
+memory interleaved on 1 3 4 6,memset,Avg,3352.83,MB/s,Max,3357.80,MB/s,Min,3337.78,MB/s
+memory interleaved on 0 1 3 4 6,memset,Avg,3656.03,MB/s,Max,3666.99,MB/s,Min,3642.95,MB/s
+memory interleaved on 2 3 4 6,memset,Avg,2611.59,MB/s,Max,2613.39,MB/s,Min,2609.99,MB/s
+memory interleaved on 0 2 3 4 6,memset,Avg,2938.58,MB/s,Max,2944.21,MB/s,Min,2925.05,MB/s
+memory interleaved on 1 2 3 4 6,memset,Avg,3011.63,MB/s,Max,3014.26,MB/s,Min,3008.75,MB/s
+memory interleaved on 0 1 2 3 4 6,memset,Avg,3261.95,MB/s,Max,3273.37,MB/s,Min,3244.10,MB/s
+memory interleaved on 5 6,memset,Avg,2131.25,MB/s,Max,2131.81,MB/s,Min,2129.35,MB/s
+memory interleaved on 0 5 6,memset,Avg,2687.50,MB/s,Max,2696.20,MB/s,Min,2678.60,MB/s
+memory interleaved on 1 5 6,memset,Avg,2796.07,MB/s,Max,2803.15,MB/s,Min,2791.95,MB/s
+memory interleaved on 0 1 5 6,memset,Avg,3190.96,MB/s,Max,3212.31,MB/s,Min,3168.21,MB/s
+memory interleaved on 2 5 6,memset,Avg,2126.01,MB/s,Max,2126.59,MB/s,Min,2125.63,MB/s
+memory interleaved on 0 2 5 6,memset,Avg,2527.96,MB/s,Max,2533.09,MB/s,Min,2519.41,MB/s
+memory interleaved on 1 2 5 6,memset,Avg,2596.06,MB/s,Max,2599.90,MB/s,Min,2593.00,MB/s
+memory interleaved on 0 1 2 5 6,memset,Avg,2909.18,MB/s,Max,2919.65,MB/s,Min,2895.47,MB/s
+memory interleaved on 3 5 6,memset,Avg,2425.46,MB/s,Max,2427.23,MB/s,Min,2414.35,MB/s
+memory interleaved on 0 3 5 6,memset,Avg,2831.55,MB/s,Max,2837.21,MB/s,Min,2825.94,MB/s
+memory interleaved on 1 3 5 6,memset,Avg,2923.20,MB/s,Max,2927.38,MB/s,Min,2919.70,MB/s
+memory interleaved on 0 1 3 5 6,memset,Avg,3241.62,MB/s,Max,3248.68,MB/s,Min,3230.92,MB/s
+memory interleaved on 2 3 5 6,memset,Avg,2339.32,MB/s,Max,2340.30,MB/s,Min,2337.87,MB/s
+memory interleaved on 0 2 3 5 6,memset,Avg,2660.13,MB/s,Max,2663.79,MB/s,Min,2652.53,MB/s
+memory interleaved on 1 2 3 5 6,memset,Avg,2715.73,MB/s,Max,2721.28,MB/s,Min,2698.08,MB/s
+memory interleaved on 0 1 2 3 5 6,memset,Avg,2976.04,MB/s,Max,2979.59,MB/s,Min,2973.07,MB/s
+memory interleaved on 4 5 6,memset,Avg,2434.42,MB/s,Max,2435.12,MB/s,Min,2432.47,MB/s
+memory interleaved on 0 4 5 6,memset,Avg,2843.65,MB/s,Max,2851.83,MB/s,Min,2834.20,MB/s
+memory interleaved on 1 4 5 6,memset,Avg,2931.51,MB/s,Max,2934.34,MB/s,Min,2929.87,MB/s
+memory interleaved on 0 1 4 5 6,memset,Avg,3247.42,MB/s,Max,3257.52,MB/s,Min,3238.27,MB/s
+memory interleaved on 2 4 5 6,memset,Avg,2344.97,MB/s,Max,2345.98,MB/s,Min,2343.19,MB/s
+memory interleaved on 0 2 4 5 6,memset,Avg,2663.63,MB/s,Max,2667.12,MB/s,Min,2655.91,MB/s
+memory interleaved on 1 2 4 5 6,memset,Avg,2726.15,MB/s,Max,2728.57,MB/s,Min,2722.90,MB/s
+memory interleaved on 0 1 2 4 5 6,memset,Avg,2979.74,MB/s,Max,2983.91,MB/s,Min,2968.99,MB/s
+memory interleaved on 3 4 5 6,memset,Avg,2613.25,MB/s,Max,2614.71,MB/s,Min,2611.39,MB/s
+memory interleaved on 0 3 4 5 6,memset,Avg,2935.23,MB/s,Max,2943.01,MB/s,Min,2921.81,MB/s
+memory interleaved on 1 3 4 5 6,memset,Avg,3009.86,MB/s,Max,3012.72,MB/s,Min,3006.39,MB/s
+memory interleaved on 0 1 3 4 5 6,memset,Avg,3255.07,MB/s,Max,3264.44,MB/s,Min,3244.95,MB/s
+memory interleaved on 2 3 4 5 6,memset,Avg,2495.04,MB/s,Max,2498.53,MB/s,Min,2484.54,MB/s
+memory interleaved on 0 2 3 4 5 6,memset,Avg,2756.77,MB/s,Max,2761.02,MB/s,Min,2751.21,MB/s
+memory interleaved on 1 2 3 4 5 6,memset,Avg,2810.09,MB/s,Max,2812.13,MB/s,Min,2806.67,MB/s
+memory interleaved on 0 1 2 3 4 5 6,memset,Avg,3026.54,MB/s,Max,3030.40,MB/s,Min,3017.79,MB/s
+memory interleaved on 0 7,memset,Avg,4175.65,MB/s,Max,4195.90,MB/s,Min,4153.98,MB/s
+memory interleaved on 1 7,memset,Avg,4586.85,MB/s,Max,4653.76,MB/s,Min,4543.14,MB/s
+memory interleaved on 0 1 7,memset,Avg,4867.80,MB/s,Max,4901.10,MB/s,Min,4824.39,MB/s
+memory interleaved on 2 7,memset,Avg,2603.21,MB/s,Max,2606.12,MB/s,Min,2598.66,MB/s
+memory interleaved on 0 2 7,memset,Avg,3159.82,MB/s,Max,3172.23,MB/s,Min,3151.67,MB/s
+memory interleaved on 1 2 7,memset,Avg,3312.26,MB/s,Max,3331.74,MB/s,Min,3301.57,MB/s
+memory interleaved on 0 1 2 7,memset,Avg,3679.76,MB/s,Max,3706.80,MB/s,Min,3655.84,MB/s
+memory interleaved on 3 7,memset,Avg,3370.27,MB/s,Max,3379.68,MB/s,Min,3364.59,MB/s
+memory interleaved on 0 3 7,memset,Avg,3876.79,MB/s,Max,3887.95,MB/s,Min,3858.78,MB/s
+memory interleaved on 1 3 7,memset,Avg,4107.89,MB/s,Max,4128.19,MB/s,Min,4087.12,MB/s
+memory interleaved on 0 1 3 7,memset,Avg,4363.87,MB/s,Max,4403.80,MB/s,Min,4339.41,MB/s
+memory interleaved on 2 3 7,memset,Avg,2815.03,MB/s,Max,2819.03,MB/s,Min,2812.23,MB/s
+memory interleaved on 0 2 3 7,memset,Avg,3213.98,MB/s,Max,3226.63,MB/s,Min,3205.14,MB/s
+memory interleaved on 1 2 3 7,memset,Avg,3335.92,MB/s,Max,3345.38,MB/s,Min,3316.26,MB/s
+memory interleaved on 0 1 2 3 7,memset,Avg,3631.53,MB/s,Max,3650.79,MB/s,Min,3607.63,MB/s
+memory interleaved on 4 7,memset,Avg,3391.52,MB/s,Max,3399.49,MB/s,Min,3382.92,MB/s
+memory interleaved on 0 4 7,memset,Avg,3893.12,MB/s,Max,3910.90,MB/s,Min,3872.50,MB/s
+memory interleaved on 1 4 7,memset,Avg,4131.53,MB/s,Max,4166.85,MB/s,Min,4109.26,MB/s
+memory interleaved on 0 1 4 7,memset,Avg,4389.24,MB/s,Max,4426.67,MB/s,Min,4352.58,MB/s
+memory interleaved on 2 4 7,memset,Avg,2826.60,MB/s,Max,2830.07,MB/s,Min,2823.47,MB/s
+memory interleaved on 0 2 4 7,memset,Avg,3227.87,MB/s,Max,3235.02,MB/s,Min,3215.71,MB/s
+memory interleaved on 1 2 4 7,memset,Avg,3346.94,MB/s,Max,3353.19,MB/s,Min,3339.63,MB/s
+memory interleaved on 0 1 2 4 7,memset,Avg,3639.59,MB/s,Max,3657.41,MB/s,Min,3613.52,MB/s
+memory interleaved on 3 4 7,memset,Avg,3380.45,MB/s,Max,3384.89,MB/s,Min,3375.34,MB/s
+memory interleaved on 0 3 4 7,memset,Avg,3747.08,MB/s,Max,3769.73,MB/s,Min,3732.42,MB/s
+memory interleaved on 1 3 4 7,memset,Avg,3904.50,MB/s,Max,3913.74,MB/s,Min,3896.70,MB/s
+memory interleaved on 0 1 3 4 7,memset,Avg,4147.62,MB/s,Max,4191.17,MB/s,Min,4126.40,MB/s
+memory interleaved on 2 3 4 7,memset,Avg,2943.22,MB/s,Max,2945.21,MB/s,Min,2941.55,MB/s
+memory interleaved on 0 2 3 4 7,memset,Avg,3262.17,MB/s,Max,3272.12,MB/s,Min,3245.96,MB/s
+memory interleaved on 1 2 3 4 7,memset,Avg,3352.63,MB/s,Max,3357.58,MB/s,Min,3345.58,MB/s
+memory interleaved on 0 1 2 3 4 7,memset,Avg,3593.36,MB/s,Max,3602.97,MB/s,Min,3575.33,MB/s
+memory interleaved on 5 7,memset,Avg,2608.01,MB/s,Max,2610.78,MB/s,Min,2605.40,MB/s
+memory interleaved on 0 5 7,memset,Avg,3159.71,MB/s,Max,3173.10,MB/s,Min,3146.15,MB/s
+memory interleaved on 1 5 7,memset,Avg,3317.18,MB/s,Max,3328.95,MB/s,Min,3310.54,MB/s
+memory interleaved on 0 1 5 7,memset,Avg,3669.82,MB/s,Max,3690.23,MB/s,Min,3651.22,MB/s
+memory interleaved on 2 5 7,memset,Avg,2419.95,MB/s,Max,2421.45,MB/s,Min,2418.66,MB/s
+memory interleaved on 0 2 5 7,memset,Avg,2832.76,MB/s,Max,2838.12,MB/s,Min,2824.52,MB/s
+memory interleaved on 1 2 5 7,memset,Avg,2921.08,MB/s,Max,2922.75,MB/s,Min,2919.75,MB/s
+memory interleaved on 0 1 2 5 7,memset,Avg,3231.79,MB/s,Max,3245.51,MB/s,Min,3209.24,MB/s
+memory interleaved on 3 5 7,memset,Avg,2816.00,MB/s,Max,2819.62,MB/s,Min,2813.77,MB/s
+memory interleaved on 0 3 5 7,memset,Avg,3213.54,MB/s,Max,3228.17,MB/s,Min,3202.03,MB/s
+memory interleaved on 1 3 5 7,memset,Avg,3329.49,MB/s,Max,3340.04,MB/s,Min,3319.89,MB/s
+memory interleaved on 0 1 3 5 7,memset,Avg,3630.47,MB/s,Max,3643.01,MB/s,Min,3612.62,MB/s
+memory interleaved on 2 3 5 7,memset,Avg,2603.86,MB/s,Max,2605.16,MB/s,Min,2601.47,MB/s
+memory interleaved on 0 2 3 5 7,memset,Avg,2924.98,MB/s,Max,2930.80,MB/s,Min,2918.11,MB/s
+memory interleaved on 1 2 3 5 7,memset,Avg,2994.98,MB/s,Max,3001.55,MB/s,Min,2982.16,MB/s
+memory interleaved on 0 1 2 3 5 7,memset,Avg,3248.74,MB/s,Max,3259.17,MB/s,Min,3229.66,MB/s
+memory interleaved on 4 5 7,memset,Avg,2826.55,MB/s,Max,2830.16,MB/s,Min,2824.37,MB/s
+memory interleaved on 0 4 5 7,memset,Avg,3222.75,MB/s,Max,3235.94,MB/s,Min,3209.73,MB/s
+memory interleaved on 1 4 5 7,memset,Avg,3344.42,MB/s,Max,3356.68,MB/s,Min,3333.83,MB/s
+memory interleaved on 0 1 4 5 7,memset,Avg,3643.33,MB/s,Max,3660.51,MB/s,Min,3626.82,MB/s
+memory interleaved on 2 4 5 7,memset,Avg,2611.95,MB/s,Max,2612.62,MB/s,Min,2609.25,MB/s
+memory interleaved on 0 2 4 5 7,memset,Avg,2927.55,MB/s,Max,2935.63,MB/s,Min,2916.19,MB/s
+memory interleaved on 1 2 4 5 7,memset,Avg,3000.76,MB/s,Max,3010.27,MB/s,Min,2983.96,MB/s
+memory interleaved on 0 1 2 4 5 7,memset,Avg,3255.11,MB/s,Max,3264.68,MB/s,Min,3247.43,MB/s
+memory interleaved on 3 4 5 7,memset,Avg,2945.88,MB/s,Max,2949.27,MB/s,Min,2942.55,MB/s
+memory interleaved on 0 3 4 5 7,memset,Avg,3263.89,MB/s,Max,3275.31,MB/s,Min,3253.86,MB/s
+memory interleaved on 1 3 4 5 7,memset,Avg,3356.52,MB/s,Max,3362.34,MB/s,Min,3347.91,MB/s
+memory interleaved on 0 1 3 4 5 7,memset,Avg,3590.00,MB/s,Max,3601.72,MB/s,Min,3569.80,MB/s
+memory interleaved on 2 3 4 5 7,memset,Avg,2733.32,MB/s,Max,2734.43,MB/s,Min,2730.93,MB/s
+memory interleaved on 0 2 3 4 5 7,memset,Avg,2993.45,MB/s,Max,2999.17,MB/s,Min,2987.99,MB/s
+memory interleaved on 1 2 3 4 5 7,memset,Avg,3050.84,MB/s,Max,3060.60,MB/s,Min,3028.26,MB/s
+memory interleaved on 0 1 2 3 4 5 7,memset,Avg,3271.76,MB/s,Max,3278.18,MB/s,Min,3259.20,MB/s
+memory interleaved on 6 7,memset,Avg,2623.39,MB/s,Max,2626.67,MB/s,Min,2618.80,MB/s
+memory interleaved on 0 6 7,memset,Avg,3178.03,MB/s,Max,3191.65,MB/s,Min,3167.63,MB/s
+memory interleaved on 1 6 7,memset,Avg,3333.55,MB/s,Max,3344.12,MB/s,Min,3319.00,MB/s
+memory interleaved on 0 1 6 7,memset,Avg,3693.00,MB/s,Max,3721.26,MB/s,Min,3670.01,MB/s
+memory interleaved on 2 6 7,memset,Avg,2427.91,MB/s,Max,2430.11,MB/s,Min,2426.85,MB/s
+memory interleaved on 0 2 6 7,memset,Avg,2837.26,MB/s,Max,2845.73,MB/s,Min,2812.45,MB/s
+memory interleaved on 1 2 6 7,memset,Avg,2930.29,MB/s,Max,2934.13,MB/s,Min,2924.86,MB/s
+memory interleaved on 0 1 2 6 7,memset,Avg,3242.41,MB/s,Max,3255.44,MB/s,Min,3220.28,MB/s
+memory interleaved on 3 6 7,memset,Avg,2827.50,MB/s,Max,2831.07,MB/s,Min,2824.07,MB/s
+memory interleaved on 0 3 6 7,memset,Avg,3226.96,MB/s,Max,3240.61,MB/s,Min,3219.10,MB/s
+memory interleaved on 1 3 6 7,memset,Avg,3343.06,MB/s,Max,3353.69,MB/s,Min,3332.18,MB/s
+memory interleaved on 0 1 3 6 7,memset,Avg,3643.90,MB/s,Max,3654.89,MB/s,Min,3637.98,MB/s
+memory interleaved on 2 3 6 7,memset,Avg,2611.66,MB/s,Max,2612.38,MB/s,Min,2609.88,MB/s
+memory interleaved on 0 2 3 6 7,memset,Avg,2925.29,MB/s,Max,2937.58,MB/s,Min,2899.18,MB/s
+memory interleaved on 1 2 3 6 7,memset,Avg,3002.94,MB/s,Max,3007.81,MB/s,Min,2996.08,MB/s
+memory interleaved on 0 1 2 3 6 7,memset,Avg,3255.16,MB/s,Max,3264.19,MB/s,Min,3243.34,MB/s
+memory interleaved on 4 6 7,memset,Avg,2837.41,MB/s,Max,2839.99,MB/s,Min,2835.72,MB/s
+memory interleaved on 0 4 6 7,memset,Avg,3231.06,MB/s,Max,3245.63,MB/s,Min,3221.85,MB/s
+memory interleaved on 1 4 6 7,memset,Avg,3355.43,MB/s,Max,3368.44,MB/s,Min,3343.13,MB/s
+memory interleaved on 0 1 4 6 7,memset,Avg,3652.65,MB/s,Max,3665.18,MB/s,Min,3641.22,MB/s
+memory interleaved on 2 4 6 7,memset,Avg,2618.25,MB/s,Max,2619.49,MB/s,Min,2616.03,MB/s
+memory interleaved on 0 2 4 6 7,memset,Avg,2940.35,MB/s,Max,2945.69,MB/s,Min,2935.75,MB/s
+memory interleaved on 1 2 4 6 7,memset,Avg,3011.38,MB/s,Max,3016.33,MB/s,Min,3004.26,MB/s
+memory interleaved on 0 1 2 4 6 7,memset,Avg,3262.57,MB/s,Max,3270.77,MB/s,Min,3247.04,MB/s
+memory interleaved on 3 4 6 7,memset,Avg,2956.39,MB/s,Max,2958.03,MB/s,Min,2953.49,MB/s
+memory interleaved on 0 3 4 6 7,memset,Avg,3269.87,MB/s,Max,3279.65,MB/s,Min,3254.29,MB/s
+memory interleaved on 1 3 4 6 7,memset,Avg,3363.64,MB/s,Max,3366.86,MB/s,Min,3359.70,MB/s
+memory interleaved on 0 1 3 4 6 7,memset,Avg,3596.23,MB/s,Max,3617.63,MB/s,Min,3582.50,MB/s
+memory interleaved on 2 3 4 6 7,memset,Avg,2735.73,MB/s,Max,2740.11,MB/s,Min,2721.14,MB/s
+memory interleaved on 0 2 3 4 6 7,memset,Avg,2999.91,MB/s,Max,3003.00,MB/s,Min,2994.14,MB/s
+memory interleaved on 1 2 3 4 6 7,memset,Avg,3063.08,MB/s,Max,3067.61,MB/s,Min,3057.01,MB/s
+memory interleaved on 0 1 2 3 4 6 7,memset,Avg,3278.49,MB/s,Max,3287.69,MB/s,Min,3265.10,MB/s
+memory interleaved on 5 6 7,memset,Avg,2430.00,MB/s,Max,2430.90,MB/s,Min,2428.87,MB/s
+memory interleaved on 0 5 6 7,memset,Avg,2843.55,MB/s,Max,2850.24,MB/s,Min,2835.41,MB/s
+memory interleaved on 1 5 6 7,memset,Avg,2928.74,MB/s,Max,2933.39,MB/s,Min,2920.30,MB/s
+memory interleaved on 0 1 5 6 7,memset,Avg,3243.01,MB/s,Max,3253.43,MB/s,Min,3217.71,MB/s
+memory interleaved on 2 5 6 7,memset,Avg,2346.53,MB/s,Max,2347.55,MB/s,Min,2344.66,MB/s
+memory interleaved on 0 2 5 6 7,memset,Avg,2660.17,MB/s,Max,2666.70,MB/s,Min,2650.74,MB/s
+memory interleaved on 1 2 5 6 7,memset,Avg,2720.78,MB/s,Max,2722.90,MB/s,Min,2716.10,MB/s
+memory interleaved on 0 1 2 5 6 7,memset,Avg,2977.25,MB/s,Max,2983.66,MB/s,Min,2970.34,MB/s
+memory interleaved on 3 5 6 7,memset,Avg,2615.55,MB/s,Max,2616.31,MB/s,Min,2613.85,MB/s
+memory interleaved on 0 3 5 6 7,memset,Avg,2931.62,MB/s,Max,2937.26,MB/s,Min,2922.13,MB/s
+memory interleaved on 1 3 5 6 7,memset,Avg,3001.50,MB/s,Max,3010.72,MB/s,Min,2985.08,MB/s
+memory interleaved on 0 1 3 5 6 7,memset,Avg,3256.22,MB/s,Max,3262.69,MB/s,Min,3244.28,MB/s
+memory interleaved on 2 3 5 6 7,memset,Avg,2495.40,MB/s,Max,2496.65,MB/s,Min,2492.10,MB/s
+memory interleaved on 0 2 3 5 6 7,memset,Avg,2755.58,MB/s,Max,2758.80,MB/s,Min,2750.16,MB/s
+memory interleaved on 1 2 3 5 6 7,memset,Avg,2809.38,MB/s,Max,2811.73,MB/s,Min,2806.04,MB/s
+memory interleaved on 0 1 2 3 5 6 7,memset,Avg,3024.89,MB/s,Max,3031.85,MB/s,Min,3017.24,MB/s
+memory interleaved on 4 5 6 7,memset,Avg,2622.48,MB/s,Max,2624.42,MB/s,Min,2620.26,MB/s
+memory interleaved on 0 4 5 6 7,memset,Avg,2934.49,MB/s,Max,2940.36,MB/s,Min,2928.59,MB/s
+memory interleaved on 1 4 5 6 7,memset,Avg,3010.71,MB/s,Max,3017.07,MB/s,Min,3003.84,MB/s
+memory interleaved on 0 1 4 5 6 7,memset,Avg,3257.94,MB/s,Max,3265.69,MB/s,Min,3244.67,MB/s
+memory interleaved on 2 4 5 6 7,memset,Avg,2500.48,MB/s,Max,2501.48,MB/s,Min,2498.75,MB/s
+memory interleaved on 0 2 4 5 6 7,memset,Avg,2760.71,MB/s,Max,2765.63,MB/s,Min,2754.17,MB/s
+memory interleaved on 1 2 4 5 6 7,memset,Avg,2815.14,MB/s,Max,2818.02,MB/s,Min,2811.47,MB/s
+memory interleaved on 0 1 2 4 5 6 7,memset,Avg,3031.89,MB/s,Max,3034.92,MB/s,Min,3023.59,MB/s
+memory interleaved on 3 4 5 6 7,memset,Avg,2738.40,MB/s,Max,2742.11,MB/s,Min,2723.52,MB/s
+memory interleaved on 0 3 4 5 6 7,memset,Avg,3000.09,MB/s,Max,3005.24,MB/s,Min,2994.83,MB/s
+memory interleaved on 1 3 4 5 6 7,memset,Avg,3064.27,MB/s,Max,3069.08,MB/s,Min,3053.50,MB/s
+memory interleaved on 0 1 3 4 5 6 7,memset,Avg,3273.70,MB/s,Max,3284.01,MB/s,Min,3262.55,MB/s
+memory interleaved on 2 3 4 5 6 7,memset,Avg,2611.23,MB/s,Max,2612.43,MB/s,Min,2609.58,MB/s
+memory interleaved on 0 2 3 4 5 6 7,memset,Avg,2833.65,MB/s,Max,2839.64,MB/s,Min,2829.03,MB/s
+memory interleaved on 1 2 3 4 5 6 7,memset,Avg,2883.22,MB/s,Max,2885.71,MB/s,Min,2879.79,MB/s
+memory interleaved on 0 1 2 3 4 5 6 7,memset,Avg,3073.35,MB/s,Max,3082.26,MB/s,Min,3063.23,MB/s
+setting preferred node to 0
+memory without policy,memset,Avg,5815.00,MB/s,Max,6010.13,MB/s,Min,5692.07,MB/s
+setting preferred node to 1
+memory without policy,memset,Avg,7430.11,MB/s,Max,7621.35,MB/s,Min,7292.97,MB/s
+setting preferred node to 2
+memory without policy,memset,Avg,2118.66,MB/s,Max,2118.94,MB/s,Min,2118.22,MB/s
+setting preferred node to 3
+memory without policy,memset,Avg,3375.19,MB/s,Max,3375.86,MB/s,Min,3373.58,MB/s
+setting preferred node to 4
+memory without policy,memset,Avg,3421.83,MB/s,Max,3422.55,MB/s,Min,3420.04,MB/s
+setting preferred node to 5
+memory without policy,memset,Avg,2124.15,MB/s,Max,2124.41,MB/s,Min,2123.73,MB/s
+setting preferred node to 6
+memory without policy,memset,Avg,2144.12,MB/s,Max,2144.48,MB/s,Min,2143.47,MB/s
+setting preferred node to 7
+memory without policy,memset,Avg,3401.66,MB/s,Max,3420.54,MB/s,Min,3381.55,MB/s
+manual interleaving to all nodes,memset,Avg,3109.74,MB/s,Max,3119.82,MB/s,Min,3098.89,MB/s
+manual interleaving on node 0/1,memset,Avg,6404.14,MB/s,Max,6711.27,MB/s,Min,6258.59,MB/s
+current interleave node 1
+running on node 0, preferred node 0
+local memory,memset,Avg,6997.38,MB/s,Max,7170.19,MB/s,Min,6711.70,MB/s
+memory interleaved on all nodes,memset,Avg,3398.62,MB/s,Max,3408.96,MB/s,Min,3386.14,MB/s
+memory interleaved on node 0/1,memset,Avg,6183.98,MB/s,Max,6230.81,MB/s,Min,6113.54,MB/s
+alloc on node 1,memset,Avg,5732.96,MB/s,Max,5896.81,MB/s,Min,5565.84,MB/s
+alloc on node 2,memset,Avg,3381.97,MB/s,Max,3391.97,MB/s,Min,3368.78,MB/s
+alloc on node 3,memset,Avg,2123.82,MB/s,Max,2124.07,MB/s,Min,2123.56,MB/s
+alloc on node 4,memset,Avg,3391.29,MB/s,Max,3392.38,MB/s,Min,3389.24,MB/s
+alloc on node 5,memset,Avg,2106.54,MB/s,Max,2107.82,MB/s,Min,2102.40,MB/s
+alloc on node 6,memset,Avg,4270.80,MB/s,Max,4303.39,MB/s,Min,4235.32,MB/s
+alloc on node 7,memset,Avg,3902.25,MB/s,Max,3964.93,MB/s,Min,3817.42,MB/s
+local allocation,memset,Avg,7174.52,MB/s,Max,7307.71,MB/s,Min,7053.47,MB/s
+setting wrong preferred node,memset,Avg,5821.10,MB/s,Max,5919.14,MB/s,Min,5648.92,MB/s
+setting correct preferred node,memset,Avg,7176.82,MB/s,Max,7464.34,MB/s,Min,6875.41,MB/s
+running on node 1, preferred node 0
+local memory,memset,Avg,7146.85,MB/s,Max,7346.62,MB/s,Min,6880.87,MB/s
+memory interleaved on all nodes,memset,Avg,3072.64,MB/s,Max,3080.21,MB/s,Min,3068.43,MB/s
+memory interleaved on node 0/1,memset,Avg,6022.65,MB/s,Max,6134.21,MB/s,Min,5902.62,MB/s
+alloc on node 0,memset,Avg,5590.87,MB/s,Max,5666.85,MB/s,Min,5500.84,MB/s
+alloc on node 2,memset,Avg,2119.16,MB/s,Max,2119.52,MB/s,Min,2118.53,MB/s
+alloc on node 3,memset,Avg,3373.73,MB/s,Max,3376.51,MB/s,Min,3357.74,MB/s
+alloc on node 4,memset,Avg,3421.58,MB/s,Max,3422.70,MB/s,Min,3419.20,MB/s
+alloc on node 5,memset,Avg,2124.33,MB/s,Max,2124.62,MB/s,Min,2123.81,MB/s
+alloc on node 6,memset,Avg,2144.33,MB/s,Max,2144.79,MB/s,Min,2144.00,MB/s
+alloc on node 7,memset,Avg,3411.91,MB/s,Max,3417.97,MB/s,Min,3396.57,MB/s
+local allocation,memset,Avg,7334.70,MB/s,Max,7519.53,MB/s,Min,7099.51,MB/s
+setting wrong preferred node,memset,Avg,2119.26,MB/s,Max,2119.54,MB/s,Min,2118.65,MB/s
+setting correct preferred node,memset,Avg,7397.33,MB/s,Max,7525.95,MB/s,Min,7166.27,MB/s
+running on node 2, preferred node 0
+local memory,memset,Avg,7039.25,MB/s,Max,7203.09,MB/s,Min,6871.22,MB/s
+memory interleaved on all nodes,memset,Avg,4231.61,MB/s,Max,4252.15,MB/s,Min,4198.49,MB/s
+memory interleaved on node 0/1,memset,Avg,3846.87,MB/s,Max,3865.30,MB/s,Min,3823.86,MB/s
+alloc on node 0,memset,Avg,4161.99,MB/s,Max,4183.71,MB/s,Min,4136.56,MB/s
+alloc on node 1,memset,Avg,3847.51,MB/s,Max,3880.18,MB/s,Min,3796.34,MB/s
+alloc on node 3,memset,Avg,6087.04,MB/s,Max,6213.49,MB/s,Min,5998.10,MB/s
+alloc on node 4,memset,Avg,3474.54,MB/s,Max,3475.54,MB/s,Min,3473.22,MB/s
+alloc on node 5,memset,Avg,4310.30,MB/s,Max,4313.87,MB/s,Min,4306.99,MB/s
+alloc on node 6,memset,Avg,3414.59,MB/s,Max,3418.95,MB/s,Min,3409.93,MB/s
+alloc on node 7,memset,Avg,4261.14,MB/s,Max,4300.19,MB/s,Min,4220.03,MB/s
+local allocation,memset,Avg,7479.02,MB/s,Max,7767.11,MB/s,Min,7164.41,MB/s
+setting wrong preferred node,memset,Avg,6087.11,MB/s,Max,6207.64,MB/s,Min,6020.28,MB/s
+setting correct preferred node,memset,Avg,7448.30,MB/s,Max,7617.53,MB/s,Min,7336.91,MB/s
+running on node 3, preferred node 0
+local memory,memset,Avg,7270.57,MB/s,Max,7340.40,MB/s,Min,7227.02,MB/s
+memory interleaved on all nodes,memset,Avg,4062.10,MB/s,Max,4088.03,MB/s,Min,4027.10,MB/s
+memory interleaved on node 0/1,memset,Avg,3842.75,MB/s,Max,3883.17,MB/s,Min,3815.43,MB/s
+alloc on node 0,memset,Avg,3795.61,MB/s,Max,3841.16,MB/s,Min,3767.98,MB/s
+alloc on node 1,memset,Avg,4233.04,MB/s,Max,4272.82,MB/s,Min,4188.21,MB/s
+alloc on node 2,memset,Avg,5874.85,MB/s,Max,5992.72,MB/s,Min,5707.03,MB/s
+alloc on node 4,memset,Avg,3448.37,MB/s,Max,3449.37,MB/s,Min,3447.38,MB/s
+alloc on node 5,memset,Avg,3471.79,MB/s,Max,3473.19,MB/s,Min,3468.99,MB/s
+alloc on node 6,memset,Avg,3391.38,MB/s,Max,3397.77,MB/s,Min,3383.59,MB/s
+alloc on node 7,memset,Avg,3956.22,MB/s,Max,4015.93,MB/s,Min,3906.69,MB/s
+local allocation,memset,Avg,7556.22,MB/s,Max,7730.13,MB/s,Min,7377.32,MB/s
+setting wrong preferred node,memset,Avg,3447.84,MB/s,Max,3449.33,MB/s,Min,3442.72,MB/s
+setting correct preferred node,memset,Avg,7602.26,MB/s,Max,7720.22,MB/s,Min,7461.16,MB/s
+running on node 4, preferred node 0
+local memory,memset,Avg,7359.70,MB/s,Max,7425.18,MB/s,Min,7258.74,MB/s
+memory interleaved on all nodes,memset,Avg,3549.05,MB/s,Max,3558.00,MB/s,Min,3541.13,MB/s
+memory interleaved on node 0/1,memset,Avg,3360.35,MB/s,Max,3365.69,MB/s,Min,3351.13,MB/s
+alloc on node 0,memset,Avg,3362.25,MB/s,Max,3368.46,MB/s,Min,3358.44,MB/s
+alloc on node 1,memset,Avg,3400.88,MB/s,Max,3420.93,MB/s,Min,3379.15,MB/s
+alloc on node 2,memset,Avg,3468.86,MB/s,Max,3474.04,MB/s,Min,3459.84,MB/s
+alloc on node 3,memset,Avg,3444.82,MB/s,Max,3446.13,MB/s,Min,3442.14,MB/s
+alloc on node 5,memset,Avg,6066.38,MB/s,Max,6127.26,MB/s,Min,6014.62,MB/s
+alloc on node 6,memset,Avg,3383.66,MB/s,Max,3387.66,MB/s,Min,3376.68,MB/s
+alloc on node 7,memset,Avg,2126.71,MB/s,Max,2127.09,MB/s,Min,2126.13,MB/s
+local allocation,memset,Avg,7634.46,MB/s,Max,7700.89,MB/s,Min,7535.85,MB/s
+setting wrong preferred node,memset,Avg,6085.46,MB/s,Max,6169.76,MB/s,Min,5970.34,MB/s
+setting correct preferred node,memset,Avg,7636.89,MB/s,Max,7747.37,MB/s,Min,7543.55,MB/s
+running on node 5, preferred node 0
+local memory,memset,Avg,7316.39,MB/s,Max,7405.20,MB/s,Min,7227.77,MB/s
+memory interleaved on all nodes,memset,Avg,3684.57,MB/s,Max,3695.46,MB/s,Min,3670.82,MB/s
+memory interleaved on node 0/1,memset,Avg,3291.31,MB/s,Max,3300.25,MB/s,Min,3279.23,MB/s
+alloc on node 0,memset,Avg,3330.54,MB/s,Max,3343.71,MB/s,Min,3325.03,MB/s
+alloc on node 1,memset,Avg,3379.94,MB/s,Max,3402.94,MB/s,Min,3355.87,MB/s
+alloc on node 2,memset,Avg,4290.01,MB/s,Max,4308.67,MB/s,Min,4265.89,MB/s
+alloc on node 3,memset,Avg,4314.53,MB/s,Max,4316.18,MB/s,Min,4309.42,MB/s
+alloc on node 4,memset,Avg,6054.50,MB/s,Max,6155.28,MB/s,Min,5987.11,MB/s
+alloc on node 6,memset,Avg,2105.70,MB/s,Max,2105.97,MB/s,Min,2105.05,MB/s
+alloc on node 7,memset,Avg,3361.88,MB/s,Max,3363.98,MB/s,Min,3358.28,MB/s
+local allocation,memset,Avg,7611.67,MB/s,Max,7742.68,MB/s,Min,7524.76,MB/s
+setting wrong preferred node,memset,Avg,2105.71,MB/s,Max,2105.92,MB/s,Min,2105.38,MB/s
+setting correct preferred node,memset,Avg,7598.72,MB/s,Max,7734.86,MB/s,Min,7441.93,MB/s
+running on node 6, preferred node 0
+local memory,memset,Avg,7129.16,MB/s,Max,7295.81,MB/s,Min,7002.36,MB/s
+memory interleaved on all nodes,memset,Avg,3421.85,MB/s,Max,3439.26,MB/s,Min,3407.45,MB/s
+memory interleaved on node 0/1,memset,Avg,2627.29,MB/s,Max,2631.72,MB/s,Min,2612.96,MB/s
+alloc on node 0,memset,Avg,3416.50,MB/s,Max,3426.46,MB/s,Min,3410.48,MB/s
+alloc on node 1,memset,Avg,2140.60,MB/s,Max,2141.39,MB/s,Min,2136.28,MB/s
+alloc on node 2,memset,Avg,3417.48,MB/s,Max,3420.10,MB/s,Min,3415.12,MB/s
+alloc on node 3,memset,Avg,2124.37,MB/s,Max,2124.58,MB/s,Min,2124.03,MB/s
+alloc on node 4,memset,Avg,4307.66,MB/s,Max,4310.09,MB/s,Min,4305.63,MB/s
+alloc on node 5,memset,Avg,3937.16,MB/s,Max,3950.99,MB/s,Min,3923.80,MB/s
+alloc on node 7,memset,Avg,5845.03,MB/s,Max,6157.45,MB/s,Min,5628.22,MB/s
+local allocation,memset,Avg,7440.46,MB/s,Max,7601.08,MB/s,Min,7194.25,MB/s
+setting wrong preferred node,memset,Avg,5752.27,MB/s,Max,5890.48,MB/s,Min,5612.76,MB/s
+setting correct preferred node,memset,Avg,7366.20,MB/s,Max,7548.65,MB/s,Min,7191.88,MB/s
+running on node 7, preferred node 0
+local memory,memset,Avg,7177.96,MB/s,Max,7349.35,MB/s,Min,6942.56,MB/s
+memory interleaved on all nodes,memset,Avg,3069.46,MB/s,Max,3078.37,MB/s,Min,3061.37,MB/s
+memory interleaved on node 0/1,memset,Avg,2608.44,MB/s,Max,2611.87,MB/s,Min,2605.51,MB/s
+alloc on node 0,memset,Avg,2126.77,MB/s,Max,2127.20,MB/s,Min,2126.22,MB/s
+alloc on node 1,memset,Avg,3399.68,MB/s,Max,3410.04,MB/s,Min,3386.51,MB/s
+alloc on node 2,memset,Avg,3404.53,MB/s,Max,3406.75,MB/s,Min,3402.08,MB/s
+alloc on node 3,memset,Avg,2114.99,MB/s,Max,2115.92,MB/s,Min,2111.07,MB/s
+alloc on node 4,memset,Avg,2112.91,MB/s,Max,2113.12,MB/s,Min,2112.27,MB/s
+alloc on node 5,memset,Avg,3367.66,MB/s,Max,3368.62,MB/s,Min,3364.84,MB/s
+alloc on node 6,memset,Avg,5757.05,MB/s,Max,5956.84,MB/s,Min,5494.79,MB/s
+local allocation,memset,Avg,7215.20,MB/s,Max,7417.72,MB/s,Min,6960.62,MB/s
+setting wrong preferred node,memset,Avg,2126.78,MB/s,Max,2126.94,MB/s,Min,2126.47,MB/s
+setting correct preferred node,memset,Avg,7384.58,MB/s,Max,7514.52,MB/s,Min,7245.50,MB/s

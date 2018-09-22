@@ -1,0 +1,63 @@
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 1048576000 (elements), Offset = 0 (elements)
+Memory per array = 8000.0 MiB (= 7.8 GiB).
+Total memory required = 24000.0 MiB (= 23.4 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 64
+Number of Threads counted = 64
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 141182 microseconds.
+   (= 141182 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           80066.1     0.212549     0.209542     0.214280
+Scale:          79822.7     0.213178     0.210181     0.214443
+Add:            85361.4     0.299125     0.294815     0.305883
+Triad:          84299.2     0.301186     0.298530     0.303326
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+
+ Performance counter stats for '/home/jlenis/numa_benchmark/bin/stream.10GiB.10':
+
+S0       16       473064721294 cycles                    #    0.000 GHz                      (50.46%)
+S0       16        82030994488 instructions              #    2.67  insns per cycle          (74.63%)
+S0       16        29674140069 cache-references                                              (75.21%)
+S0       16           32697882 cache-misses              #    1.635 % of all cache refs      (74.34%)
+S0       16               2997 faults                                                        (100.00%)
+S0       16                  0 migrations                                                  
+S1       16       475306740263 cycles                    #    0.000 GHz                      (49.94%)
+S1       16        81803557307 instructions              #    0.00  insns per cycle          (75.36%)
+S1       16        29807074307 cache-references                                              (75.48%)
+S1       16           30524077 cache-misses                                                  (74.58%)
+S1       16               3003 faults                                                        (100.00%)
+S1       16                  5 migrations                                                  
+S2       16       532682585675 cycles                    #    0.000 GHz                      (50.57%)
+S2       16       104916525924 instructions              #    0.00  insns per cycle          (75.53%)
+S2       16        38868476567 cache-references                                              (75.04%)
+S2       16           36024815 cache-misses                                                  (74.39%)
+S2       16               4632 faults                                                        (100.00%)
+S2       16                 70 migrations                                                  
+S3       16       484629790988 cycles                    #    0.000 GHz                      (49.05%)
+S3       16        82147043430 instructions              #    0.00  insns per cycle          (74.71%)
+S3       16        29634158152 cache-references                                              (75.66%)
+S3       16           31940988 cache-misses                                                  (75.29%)
+S3       16               3003 faults                                                        (100.00%)
+S3       16                  3 migrations                                                  
+
+      35.609907861 seconds time elapsed
+

@@ -1,0 +1,390 @@
+8 nodes available
+memory with no policy,ptrchase,Avg,124.36,MB/s,Max,124.39,MB/s,Min,124.22,MB/s
+local memory,ptrchase,Avg,124.36,MB/s,Max,124.39,MB/s,Min,124.32,MB/s
+memory interleaved on all nodes,ptrchase,Avg,70.85,MB/s,Max,70.86,MB/s,Min,70.84,MB/s
+memory on node 0,ptrchase,Avg,59.02,MB/s,Max,59.03,MB/s,Min,59.01,MB/s
+memory on node 1,ptrchase,Avg,76.36,MB/s,Max,76.37,MB/s,Min,76.34,MB/s
+memory on node 2,ptrchase,Avg,75.58,MB/s,Max,75.59,MB/s,Min,75.57,MB/s
+memory on node 3,ptrchase,Avg,58.54,MB/s,Max,58.55,MB/s,Min,58.54,MB/s
+memory on node 4,ptrchase,Avg,58.58,MB/s,Max,58.59,MB/s,Min,58.55,MB/s
+memory on node 5,ptrchase,Avg,75.50,MB/s,Max,75.52,MB/s,Min,75.49,MB/s
+memory on node 6,ptrchase,Avg,79.80,MB/s,Max,79.82,MB/s,Min,79.80,MB/s
+memory on node 7,ptrchase,Avg,124.37,MB/s,Max,124.40,MB/s,Min,124.31,MB/s
+memory interleaved on 0 1,ptrchase,Avg,66.13,MB/s,Max,66.14,MB/s,Min,66.12,MB/s
+memory interleaved on 0 2,ptrchase,Avg,65.83,MB/s,Max,65.85,MB/s,Min,65.80,MB/s
+memory interleaved on 1 2,ptrchase,Avg,75.29,MB/s,Max,75.31,MB/s,Min,75.19,MB/s
+memory interleaved on 0 1 2,ptrchase,Avg,68.80,MB/s,Max,68.81,MB/s,Min,68.75,MB/s
+memory interleaved on 0 3,ptrchase,Avg,58.81,MB/s,Max,58.82,MB/s,Min,58.79,MB/s
+memory interleaved on 1 3,ptrchase,Avg,66.11,MB/s,Max,66.12,MB/s,Min,66.10,MB/s
+memory interleaved on 0 1 3,ptrchase,Avg,63.56,MB/s,Max,63.57,MB/s,Min,63.51,MB/s
+memory interleaved on 2 3,ptrchase,Avg,65.77,MB/s,Max,65.79,MB/s,Min,65.74,MB/s
+memory interleaved on 0 2 3,ptrchase,Avg,63.34,MB/s,Max,63.35,MB/s,Min,63.29,MB/s
+memory interleaved on 1 2 3,ptrchase,Avg,68.50,MB/s,Max,68.52,MB/s,Min,68.50,MB/s
+memory interleaved on 0 1 2 3,ptrchase,Avg,65.83,MB/s,Max,65.85,MB/s,Min,65.81,MB/s
+memory interleaved on 0 4,ptrchase,Avg,58.80,MB/s,Max,58.80,MB/s,Min,58.79,MB/s
+memory interleaved on 1 4,ptrchase,Avg,66.14,MB/s,Max,66.15,MB/s,Min,66.13,MB/s
+memory interleaved on 0 1 4,ptrchase,Avg,63.57,MB/s,Max,63.57,MB/s,Min,63.56,MB/s
+memory interleaved on 2 4,ptrchase,Avg,65.86,MB/s,Max,65.88,MB/s,Min,65.85,MB/s
+memory interleaved on 0 2 4,ptrchase,Avg,63.37,MB/s,Max,63.38,MB/s,Min,63.37,MB/s
+memory interleaved on 1 2 4,ptrchase,Avg,68.56,MB/s,Max,68.57,MB/s,Min,68.55,MB/s
+memory interleaved on 0 1 2 4,ptrchase,Avg,65.86,MB/s,Max,65.87,MB/s,Min,65.85,MB/s
+memory interleaved on 3 4,ptrchase,Avg,58.54,MB/s,Max,58.55,MB/s,Min,58.54,MB/s
+memory interleaved on 0 3 4,ptrchase,Avg,58.71,MB/s,Max,58.72,MB/s,Min,58.71,MB/s
+memory interleaved on 1 3 4,ptrchase,Avg,63.04,MB/s,Max,63.05,MB/s,Min,63.00,MB/s
+memory interleaved on 0 1 3 4,ptrchase,Avg,61.93,MB/s,Max,61.94,MB/s,Min,61.89,MB/s
+memory interleaved on 2 3 4,ptrchase,Avg,62.85,MB/s,Max,62.86,MB/s,Min,62.83,MB/s
+memory interleaved on 0 2 3 4,ptrchase,Avg,61.80,MB/s,Max,61.80,MB/s,Min,61.79,MB/s
+memory interleaved on 1 2 3 4,ptrchase,Avg,65.35,MB/s,Max,65.37,MB/s,Min,65.30,MB/s
+memory interleaved on 0 1 2 3 4,ptrchase,Avg,63.87,MB/s,Max,63.88,MB/s,Min,63.86,MB/s
+memory interleaved on 0 5,ptrchase,Avg,65.82,MB/s,Max,65.84,MB/s,Min,65.79,MB/s
+memory interleaved on 1 5,ptrchase,Avg,75.26,MB/s,Max,75.27,MB/s,Min,75.21,MB/s
+memory interleaved on 0 1 5,ptrchase,Avg,68.79,MB/s,Max,68.80,MB/s,Min,68.76,MB/s
+memory interleaved on 2 5,ptrchase,Avg,74.87,MB/s,Max,74.88,MB/s,Min,74.84,MB/s
+memory interleaved on 0 2 5,ptrchase,Avg,68.56,MB/s,Max,68.58,MB/s,Min,68.52,MB/s
+memory interleaved on 1 2 5,ptrchase,Avg,74.65,MB/s,Max,74.67,MB/s,Min,74.58,MB/s
+memory interleaved on 0 1 2 5,ptrchase,Avg,69.93,MB/s,Max,69.94,MB/s,Min,69.91,MB/s
+memory interleaved on 3 5,ptrchase,Avg,65.45,MB/s,Max,65.47,MB/s,Min,65.45,MB/s
+memory interleaved on 0 3 5,ptrchase,Avg,63.05,MB/s,Max,63.06,MB/s,Min,63.04,MB/s
+memory interleaved on 1 3 5,ptrchase,Avg,68.15,MB/s,Max,68.16,MB/s,Min,68.15,MB/s
+memory interleaved on 0 1 3 5,ptrchase,Avg,65.52,MB/s,Max,65.53,MB/s,Min,65.51,MB/s
+memory interleaved on 2 3 5,ptrchase,Avg,67.92,MB/s,Max,67.94,MB/s,Min,67.87,MB/s
+memory interleaved on 0 2 3 5,ptrchase,Avg,65.35,MB/s,Max,65.36,MB/s,Min,65.27,MB/s
+memory interleaved on 1 2 3 5,ptrchase,Avg,69.35,MB/s,Max,69.37,MB/s,Min,69.34,MB/s
+memory interleaved on 0 1 2 3 5,ptrchase,Avg,66.99,MB/s,Max,67.00,MB/s,Min,66.98,MB/s
+memory interleaved on 4 5,ptrchase,Avg,65.47,MB/s,Max,65.49,MB/s,Min,65.45,MB/s
+memory interleaved on 0 4 5,ptrchase,Avg,63.04,MB/s,Max,63.06,MB/s,Min,63.00,MB/s
+memory interleaved on 1 4 5,ptrchase,Avg,68.17,MB/s,Max,68.19,MB/s,Min,68.12,MB/s
+memory interleaved on 0 1 4 5,ptrchase,Avg,65.52,MB/s,Max,65.53,MB/s,Min,65.47,MB/s
+memory interleaved on 2 4 5,ptrchase,Avg,67.98,MB/s,Max,67.98,MB/s,Min,67.97,MB/s
+memory interleaved on 0 2 4 5,ptrchase,Avg,65.38,MB/s,Max,65.39,MB/s,Min,65.38,MB/s
+memory interleaved on 1 2 4 5,ptrchase,Avg,69.39,MB/s,Max,69.40,MB/s,Min,69.38,MB/s
+memory interleaved on 0 1 2 4 5,ptrchase,Avg,67.01,MB/s,Max,67.03,MB/s,Min,66.96,MB/s
+memory interleaved on 3 4 5,ptrchase,Avg,62.85,MB/s,Max,62.86,MB/s,Min,62.82,MB/s
+memory interleaved on 0 3 4 5,ptrchase,Avg,61.80,MB/s,Max,61.81,MB/s,Min,61.79,MB/s
+memory interleaved on 1 3 4 5,ptrchase,Avg,65.36,MB/s,Max,65.37,MB/s,Min,65.35,MB/s
+memory interleaved on 0 1 3 4 5,ptrchase,Avg,63.87,MB/s,Max,63.88,MB/s,Min,63.86,MB/s
+memory interleaved on 2 3 4 5,ptrchase,Avg,65.20,MB/s,Max,65.21,MB/s,Min,65.19,MB/s
+memory interleaved on 0 2 3 4 5,ptrchase,Avg,63.75,MB/s,Max,63.77,MB/s,Min,63.72,MB/s
+memory interleaved on 1 2 3 4 5,ptrchase,Avg,66.87,MB/s,Max,66.88,MB/s,Min,66.85,MB/s
+memory interleaved on 0 1 2 3 4 5,ptrchase,Avg,65.32,MB/s,Max,65.33,MB/s,Min,65.31,MB/s
+memory interleaved on 0 6,ptrchase,Avg,67.32,MB/s,Max,67.33,MB/s,Min,67.30,MB/s
+memory interleaved on 1 6,ptrchase,Avg,77.25,MB/s,Max,77.26,MB/s,Min,77.24,MB/s
+memory interleaved on 0 1 6,ptrchase,Avg,69.86,MB/s,Max,69.87,MB/s,Min,69.84,MB/s
+memory interleaved on 2 6,ptrchase,Avg,76.89,MB/s,Max,76.90,MB/s,Min,76.87,MB/s
+memory interleaved on 0 2 6,ptrchase,Avg,69.65,MB/s,Max,69.65,MB/s,Min,69.64,MB/s
+memory interleaved on 1 2 6,ptrchase,Avg,75.94,MB/s,Max,75.96,MB/s,Min,75.87,MB/s
+memory interleaved on 0 1 2 6,ptrchase,Avg,70.76,MB/s,Max,70.77,MB/s,Min,70.75,MB/s
+memory interleaved on 3 6,ptrchase,Avg,66.97,MB/s,Max,66.98,MB/s,Min,66.96,MB/s
+memory interleaved on 0 3 6,ptrchase,Avg,63.98,MB/s,Max,63.99,MB/s,Min,63.96,MB/s
+memory interleaved on 1 3 6,ptrchase,Avg,69.22,MB/s,Max,69.23,MB/s,Min,69.21,MB/s
+memory interleaved on 0 1 3 6,ptrchase,Avg,66.25,MB/s,Max,66.26,MB/s,Min,66.25,MB/s
+memory interleaved on 2 3 6,ptrchase,Avg,69.01,MB/s,Max,69.01,MB/s,Min,69.00,MB/s
+memory interleaved on 0 2 3 6,ptrchase,Avg,66.10,MB/s,Max,66.11,MB/s,Min,66.09,MB/s
+memory interleaved on 1 2 3 6,ptrchase,Avg,70.18,MB/s,Max,70.19,MB/s,Min,70.18,MB/s
+memory interleaved on 0 1 2 3 6,ptrchase,Avg,67.63,MB/s,Max,67.65,MB/s,Min,67.62,MB/s
+memory interleaved on 4 6,ptrchase,Avg,66.99,MB/s,Max,67.00,MB/s,Min,66.99,MB/s
+memory interleaved on 0 4 6,ptrchase,Avg,63.96,MB/s,Max,63.97,MB/s,Min,63.96,MB/s
+memory interleaved on 1 4 6,ptrchase,Avg,69.24,MB/s,Max,69.25,MB/s,Min,69.23,MB/s
+memory interleaved on 0 1 4 6,ptrchase,Avg,66.25,MB/s,Max,66.26,MB/s,Min,66.25,MB/s
+memory interleaved on 2 4 6,ptrchase,Avg,69.05,MB/s,Max,69.07,MB/s,Min,69.04,MB/s
+memory interleaved on 0 2 4 6,ptrchase,Avg,66.11,MB/s,Max,66.12,MB/s,Min,66.11,MB/s
+memory interleaved on 1 2 4 6,ptrchase,Avg,70.21,MB/s,Max,70.22,MB/s,Min,70.21,MB/s
+memory interleaved on 0 1 2 4 6,ptrchase,Avg,67.65,MB/s,Max,67.66,MB/s,Min,67.64,MB/s
+memory interleaved on 3 4 6,ptrchase,Avg,63.77,MB/s,Max,63.78,MB/s,Min,63.76,MB/s
+memory interleaved on 0 3 4 6,ptrchase,Avg,62.46,MB/s,Max,62.47,MB/s,Min,62.45,MB/s
+memory interleaved on 1 3 4 6,ptrchase,Avg,66.09,MB/s,Max,66.10,MB/s,Min,66.09,MB/s
+memory interleaved on 0 1 3 4 6,ptrchase,Avg,64.45,MB/s,Max,64.46,MB/s,Min,64.44,MB/s
+memory interleaved on 2 3 4 6,ptrchase,Avg,65.94,MB/s,Max,65.95,MB/s,Min,65.94,MB/s
+memory interleaved on 0 2 3 4 6,ptrchase,Avg,64.34,MB/s,Max,64.35,MB/s,Min,64.33,MB/s
+memory interleaved on 1 2 3 4 6,ptrchase,Avg,67.50,MB/s,Max,67.51,MB/s,Min,67.50,MB/s
+memory interleaved on 0 1 2 3 4 6,ptrchase,Avg,65.80,MB/s,Max,65.82,MB/s,Min,65.76,MB/s
+memory interleaved on 5 6,ptrchase,Avg,76.80,MB/s,Max,76.81,MB/s,Min,76.79,MB/s
+memory interleaved on 0 5 6,ptrchase,Avg,69.62,MB/s,Max,69.63,MB/s,Min,69.61,MB/s
+memory interleaved on 1 5 6,ptrchase,Avg,75.91,MB/s,Max,75.92,MB/s,Min,75.90,MB/s
+memory interleaved on 0 1 5 6,ptrchase,Avg,70.74,MB/s,Max,70.76,MB/s,Min,70.73,MB/s
+memory interleaved on 2 5 6,ptrchase,Avg,75.67,MB/s,Max,75.69,MB/s,Min,75.66,MB/s
+memory interleaved on 0 2 5 6,ptrchase,Avg,70.58,MB/s,Max,70.59,MB/s,Min,70.57,MB/s
+memory interleaved on 1 2 5 6,ptrchase,Avg,75.26,MB/s,Max,75.28,MB/s,Min,75.25,MB/s
+memory interleaved on 0 1 2 5 6,ptrchase,Avg,71.16,MB/s,Max,71.17,MB/s,Min,71.15,MB/s
+memory interleaved on 3 5 6,ptrchase,Avg,69.37,MB/s,Max,69.38,MB/s,Min,69.36,MB/s
+memory interleaved on 0 3 5 6,ptrchase,Avg,66.42,MB/s,Max,66.42,MB/s,Min,66.41,MB/s
+memory interleaved on 1 3 5 6,ptrchase,Avg,70.54,MB/s,Max,70.56,MB/s,Min,70.54,MB/s
+memory interleaved on 0 1 3 5 6,ptrchase,Avg,67.62,MB/s,Max,67.63,MB/s,Min,67.62,MB/s
+memory interleaved on 2 3 5 6,ptrchase,Avg,70.37,MB/s,Max,70.39,MB/s,Min,70.36,MB/s
+memory interleaved on 0 2 3 5 6,ptrchase,Avg,67.51,MB/s,Max,67.52,MB/s,Min,67.50,MB/s
+memory interleaved on 1 2 3 5 6,ptrchase,Avg,70.99,MB/s,Max,71.01,MB/s,Min,70.96,MB/s
+memory interleaved on 0 1 2 3 5 6,ptrchase,Avg,68.75,MB/s,Max,68.77,MB/s,Min,68.71,MB/s
+memory interleaved on 4 5 6,ptrchase,Avg,69.37,MB/s,Max,69.39,MB/s,Min,69.34,MB/s
+memory interleaved on 0 4 5 6,ptrchase,Avg,66.41,MB/s,Max,66.43,MB/s,Min,66.37,MB/s
+memory interleaved on 1 4 5 6,ptrchase,Avg,70.55,MB/s,Max,70.57,MB/s,Min,70.50,MB/s
+memory interleaved on 0 1 4 5 6,ptrchase,Avg,67.62,MB/s,Max,67.64,MB/s,Min,67.57,MB/s
+memory interleaved on 2 4 5 6,ptrchase,Avg,70.40,MB/s,Max,70.41,MB/s,Min,70.39,MB/s
+memory interleaved on 0 2 4 5 6,ptrchase,Avg,67.52,MB/s,Max,67.53,MB/s,Min,67.49,MB/s
+memory interleaved on 1 2 4 5 6,ptrchase,Avg,71.01,MB/s,Max,71.03,MB/s,Min,70.96,MB/s
+memory interleaved on 0 1 2 4 5 6,ptrchase,Avg,68.77,MB/s,Max,68.78,MB/s,Min,68.76,MB/s
+memory interleaved on 3 4 5 6,ptrchase,Avg,66.25,MB/s,Max,66.26,MB/s,Min,66.24,MB/s
+memory interleaved on 0 3 4 5 6,ptrchase,Avg,64.64,MB/s,Max,64.64,MB/s,Min,64.59,MB/s
+memory interleaved on 1 3 4 5 6,ptrchase,Avg,67.84,MB/s,Max,67.85,MB/s,Min,67.81,MB/s
+memory interleaved on 0 1 3 4 5 6,ptrchase,Avg,66.11,MB/s,Max,66.12,MB/s,Min,66.08,MB/s
+memory interleaved on 2 3 4 5 6,ptrchase,Avg,67.71,MB/s,Max,67.72,MB/s,Min,67.68,MB/s
+memory interleaved on 0 2 3 4 5 6,ptrchase,Avg,66.01,MB/s,Max,66.03,MB/s,Min,65.96,MB/s
+memory interleaved on 1 2 3 4 5 6,ptrchase,Avg,68.64,MB/s,Max,68.65,MB/s,Min,68.63,MB/s
+memory interleaved on 0 1 2 3 4 5 6,ptrchase,Avg,66.96,MB/s,Max,66.97,MB/s,Min,66.94,MB/s
+memory interleaved on 0 7,ptrchase,Avg,79.12,MB/s,Max,79.14,MB/s,Min,79.11,MB/s
+memory interleaved on 1 7,ptrchase,Avg,92.89,MB/s,Max,92.92,MB/s,Min,92.79,MB/s
+memory interleaved on 0 1 7,ptrchase,Avg,77.79,MB/s,Max,77.80,MB/s,Min,77.76,MB/s
+memory interleaved on 2 7,ptrchase,Avg,92.35,MB/s,Max,92.36,MB/s,Min,92.32,MB/s
+memory interleaved on 0 2 7,ptrchase,Avg,77.52,MB/s,Max,77.53,MB/s,Min,77.47,MB/s
+memory interleaved on 1 2 7,ptrchase,Avg,85.34,MB/s,Max,85.35,MB/s,Min,85.27,MB/s
+memory interleaved on 0 1 2 7,ptrchase,Avg,76.68,MB/s,Max,76.68,MB/s,Min,76.67,MB/s
+memory interleaved on 3 7,ptrchase,Avg,78.69,MB/s,Max,78.71,MB/s,Min,78.59,MB/s
+memory interleaved on 0 3 7,ptrchase,Avg,70.66,MB/s,Max,70.67,MB/s,Min,70.66,MB/s
+memory interleaved on 1 3 7,ptrchase,Avg,77.05,MB/s,Max,77.07,MB/s,Min,76.99,MB/s
+memory interleaved on 0 1 3 7,ptrchase,Avg,71.46,MB/s,Max,71.47,MB/s,Min,71.45,MB/s
+memory interleaved on 2 3 7,ptrchase,Avg,76.75,MB/s,Max,76.76,MB/s,Min,76.74,MB/s
+memory interleaved on 0 2 3 7,ptrchase,Avg,71.27,MB/s,Max,71.28,MB/s,Min,71.26,MB/s
+memory interleaved on 1 2 3 7,ptrchase,Avg,76.00,MB/s,Max,76.02,MB/s,Min,75.95,MB/s
+memory interleaved on 0 1 2 3 7,ptrchase,Avg,72.07,MB/s,Max,72.09,MB/s,Min,72.06,MB/s
+memory interleaved on 4 7,ptrchase,Avg,78.65,MB/s,Max,78.68,MB/s,Min,78.60,MB/s
+memory interleaved on 0 4 7,ptrchase,Avg,70.63,MB/s,Max,70.65,MB/s,Min,70.57,MB/s
+memory interleaved on 1 4 7,ptrchase,Avg,77.05,MB/s,Max,77.06,MB/s,Min,77.04,MB/s
+memory interleaved on 0 1 4 7,ptrchase,Avg,71.45,MB/s,Max,71.46,MB/s,Min,71.44,MB/s
+memory interleaved on 2 4 7,ptrchase,Avg,76.81,MB/s,Max,76.82,MB/s,Min,76.80,MB/s
+memory interleaved on 0 2 4 7,ptrchase,Avg,71.29,MB/s,Max,71.30,MB/s,Min,71.28,MB/s
+memory interleaved on 1 2 4 7,ptrchase,Avg,76.04,MB/s,Max,76.05,MB/s,Min,76.04,MB/s
+memory interleaved on 0 1 2 4 7,ptrchase,Avg,72.09,MB/s,Max,72.10,MB/s,Min,72.08,MB/s
+memory interleaved on 3 4 7,ptrchase,Avg,47.93,MB/s,Max,70.42,MB/s,Min,14.13,MB/s
+memory interleaved on 0 3 4 7,ptrchase,Avg,61.08,MB/s,Max,69.70,MB/s,Min,54.34,MB/s
+memory interleaved on 1 3 4 7,ptrchase,Avg,66.12,MB/s,Max,76.45,MB/s,Min,57.90,MB/s
+memory interleaved on 0 1 3 4 7,ptrchase,Avg,59.28,MB/s,Max,69.57,MB/s,Min,47.58,MB/s
+memory interleaved on 2 3 4 7,ptrchase,Avg,66.33,MB/s,Max,83.47,MB/s,Min,58.40,MB/s
+memory interleaved on 0 2 3 4 7,ptrchase,Avg,72.85,MB/s,Max,80.68,MB/s,Min,62.21,MB/s
+memory interleaved on 1 2 3 4 7,ptrchase,Avg,72.54,MB/s,Max,76.10,MB/s,Min,65.67,MB/s
+memory interleaved on 0 1 2 3 4 7,ptrchase,Avg,75.18,MB/s,Max,75.38,MB/s,Min,75.02,MB/s
+memory interleaved on 5 7,ptrchase,Avg,66.40,MB/s,Max,67.46,MB/s,Min,65.40,MB/s
+memory interleaved on 0 5 7,ptrchase,Avg,65.87,MB/s,Max,67.83,MB/s,Min,59.33,MB/s
+memory interleaved on 1 5 7,ptrchase,Avg,63.70,MB/s,Max,64.02,MB/s,Min,61.10,MB/s
+memory interleaved on 0 1 5 7,ptrchase,Avg,63.48,MB/s,Max,65.20,MB/s,Min,57.74,MB/s
+memory interleaved on 2 5 7,ptrchase,Avg,69.20,MB/s,Max,69.21,MB/s,Min,69.18,MB/s
+memory interleaved on 0 2 5 7,ptrchase,Avg,68.69,MB/s,Max,69.71,MB/s,Min,62.40,MB/s
+memory interleaved on 1 2 5 7,ptrchase,Avg,67.66,MB/s,Max,70.76,MB/s,Min,65.74,MB/s
+memory interleaved on 0 1 2 5 7,ptrchase,Avg,70.46,MB/s,Max,70.64,MB/s,Min,70.39,MB/s
+memory interleaved on 3 5 7,ptrchase,Avg,68.60,MB/s,Max,69.67,MB/s,Min,61.25,MB/s
+memory interleaved on 0 3 5 7,ptrchase,Avg,69.14,MB/s,Max,70.72,MB/s,Min,60.90,MB/s
+memory interleaved on 1 3 5 7,ptrchase,Avg,69.37,MB/s,Max,70.64,MB/s,Min,59.84,MB/s
+memory interleaved on 0 1 3 5 7,ptrchase,Avg,64.33,MB/s,Max,64.49,MB/s,Min,64.25,MB/s
+memory interleaved on 2 3 5 7,ptrchase,Avg,62.72,MB/s,Max,65.71,MB/s,Min,54.05,MB/s
+memory interleaved on 0 2 3 5 7,ptrchase,Avg,65.06,MB/s,Max,65.34,MB/s,Min,64.85,MB/s
+memory interleaved on 1 2 3 5 7,ptrchase,Avg,69.66,MB/s,Max,69.73,MB/s,Min,69.59,MB/s
+memory interleaved on 0 1 2 3 5 7,ptrchase,Avg,69.65,MB/s,Max,70.80,MB/s,Min,62.26,MB/s
+memory interleaved on 4 5 7,ptrchase,Avg,71.03,MB/s,Max,77.19,MB/s,Min,59.12,MB/s
+memory interleaved on 0 4 5 7,ptrchase,Avg,71.51,MB/s,Max,71.71,MB/s,Min,71.31,MB/s
+memory interleaved on 1 4 5 7,ptrchase,Avg,76.14,MB/s,Max,76.36,MB/s,Min,76.09,MB/s
+memory interleaved on 0 1 4 5 7,ptrchase,Avg,71.77,MB/s,Max,71.81,MB/s,Min,71.74,MB/s
+memory interleaved on 2 4 5 7,ptrchase,Avg,84.06,MB/s,Max,84.08,MB/s,Min,84.05,MB/s
+memory interleaved on 0 2 4 5 7,ptrchase,Avg,77.03,MB/s,Max,77.15,MB/s,Min,76.86,MB/s
+memory interleaved on 1 2 4 5 7,ptrchase,Avg,76.20,MB/s,Max,76.83,MB/s,Min,71.03,MB/s
+memory interleaved on 0 1 2 4 5 7,ptrchase,Avg,73.50,MB/s,Max,73.51,MB/s,Min,73.49,MB/s
+memory interleaved on 3 4 5 7,ptrchase,Avg,84.01,MB/s,Max,84.04,MB/s,Min,83.93,MB/s
+memory interleaved on 0 3 4 5 7,ptrchase,Avg,66.79,MB/s,Max,71.23,MB/s,Min,60.43,MB/s
+memory interleaved on 1 3 4 5 7,ptrchase,Avg,75.38,MB/s,Max,75.42,MB/s,Min,75.35,MB/s
+memory interleaved on 0 1 3 4 5 7,ptrchase,Avg,68.20,MB/s,Max,72.25,MB/s,Min,65.65,MB/s
+memory interleaved on 2 3 4 5 7,ptrchase,Avg,59.39,MB/s,Max,60.22,MB/s,Min,53.00,MB/s
+memory interleaved on 0 2 3 4 5 7,ptrchase,Avg,79.82,MB/s,Max,79.94,MB/s,Min,79.71,MB/s
+memory interleaved on 1 2 3 4 5 7,ptrchase,Avg,75.04,MB/s,Max,76.85,MB/s,Min,62.21,MB/s
+memory interleaved on 0 1 2 3 4 5 7,ptrchase,Avg,67.18,MB/s,Max,72.95,MB/s,Min,59.11,MB/s
+memory interleaved on 6 7,ptrchase,Avg,58.61,MB/s,Max,58.62,MB/s,Min,58.59,MB/s
+memory interleaved on 0 6 7,ptrchase,Avg,58.51,MB/s,Max,58.72,MB/s,Min,58.38,MB/s
+memory interleaved on 1 6 7,ptrchase,Avg,62.91,MB/s,Max,62.93,MB/s,Min,62.90,MB/s
+memory interleaved on 0 1 6 7,ptrchase,Avg,73.15,MB/s,Max,76.91,MB/s,Min,61.48,MB/s
+memory interleaved on 2 6 7,ptrchase,Avg,62.93,MB/s,Max,62.96,MB/s,Min,62.89,MB/s
+memory interleaved on 0 2 6 7,ptrchase,Avg,64.83,MB/s,Max,66.03,MB/s,Min,62.34,MB/s
+memory interleaved on 1 2 6 7,ptrchase,Avg,66.38,MB/s,Max,70.09,MB/s,Min,65.94,MB/s
+memory interleaved on 0 1 2 6 7,ptrchase,Avg,75.95,MB/s,Max,76.12,MB/s,Min,75.79,MB/s
+memory interleaved on 3 6 7,ptrchase,Avg,73.84,MB/s,Max,75.82,MB/s,Min,59.85,MB/s
+memory interleaved on 0 3 6 7,ptrchase,Avg,74.72,MB/s,Max,74.89,MB/s,Min,74.53,MB/s
+memory interleaved on 1 3 6 7,ptrchase,Avg,70.48,MB/s,Max,70.52,MB/s,Min,70.42,MB/s
+memory interleaved on 0 1 3 6 7,ptrchase,Avg,70.11,MB/s,Max,71.19,MB/s,Min,62.79,MB/s
+memory interleaved on 2 3 6 7,ptrchase,Avg,81.80,MB/s,Max,82.98,MB/s,Min,72.73,MB/s
+memory interleaved on 0 2 3 6 7,ptrchase,Avg,78.81,MB/s,Max,80.57,MB/s,Min,69.04,MB/s
+memory interleaved on 1 2 3 6 7,ptrchase,Avg,76.07,MB/s,Max,76.13,MB/s,Min,75.97,MB/s
+memory interleaved on 0 1 2 3 6 7,ptrchase,Avg,75.20,MB/s,Max,76.04,MB/s,Min,70.25,MB/s
+memory interleaved on 4 6 7,ptrchase,Avg,71.62,MB/s,Max,76.48,MB/s,Min,65.40,MB/s
+memory interleaved on 0 4 6 7,ptrchase,Avg,75.73,MB/s,Max,76.19,MB/s,Min,75.58,MB/s
+memory interleaved on 1 4 6 7,ptrchase,Avg,77.49,MB/s,Max,77.53,MB/s,Min,77.46,MB/s
+memory interleaved on 0 1 4 6 7,ptrchase,Avg,76.20,MB/s,Max,76.93,MB/s,Min,75.46,MB/s
+memory interleaved on 2 4 6 7,ptrchase,Avg,73.45,MB/s,Max,77.42,MB/s,Min,69.87,MB/s
+memory interleaved on 0 2 4 6 7,ptrchase,Avg,72.72,MB/s,Max,72.73,MB/s,Min,72.71,MB/s
+memory interleaved on 1 2 4 6 7,ptrchase,Avg,76.77,MB/s,Max,76.79,MB/s,Min,76.73,MB/s
+memory interleaved on 0 1 2 4 6 7,ptrchase,Avg,73.07,MB/s,Max,73.08,MB/s,Min,73.03,MB/s
+memory interleaved on 3 4 6 7,ptrchase,Avg,72.48,MB/s,Max,72.49,MB/s,Min,72.43,MB/s
+memory interleaved on 0 3 4 6 7,ptrchase,Avg,69.42,MB/s,Max,69.43,MB/s,Min,69.39,MB/s
+memory interleaved on 1 3 4 6 7,ptrchase,Avg,73.09,MB/s,Max,73.11,MB/s,Min,73.05,MB/s
+memory interleaved on 0 1 3 4 6 7,ptrchase,Avg,70.10,MB/s,Max,70.12,MB/s,Min,70.06,MB/s
+memory interleaved on 2 3 4 6 7,ptrchase,Avg,72.95,MB/s,Max,72.96,MB/s,Min,72.94,MB/s
+memory interleaved on 0 2 3 4 6 7,ptrchase,Avg,70.00,MB/s,Max,70.01,MB/s,Min,69.99,MB/s
+memory interleaved on 1 2 3 4 6 7,ptrchase,Avg,72.94,MB/s,Max,72.96,MB/s,Min,72.90,MB/s
+memory interleaved on 0 1 2 3 4 6 7,ptrchase,Avg,70.44,MB/s,Max,70.45,MB/s,Min,70.40,MB/s
+memory interleaved on 5 6 7,ptrchase,Avg,86.92,MB/s,Max,86.93,MB/s,Min,86.86,MB/s
+memory interleaved on 0 5 6 7,ptrchase,Avg,77.61,MB/s,Max,77.62,MB/s,Min,77.60,MB/s
+memory interleaved on 1 5 6 7,ptrchase,Avg,83.28,MB/s,Max,83.29,MB/s,Min,83.28,MB/s
+memory interleaved on 0 1 5 6 7,ptrchase,Avg,76.92,MB/s,Max,76.93,MB/s,Min,76.91,MB/s
+memory interleaved on 2 5 6 7,ptrchase,Avg,83.07,MB/s,Max,83.08,MB/s,Min,83.06,MB/s
+memory interleaved on 0 2 5 6 7,ptrchase,Avg,76.78,MB/s,Max,76.79,MB/s,Min,76.77,MB/s
+memory interleaved on 1 2 5 6 7,ptrchase,Avg,81.31,MB/s,Max,81.32,MB/s,Min,81.23,MB/s
+memory interleaved on 0 1 2 5 6 7,ptrchase,Avg,76.29,MB/s,Max,76.31,MB/s,Min,76.19,MB/s
+memory interleaved on 3 5 6 7,ptrchase,Avg,77.40,MB/s,Max,77.41,MB/s,Min,77.39,MB/s
+memory interleaved on 0 3 5 6 7,ptrchase,Avg,73.10,MB/s,Max,73.13,MB/s,Min,73.02,MB/s
+memory interleaved on 1 3 5 6 7,ptrchase,Avg,77.20,MB/s,Max,77.21,MB/s,Min,77.19,MB/s
+memory interleaved on 0 1 3 5 6 7,ptrchase,Avg,73.06,MB/s,Max,73.08,MB/s,Min,73.00,MB/s
+memory interleaved on 2 3 5 6 7,ptrchase,Avg,77.03,MB/s,Max,77.03,MB/s,Min,77.02,MB/s
+memory interleaved on 0 2 3 5 6 7,ptrchase,Avg,72.94,MB/s,Max,72.97,MB/s,Min,72.86,MB/s
+memory interleaved on 1 2 3 5 6 7,ptrchase,Avg,76.15,MB/s,Max,76.16,MB/s,Min,76.05,MB/s
+memory interleaved on 0 1 2 3 5 6 7,ptrchase,Avg,73.03,MB/s,Max,73.04,MB/s,Min,72.97,MB/s
+memory interleaved on 4 5 6 7,ptrchase,Avg,77.39,MB/s,Max,77.40,MB/s,Min,77.38,MB/s
+memory interleaved on 0 4 5 6 7,ptrchase,Avg,73.10,MB/s,Max,73.11,MB/s,Min,73.09,MB/s
+memory interleaved on 1 4 5 6 7,ptrchase,Avg,77.18,MB/s,Max,77.20,MB/s,Min,77.10,MB/s
+memory interleaved on 0 1 4 5 6 7,ptrchase,Avg,73.05,MB/s,Max,73.07,MB/s,Min,72.97,MB/s
+memory interleaved on 2 4 5 6 7,ptrchase,Avg,77.04,MB/s,Max,77.06,MB/s,Min,77.03,MB/s
+memory interleaved on 0 2 4 5 6 7,ptrchase,Avg,72.95,MB/s,Max,72.96,MB/s,Min,72.91,MB/s
+memory interleaved on 1 2 4 5 6 7,ptrchase,Avg,76.15,MB/s,Max,76.18,MB/s,Min,76.07,MB/s
+memory interleaved on 0 1 2 4 5 6 7,ptrchase,Avg,73.04,MB/s,Max,73.05,MB/s,Min,73.03,MB/s
+memory interleaved on 3 4 5 6 7,ptrchase,Avg,72.95,MB/s,Max,72.96,MB/s,Min,72.94,MB/s
+memory interleaved on 0 3 4 5 6 7,ptrchase,Avg,69.99,MB/s,Max,70.00,MB/s,Min,69.97,MB/s
+memory interleaved on 1 3 4 5 6 7,ptrchase,Avg,72.93,MB/s,Max,72.95,MB/s,Min,72.84,MB/s
+memory interleaved on 0 1 3 4 5 6 7,ptrchase,Avg,70.44,MB/s,Max,70.44,MB/s,Min,70.43,MB/s
+memory interleaved on 2 3 4 5 6 7,ptrchase,Avg,72.81,MB/s,Max,72.83,MB/s,Min,72.73,MB/s
+memory interleaved on 0 2 3 4 5 6 7,ptrchase,Avg,70.34,MB/s,Max,70.35,MB/s,Min,70.28,MB/s
+memory interleaved on 1 2 3 4 5 6 7,ptrchase,Avg,72.92,MB/s,Max,72.93,MB/s,Min,72.92,MB/s
+memory interleaved on 0 1 2 3 4 5 6 7,ptrchase,Avg,70.85,MB/s,Max,70.87,MB/s,Min,70.81,MB/s
+setting preferred node to 0
+memory without policy,ptrchase,Avg,59.01,MB/s,Max,59.02,MB/s,Min,59.01,MB/s
+setting preferred node to 1
+memory without policy,ptrchase,Avg,76.34,MB/s,Max,76.36,MB/s,Min,76.28,MB/s
+setting preferred node to 2
+memory without policy,ptrchase,Avg,75.58,MB/s,Max,75.59,MB/s,Min,75.56,MB/s
+setting preferred node to 3
+memory without policy,ptrchase,Avg,58.52,MB/s,Max,58.53,MB/s,Min,58.49,MB/s
+setting preferred node to 4
+memory without policy,ptrchase,Avg,58.58,MB/s,Max,58.59,MB/s,Min,58.58,MB/s
+setting preferred node to 5
+memory without policy,ptrchase,Avg,75.49,MB/s,Max,75.51,MB/s,Min,75.48,MB/s
+setting preferred node to 6
+memory without policy,ptrchase,Avg,79.78,MB/s,Max,79.81,MB/s,Min,79.71,MB/s
+setting preferred node to 7
+memory without policy,ptrchase,Avg,124.37,MB/s,Max,124.40,MB/s,Min,124.34,MB/s
+manual interleaving to all nodes,ptrchase,Avg,70.84,MB/s,Max,70.85,MB/s,Min,70.78,MB/s
+manual interleaving on node 0/1,ptrchase,Avg,66.12,MB/s,Max,66.14,MB/s,Min,66.11,MB/s
+current interleave node 0
+running on node 0, preferred node 0
+local memory,ptrchase,Avg,124.24,MB/s,Max,124.34,MB/s,Min,123.57,MB/s
+memory interleaved on all nodes,ptrchase,Avg,70.86,MB/s,Max,70.87,MB/s,Min,70.82,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,97.03,MB/s,Max,97.06,MB/s,Min,97.01,MB/s
+alloc on node 1,ptrchase,Avg,80.53,MB/s,Max,80.54,MB/s,Min,80.51,MB/s
+alloc on node 2,ptrchase,Avg,75.51,MB/s,Max,75.55,MB/s,Min,75.27,MB/s
+alloc on node 3,ptrchase,Avg,58.57,MB/s,Max,58.60,MB/s,Min,58.40,MB/s
+alloc on node 4,ptrchase,Avg,75.88,MB/s,Max,75.90,MB/s,Min,75.87,MB/s
+alloc on node 5,ptrchase,Avg,58.14,MB/s,Max,58.15,MB/s,Min,58.13,MB/s
+alloc on node 6,ptrchase,Avg,75.84,MB/s,Max,75.86,MB/s,Min,75.77,MB/s
+alloc on node 7,ptrchase,Avg,59.07,MB/s,Max,59.08,MB/s,Min,59.06,MB/s
+local allocation,ptrchase,Avg,124.31,MB/s,Max,124.35,MB/s,Min,124.22,MB/s
+setting wrong preferred node,ptrchase,Avg,80.53,MB/s,Max,80.54,MB/s,Min,80.52,MB/s
+setting correct preferred node,ptrchase,Avg,124.31,MB/s,Max,124.34,MB/s,Min,124.25,MB/s
+running on node 1, preferred node 0
+local memory,ptrchase,Avg,125.14,MB/s,Max,125.17,MB/s,Min,125.09,MB/s
+memory interleaved on all nodes,ptrchase,Avg,70.40,MB/s,Max,70.42,MB/s,Min,70.32,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,96.17,MB/s,Max,96.20,MB/s,Min,96.10,MB/s
+alloc on node 0,ptrchase,Avg,80.23,MB/s,Max,80.25,MB/s,Min,80.13,MB/s
+alloc on node 2,ptrchase,Avg,58.74,MB/s,Max,58.75,MB/s,Min,58.68,MB/s
+alloc on node 3,ptrchase,Avg,75.72,MB/s,Max,75.74,MB/s,Min,75.62,MB/s
+alloc on node 4,ptrchase,Avg,75.50,MB/s,Max,75.51,MB/s,Min,75.49,MB/s
+alloc on node 5,ptrchase,Avg,58.09,MB/s,Max,58.10,MB/s,Min,58.08,MB/s
+alloc on node 6,ptrchase,Avg,58.61,MB/s,Max,58.63,MB/s,Min,58.58,MB/s
+alloc on node 7,ptrchase,Avg,76.23,MB/s,Max,76.24,MB/s,Min,76.17,MB/s
+local allocation,ptrchase,Avg,125.11,MB/s,Max,125.17,MB/s,Min,124.87,MB/s
+setting wrong preferred node,ptrchase,Avg,58.74,MB/s,Max,58.75,MB/s,Min,58.74,MB/s
+setting correct preferred node,ptrchase,Avg,125.13,MB/s,Max,125.16,MB/s,Min,124.97,MB/s
+running on node 2, preferred node 0
+local memory,ptrchase,Avg,124.75,MB/s,Max,124.78,MB/s,Min,124.71,MB/s
+memory interleaved on all nodes,ptrchase,Avg,76.39,MB/s,Max,76.40,MB/s,Min,76.38,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,66.13,MB/s,Max,66.14,MB/s,Min,66.12,MB/s
+alloc on node 0,ptrchase,Avg,75.60,MB/s,Max,75.61,MB/s,Min,75.58,MB/s
+alloc on node 1,ptrchase,Avg,58.99,MB/s,Max,59.01,MB/s,Min,58.94,MB/s
+alloc on node 3,ptrchase,Avg,80.24,MB/s,Max,80.26,MB/s,Min,80.16,MB/s
+alloc on node 4,ptrchase,Avg,77.16,MB/s,Max,77.18,MB/s,Min,77.08,MB/s
+alloc on node 5,ptrchase,Avg,76.82,MB/s,Max,76.84,MB/s,Min,76.78,MB/s
+alloc on node 6,ptrchase,Avg,75.54,MB/s,Max,75.55,MB/s,Min,75.53,MB/s
+alloc on node 7,ptrchase,Avg,75.88,MB/s,Max,75.89,MB/s,Min,75.84,MB/s
+local allocation,ptrchase,Avg,124.74,MB/s,Max,124.78,MB/s,Min,124.70,MB/s
+setting wrong preferred node,ptrchase,Avg,80.25,MB/s,Max,80.26,MB/s,Min,80.24,MB/s
+setting correct preferred node,ptrchase,Avg,124.74,MB/s,Max,124.78,MB/s,Min,124.70,MB/s
+running on node 3, preferred node 0
+local memory,ptrchase,Avg,124.46,MB/s,Max,124.48,MB/s,Min,124.44,MB/s
+memory interleaved on all nodes,ptrchase,Avg,71.01,MB/s,Max,71.02,MB/s,Min,71.00,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,65.55,MB/s,Max,65.56,MB/s,Min,65.52,MB/s
+alloc on node 0,ptrchase,Avg,58.61,MB/s,Max,58.61,MB/s,Min,58.60,MB/s
+alloc on node 1,ptrchase,Avg,75.75,MB/s,Max,75.76,MB/s,Min,75.74,MB/s
+alloc on node 2,ptrchase,Avg,79.88,MB/s,Max,79.89,MB/s,Min,79.87,MB/s
+alloc on node 4,ptrchase,Avg,76.19,MB/s,Max,76.21,MB/s,Min,76.15,MB/s
+alloc on node 5,ptrchase,Avg,76.87,MB/s,Max,76.89,MB/s,Min,76.86,MB/s
+alloc on node 6,ptrchase,Avg,58.64,MB/s,Max,58.65,MB/s,Min,58.63,MB/s
+alloc on node 7,ptrchase,Avg,58.81,MB/s,Max,58.82,MB/s,Min,58.80,MB/s
+local allocation,ptrchase,Avg,124.46,MB/s,Max,124.49,MB/s,Min,124.43,MB/s
+setting wrong preferred node,ptrchase,Avg,76.20,MB/s,Max,76.21,MB/s,Min,76.19,MB/s
+setting correct preferred node,ptrchase,Avg,124.45,MB/s,Max,124.48,MB/s,Min,124.43,MB/s
+running on node 4, preferred node 0
+local memory,ptrchase,Avg,124.43,MB/s,Max,124.49,MB/s,Min,124.21,MB/s
+memory interleaved on all nodes,ptrchase,Avg,75.54,MB/s,Max,75.56,MB/s,Min,75.49,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,74.86,MB/s,Max,74.87,MB/s,Min,74.81,MB/s
+alloc on node 0,ptrchase,Avg,75.48,MB/s,Max,75.49,MB/s,Min,75.46,MB/s
+alloc on node 1,ptrchase,Avg,75.65,MB/s,Max,75.67,MB/s,Min,75.57,MB/s
+alloc on node 2,ptrchase,Avg,76.78,MB/s,Max,76.80,MB/s,Min,76.77,MB/s
+alloc on node 3,ptrchase,Avg,76.09,MB/s,Max,76.12,MB/s,Min,75.97,MB/s
+alloc on node 5,ptrchase,Avg,80.21,MB/s,Max,80.23,MB/s,Min,80.20,MB/s
+alloc on node 6,ptrchase,Avg,75.38,MB/s,Max,75.41,MB/s,Min,75.29,MB/s
+alloc on node 7,ptrchase,Avg,58.55,MB/s,Max,58.56,MB/s,Min,58.51,MB/s
+local allocation,ptrchase,Avg,124.46,MB/s,Max,124.49,MB/s,Min,124.42,MB/s
+setting wrong preferred node,ptrchase,Avg,80.22,MB/s,Max,80.24,MB/s,Min,80.20,MB/s
+setting correct preferred node,ptrchase,Avg,124.46,MB/s,Max,124.49,MB/s,Min,124.43,MB/s
+running on node 5, preferred node 0
+local memory,ptrchase,Avg,124.35,MB/s,Max,124.39,MB/s,Min,124.16,MB/s
+memory interleaved on all nodes,ptrchase,Avg,70.98,MB/s,Max,70.99,MB/s,Min,70.97,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,58.63,MB/s,Max,58.64,MB/s,Min,58.63,MB/s
+alloc on node 0,ptrchase,Avg,58.65,MB/s,Max,58.66,MB/s,Min,58.64,MB/s
+alloc on node 1,ptrchase,Avg,58.67,MB/s,Max,58.68,MB/s,Min,58.62,MB/s
+alloc on node 2,ptrchase,Avg,76.64,MB/s,Max,76.66,MB/s,Min,76.60,MB/s
+alloc on node 3,ptrchase,Avg,76.69,MB/s,Max,76.72,MB/s,Min,76.61,MB/s
+alloc on node 4,ptrchase,Avg,80.23,MB/s,Max,80.24,MB/s,Min,80.22,MB/s
+alloc on node 6,ptrchase,Avg,58.64,MB/s,Max,58.65,MB/s,Min,58.62,MB/s
+alloc on node 7,ptrchase,Avg,75.41,MB/s,Max,75.43,MB/s,Min,75.37,MB/s
+local allocation,ptrchase,Avg,124.37,MB/s,Max,124.40,MB/s,Min,124.26,MB/s
+setting wrong preferred node,ptrchase,Avg,58.64,MB/s,Max,58.65,MB/s,Min,58.60,MB/s
+setting correct preferred node,ptrchase,Avg,124.37,MB/s,Max,124.39,MB/s,Min,124.34,MB/s
+running on node 6, preferred node 0
+local memory,ptrchase,Avg,123.60,MB/s,Max,123.63,MB/s,Min,123.56,MB/s
+memory interleaved on all nodes,ptrchase,Avg,70.85,MB/s,Max,70.86,MB/s,Min,70.84,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,66.18,MB/s,Max,66.19,MB/s,Min,66.17,MB/s
+alloc on node 0,ptrchase,Avg,75.88,MB/s,Max,75.90,MB/s,Min,75.87,MB/s
+alloc on node 1,ptrchase,Avg,58.86,MB/s,Max,58.88,MB/s,Min,58.84,MB/s
+alloc on node 2,ptrchase,Avg,75.69,MB/s,Max,75.72,MB/s,Min,75.61,MB/s
+alloc on node 3,ptrchase,Avg,58.41,MB/s,Max,58.42,MB/s,Min,58.39,MB/s
+alloc on node 4,ptrchase,Avg,75.92,MB/s,Max,75.94,MB/s,Min,75.88,MB/s
+alloc on node 5,ptrchase,Avg,58.80,MB/s,Max,58.81,MB/s,Min,58.79,MB/s
+alloc on node 7,ptrchase,Avg,80.22,MB/s,Max,80.23,MB/s,Min,80.14,MB/s
+local allocation,ptrchase,Avg,123.61,MB/s,Max,123.63,MB/s,Min,123.59,MB/s
+setting wrong preferred node,ptrchase,Avg,80.21,MB/s,Max,80.23,MB/s,Min,80.08,MB/s
+setting correct preferred node,ptrchase,Avg,123.60,MB/s,Max,123.64,MB/s,Min,123.57,MB/s
+running on node 7, preferred node 0
+local memory,ptrchase,Avg,124.34,MB/s,Max,124.39,MB/s,Min,124.12,MB/s
+memory interleaved on all nodes,ptrchase,Avg,70.85,MB/s,Max,70.86,MB/s,Min,70.84,MB/s
+memory interleaved on node 0/1,ptrchase,Avg,66.13,MB/s,Max,66.14,MB/s,Min,66.09,MB/s
+alloc on node 0,ptrchase,Avg,59.02,MB/s,Max,59.03,MB/s,Min,58.98,MB/s
+alloc on node 1,ptrchase,Avg,76.35,MB/s,Max,76.37,MB/s,Min,76.31,MB/s
+alloc on node 2,ptrchase,Avg,75.57,MB/s,Max,75.59,MB/s,Min,75.56,MB/s
+alloc on node 3,ptrchase,Avg,58.52,MB/s,Max,58.53,MB/s,Min,58.48,MB/s
+alloc on node 4,ptrchase,Avg,58.58,MB/s,Max,58.59,MB/s,Min,58.58,MB/s
+alloc on node 5,ptrchase,Avg,75.49,MB/s,Max,75.51,MB/s,Min,75.44,MB/s
+alloc on node 6,ptrchase,Avg,79.78,MB/s,Max,79.80,MB/s,Min,79.71,MB/s
+local allocation,ptrchase,Avg,124.36,MB/s,Max,124.40,MB/s,Min,124.21,MB/s
+setting wrong preferred node,ptrchase,Avg,59.02,MB/s,Max,59.02,MB/s,Min,59.01,MB/s
+setting correct preferred node,ptrchase,Avg,124.36,MB/s,Max,124.40,MB/s,Min,124.34,MB/s

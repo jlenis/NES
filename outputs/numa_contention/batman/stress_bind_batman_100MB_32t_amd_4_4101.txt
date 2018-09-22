@@ -1,0 +1,38 @@
+entra aquíArchitecture: amd
+num cpus: 32
+numa available: 0
+array size: 104857600 
+x size: 838860800 
+
+all-contention tid: 0  core 0 -> core 0 : BW 499.376 MB/s
+all-contention tid: 1  core 1 -> core 0 : BW 499.376 MB/s
+all-contention tid: 2  core 2 -> core 0 : BW 499.347 MB/s
+all-contention tid: 3  core 3 -> core 0 : BW 499.35 MB/s
+all-contention tid: 4  core 4 -> core 0 : BW 499.357 MB/s
+all-contention tid: 5  core 5 -> core 0 : BW 499.342 MB/s
+all-contention tid: 6  core 6 -> core 0 : BW 499.346 MB/s
+all-contention tid: 7  core 7 -> core 0 : BW 499.35 MB/s
+all-contention tid: 8  core 8 -> core 0 : BW 493.533 MB/s
+all-contention tid: 9  core 9 -> core 0 : BW 493.532 MB/s
+all-contention tid: 10  core 10 -> core 0 : BW 493.532 MB/s
+all-contention tid: 11  core 11 -> core 0 : BW 493.529 MB/s
+all-contention tid: 12  core 12 -> core 0 : BW 493.566 MB/s
+all-contention tid: 13  core 13 -> core 0 : BW 493.527 MB/s
+all-contention tid: 14  core 14 -> core 0 : BW 493.549 MB/s
+all-contention tid: 15  core 15 -> core 0 : BW 493.528 MB/s
+all-contention tid: 16  core 16 -> core 0 : BW 494.425 MB/s
+all-contention tid: 17  core 17 -> core 0 : BW 494.425 MB/s
+all-contention tid: 18  core 18 -> core 0 : BW 494.437 MB/s
+all-contention tid: 19  core 19 -> core 0 : BW 494.451 MB/s
+all-contention tid: 20  core 20 -> core 0 : BW 494.403 MB/s
+all-contention tid: 21  core 21 -> core 0 : BW 494.451 MB/s
+all-contention tid: 22  core 22 -> core 0 : BW 494.442 MB/s
+all-contention tid: 23  core 23 -> core 0 : BW 494.443 MB/s
+all-contention tid: 24  core 24 -> core 0 : BW 489.945 MB/s
+all-contention tid: 25  core 25 -> core 0 : BW 489.987 MB/s
+all-contention tid: 26  core 26 -> core 0 : BW 489.965 MB/s
+all-contention tid: 27  core 27 -> core 0 : BW 489.964 MB/s
+all-contention tid: 28  core 28 -> core 0 : BW 489.978 MB/s
+all-contention tid: 29  core 29 -> core 0 : BW 489.999 MB/s
+all-contention tid: 30  core 30 -> core 0 : BW 489.934 MB/s
+all-contention tid: 31  core 31 -> core 0 : BW 490.01 MB/s
